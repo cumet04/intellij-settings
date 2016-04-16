@@ -8,13 +8,16 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460812929290">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/models/project.rb" timestamp="1460711403577" />
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/config/application.rb" timestamp="1460710777870" />
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -122,10 +125,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
@@ -134,31 +137,31 @@
         <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdHlwZTogJ0dFVCcsCiAgICAgICAgdXJsOiAnPCU9IGFwaV9wcm9qZWN0c19wYXRoICU+LycgKyBwaWQgKyAnL2NvdW50X3VwJwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
+        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dmFyIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>title</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpdGxlID0gJCh4bWwpLmZpbmQoImhlYWQiKS5pbm5lclRleHQ7Cg==</text>
+        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAo=</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
