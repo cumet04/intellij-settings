@@ -8,10 +8,17 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460812929290">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
@@ -22,6 +29,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460817778863">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -65,6 +78,10 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
         <mark key="'" line="127" column="0" />
@@ -124,44 +141,44 @@
       <jump line="68" column="20" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
+      <register name="&quot;" type="4">
+        <text>tw_keys</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tw_keys</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdHlwZTogJ0dFVCcsCiAgICAgICAgdXJsOiAnPCU9IGFwaV9wcm9qZWN0c19wYXRoICU+LycgKyBwaWQgKyAnL2NvdW50X3VwJwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAjIENhbGwgJ2J5ZWJ1ZycgYW55d2hlcmUgaW4gdGhlIGNvZGUgdG8gc3RvcCBleGVjdXRpb24gYW5kIGdldCBhIGRlYnVnZ2VyIGNvbnNvbGUK</text>
+      <register name="1" type="4">
+        <text>tw_keys</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
+      <register name="2" type="4">
+        <text>`</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>res</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIEFjY2VzcyBhbiBJUkIgY29uc29sZSBvbiBleGNlcHRpb24gcGFnZXMgb3IgYnkgdXNpbmcgPCU9IGNvbnNvbGUgJT4gaW4gdmlld3MK</text>
+        <text encoding="base64">ICAgICAgcHV0cyAnYWFhYWFhYScK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAo=</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
+      <register name="6" type="4">
         <text>#</text>
+      </register>
+      <register name="7" type="4">
+        <text>aaaa</text>
+      </register>
+      <register name="8" type="4">
+        <text>tw_client</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
