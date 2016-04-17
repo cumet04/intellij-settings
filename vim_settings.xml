@@ -30,11 +30,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460817778863">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460877945419">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -72,6 +72,9 @@
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
         <mark key="'" line="205" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee" timestamp="1460704141292">
         <mark key="[" line="4" column="0" />
@@ -139,13 +142,15 @@
       <jump line="46" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="68" column="20" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tw_keys</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>tw_keys</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
@@ -154,31 +159,31 @@
         <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
       </register>
       <register name="1" type="4">
-        <text>tw_keys</text>
-      </register>
-      <register name="2" type="4">
-        <text>`</text>
-      </register>
-      <register name="3" type="4">
-        <text>res</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAnYWFhYWFhYScK</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="2" type="4">
         <text>#</text>
       </register>
-      <register name="7" type="4">
-        <text>aaaa</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiBAdHdfY2xpZW50Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>#</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">UmFpbHMuYXBwbGljYXRpb24uY29uZmlnLnR3X2tleXMgPSAnYWFhYScK</text>
       </register>
       <register name="8" type="4">
-        <text>tw_client</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
