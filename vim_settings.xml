@@ -8,13 +8,23 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1460902161616">
+        <mark key="'" line="296" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1460901866878">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/models/project.rb" timestamp="1460711403577" />
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/config/application.rb" timestamp="1460710777870" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1460902193242">
+        <mark key="'" line="266" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -56,6 +66,9 @@
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
         <mark key="'" line="205" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1460902179333">
+        <mark key="'" line="42" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee" timestamp="1460704141292">
         <mark key="[" line="4" column="0" />
@@ -119,10 +132,13 @@
       <jump line="46" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="68" column="20" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
+      <jump line="269" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="296" column="10" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="42" column="10" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFyIA==</text>
@@ -134,31 +150,31 @@
         <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdHlwZTogJ0dFVCcsCiAgICAgICAgdXJsOiAnPCU9IGFwaV9wcm9qZWN0c19wYXRoICU+LycgKyBwaWQgKyAnL2NvdW50X3VwJwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">YQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBhYWEK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>title</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpdGxlID0gJCh4bWwpLmZpbmQoImhlYWQiKS5pbm5lclRleHQ7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
-      <register name="9" type="4">
-        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
