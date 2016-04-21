@@ -31,8 +31,10 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1461247187452">
         <mark key="'" line="30" column="27" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="31" column="35" />
         <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
@@ -92,11 +94,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461246204143">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461247203494">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -190,17 +192,17 @@
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGF0dHJfcmVhZGVyIDpmaWx0ZXJfbGV2ZWwsIDppbl9yZXBseV90b19zY3JlZW5fbmFtZSwgOmxhbmcsIDpzb3VyY2UsIDp0ZXh0CiAgICAjIEByZXR1cm4gW0ludGVnZXJdCiAgICBhdHRyX3JlYWRlciA6ZmF2b3JpdGVfY291bnQsIDppbl9yZXBseV90b19zdGF0dXNfaWQsIDppbl9yZXBseV90b191c2VyX2lkLAogICAgICAgICAgICAgICAgOnJldHdlZXRfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVzX2NvdW50LCA6ZmF2b3JpdGVfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVyc19jb3VudCwgOmZhdm9yaXRlX2NvdW50CiAgICBhbGlhcyBpbl9yZXBseV90b190d2VldF9pZCBpbl9yZXBseV90b19zdGF0dXNfaWQKICAgIGFsaWFzIHJlcGx5PyBpbl9yZXBseV90b191c2VyX2lkPwogICAgZGVwcmVjYXRlX2FsaWFzIDpyZXR3ZWV0ZXJzX2NvdW50LCA6cmV0d2VldF9jb3VudAogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpHZW9GYWN0b3J5LCA6Z2VvCiAgICBvYmplY3RfYXR0cl9yZWFkZXIgOk1ldGFkYXRhLCA6bWV0YWRhdGEKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6UGxhY2UsIDpwbGFjZQogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpUd2VldCwgOnJldHdlZXRlZF9zdGF0dXMKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VHdlZXQsIDpxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyByZXR3ZWV0ZWRfdHdlZXQgcmV0d2VldGVkX3N0YXR1cwogICAgYWxpYXMgcmV0d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHJldHdlZXRlZF90d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldCBxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyBxdW90ZT8gcXVvdGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldD8gcXVvdGVkX3N0YXR1cz8KICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VXNlciwgOnVzZXIsIDpzdGF0dXMKICAgIHByZWRpY2F0ZV9hdHRyX3JlYWRlciA6ZmF2b3JpdGVkLCA6cG9zc2libHlfc2Vuc2l0aXZlLCA6cmV0d2VldGVkLAogICAgICAgICAgICAgICAgICAgICAgICAgIDp0cnVuY2F0ZWQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>favorited</text>
+        <text>created</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
+        <text encoding="base64">ICAgIGF0dHJfcmVhZGVyIDpmaWx0ZXJfbGV2ZWwsIDppbl9yZXBseV90b19zY3JlZW5fbmFtZSwgOmxhbmcsIDpzb3VyY2UsIDp0ZXh0CiAgICAjIEByZXR1cm4gW0ludGVnZXJdCiAgICBhdHRyX3JlYWRlciA6ZmF2b3JpdGVfY291bnQsIDppbl9yZXBseV90b19zdGF0dXNfaWQsIDppbl9yZXBseV90b191c2VyX2lkLAogICAgICAgICAgICAgICAgOnJldHdlZXRfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVzX2NvdW50LCA6ZmF2b3JpdGVfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVyc19jb3VudCwgOmZhdm9yaXRlX2NvdW50CiAgICBhbGlhcyBpbl9yZXBseV90b190d2VldF9pZCBpbl9yZXBseV90b19zdGF0dXNfaWQKICAgIGFsaWFzIHJlcGx5PyBpbl9yZXBseV90b191c2VyX2lkPwogICAgZGVwcmVjYXRlX2FsaWFzIDpyZXR3ZWV0ZXJzX2NvdW50LCA6cmV0d2VldF9jb3VudAogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpHZW9GYWN0b3J5LCA6Z2VvCiAgICBvYmplY3RfYXR0cl9yZWFkZXIgOk1ldGFkYXRhLCA6bWV0YWRhdGEKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6UGxhY2UsIDpwbGFjZQogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpUd2VldCwgOnJldHdlZXRlZF9zdGF0dXMKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VHdlZXQsIDpxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyByZXR3ZWV0ZWRfdHdlZXQgcmV0d2VldGVkX3N0YXR1cwogICAgYWxpYXMgcmV0d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHJldHdlZXRlZF90d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldCBxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyBxdW90ZT8gcXVvdGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldD8gcXVvdGVkX3N0YXR1cz8KICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VXNlciwgOnVzZXIsIDpzdGF0dXMKICAgIHByZWRpY2F0ZV9hdHRyX3JlYWRlciA6ZmF2b3JpdGVkLCA6cG9zc2libHlfc2Vuc2l0aXZlLCA6cmV0d2VldGVkLAogICAgICAgICAgICAgICAgICAgICAgICAgIDp0cnVuY2F0ZWQK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -234,9 +236,9 @@
       </register>
     </registers>
     <search>
-      <last-search>favorited</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>favorited</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -249,6 +251,9 @@
         <entry>tweet</entry>
         <entry>status</entry>
         <entry>favorited</entry>
+        <entry>cont</entry>
+        <entry>contr</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
