@@ -92,11 +92,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461158188469">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461246204143">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -191,10 +191,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>favorited</text>
@@ -203,31 +203,31 @@
         <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
       </register>
       <register name="1" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcy51c2VyCg==</text>
+      <register name="2" type="4">
+        <text>{</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.user</text>
+        <text encoding="base64">ICAjIGs6dHdlZXQ=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>thumb_id</text>
       </register>
-      <register name="6" type="4">
-        <text>hashtags</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>.retweeted_tweet</text>
+        <text>:tweet</text>
       </register>
       <register name="8" type="4">
-        <text>.retweet?</text>
+        <text>clas</text>
       </register>
       <register name="9" type="4">
-        <text>]</text>
+        <text>tweet</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
