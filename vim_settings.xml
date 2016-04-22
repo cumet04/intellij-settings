@@ -31,8 +31,8 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1461247187452">
-        <mark key="'" line="30" column="27" />
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1461248884094">
+        <mark key="'" line="49" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="31" column="35" />
         <mark key="." line="5" column="33" />
@@ -42,11 +42,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1461250493430">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -94,11 +94,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461247857772">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461249257683">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -190,46 +190,47 @@
       <jump line="29" column="38" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="49" column="0" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>created</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF0dHJfcmVhZGVyIDpmaWx0ZXJfbGV2ZWwsIDppbl9yZXBseV90b19zY3JlZW5fbmFtZSwgOmxhbmcsIDpzb3VyY2UsIDp0ZXh0CiAgICAjIEByZXR1cm4gW0ludGVnZXJdCiAgICBhdHRyX3JlYWRlciA6ZmF2b3JpdGVfY291bnQsIDppbl9yZXBseV90b19zdGF0dXNfaWQsIDppbl9yZXBseV90b191c2VyX2lkLAogICAgICAgICAgICAgICAgOnJldHdlZXRfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVzX2NvdW50LCA6ZmF2b3JpdGVfY291bnQKICAgIGRlcHJlY2F0ZV9hbGlhcyA6ZmF2b3JpdGVyc19jb3VudCwgOmZhdm9yaXRlX2NvdW50CiAgICBhbGlhcyBpbl9yZXBseV90b190d2VldF9pZCBpbl9yZXBseV90b19zdGF0dXNfaWQKICAgIGFsaWFzIHJlcGx5PyBpbl9yZXBseV90b191c2VyX2lkPwogICAgZGVwcmVjYXRlX2FsaWFzIDpyZXR3ZWV0ZXJzX2NvdW50LCA6cmV0d2VldF9jb3VudAogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpHZW9GYWN0b3J5LCA6Z2VvCiAgICBvYmplY3RfYXR0cl9yZWFkZXIgOk1ldGFkYXRhLCA6bWV0YWRhdGEKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6UGxhY2UsIDpwbGFjZQogICAgb2JqZWN0X2F0dHJfcmVhZGVyIDpUd2VldCwgOnJldHdlZXRlZF9zdGF0dXMKICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VHdlZXQsIDpxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyByZXR3ZWV0ZWRfdHdlZXQgcmV0d2VldGVkX3N0YXR1cwogICAgYWxpYXMgcmV0d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHJldHdlZXRlZF90d2VldD8gcmV0d2VldGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldCBxdW90ZWRfc3RhdHVzCiAgICBhbGlhcyBxdW90ZT8gcXVvdGVkX3N0YXR1cz8KICAgIGFsaWFzIHF1b3RlZF90d2VldD8gcXVvdGVkX3N0YXR1cz8KICAgIG9iamVjdF9hdHRyX3JlYWRlciA6VXNlciwgOnVzZXIsIDpzdGF0dXMKICAgIHByZWRpY2F0ZV9hdHRyX3JlYWRlciA6ZmF2b3JpdGVkLCA6cG9zc2libHlfc2Vuc2l0aXZlLCA6cmV0d2VldGVkLAogICAgICAgICAgICAgICAgICAgICAgICAgIDp0cnVuY2F0ZWQK</text>
+        <text encoding="base64">ICAgICAgbmV4dCBpZiB2YXIgPT0gInVzZXIiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>en</text>
+        <text>#</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>{</text>
+        <text>#</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAjIGs6dHdlZXQ=</text>
+        <text>#</text>
       </register>
       <register name="7" type="4">
-        <text>thumb_id</text>
+        <text>aaa</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>:tweet</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
