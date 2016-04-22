@@ -20,21 +20,13 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/models/user.rb" timestamp="1461158253111">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1461248884094">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="31" column="35" />
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
+        <mark key="'" line="30" column="27" />
         <mark key="." line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
@@ -42,11 +34,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1461250493430">
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="6" />
-        <mark key="^" line="25" column="7" />
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -93,12 +85,6 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/models/tweet.rb" timestamp="1461249257683">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -190,56 +176,55 @@
       <jump line="29" column="38" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="49" column="0" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>favorited</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmV4dCBpZiB2YXIgPT0gInVzZXIiCg==</text>
+        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user</text>
       </register>
-      <register name="2" type="4">
-        <text>#</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcy51c2VyCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>.user</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>#</text>
+        <text>hashtags</text>
       </register>
       <register name="7" type="4">
-        <text>aaa</text>
+        <text>.retweeted_tweet</text>
       </register>
       <register name="8" type="4">
-        <text>:</text>
+        <text>.retweet?</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>created</last-search>
+      <last-search>favorited</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>favorited</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -252,9 +237,6 @@
         <entry>tweet</entry>
         <entry>status</entry>
         <entry>favorited</entry>
-        <entry>cont</entry>
-        <entry>contr</entry>
-        <entry>created</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
