@@ -72,6 +72,13 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461830332425">
+        <mark key="'" line="216" column="15" />
+        <mark key="[" line="266" column="33" />
+        <mark key="]" line="267" column="15" />
+        <mark key="^" line="267" column="15" />
+        <mark key="." line="267" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="14" column="5" />
@@ -179,10 +186,11 @@
       <jump line="29" column="38" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBzb2xkaWVyLWlkCg==</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
@@ -191,34 +199,34 @@
         <text>favorited</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiByZXMK</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWE6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>user</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBzb2xkaWVyLWlkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcy51c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIHdvcmsncyBhdXRob3ItaWQK</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSUQgb2YgYSByZXF1ZXN0ZWQgc3Vib3JkaW5hdGUK</text>
       </register>
-      <register name="4" type="4">
-        <text>.user</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBtaXNzaW9uCiAgICAgICAgZGVzY3JpcHRpb246IEEgbWlzc2lvbiB0byBiZSBhY2NlcHRlZAogICAgICAgIGluOiBib2R5CiAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICBzY2hlbWE6CiAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9NaXNzaW9uJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>hashtags</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2YgYSBzb2xkaWVyIHdobyBpcyB0byBqb2luCg==</text>
       </register>
       <register name="7" type="4">
-        <text>.retweeted_tweet</text>
+        <text>user</text>
       </register>
-      <register name="8" type="4">
-        <text>.retweet?</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlcy51c2VyCg==</text>
       </register>
       <register name="9" type="4">
-        <text>]</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -266,6 +274,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
