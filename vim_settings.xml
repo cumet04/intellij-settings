@@ -8,8 +8,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461827012822">
-        <mark key="[" line="28" column="36" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461832653019">
+        <mark key="'" line="338" column="0" />
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="347" column="80" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -43,6 +47,13 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461832696043">
+        <mark key="'" line="301" column="14" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="10" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
         <mark key="[" line="67" column="17" />
@@ -72,12 +83,12 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461830332425">
-        <mark key="'" line="216" column="15" />
-        <mark key="[" line="266" column="33" />
-        <mark key="]" line="267" column="15" />
-        <mark key="^" line="267" column="15" />
-        <mark key="." line="267" column="15" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461832623371">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="294" column="80" />
+        <mark key="^" line="294" column="78" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
@@ -187,46 +198,51 @@
       <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBzb2xkaWVyLWlkCg==</text>
+        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJykKQGNyb3NzX29yaWdpbigpCmRlZiBzcGVjKCk6CiAgICByZXR1cm4ganNvbmlmeShnZW5fc3BlYyhhcHAuX19jbGFzc19fLl9fbmFtZV9fLCBzZXJ2ZXIpKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>static_url_path</text>
       </register>
       <register name="/" type="4">
         <text>favorited</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE6Cg==</text>
+        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjLmpzb24nKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWMoKToKICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCgoKQHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjLmh0bWwnKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWNfaHRtbCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnc3dhZ2dlcl91aS5odG1sJywgc3BlY191cmw9dXJsX3ByZWZpeCArICcvc3BlYy5qc29uJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBzb2xkaWVyLWlkCg==</text>
+        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJykKQGNyb3NzX29yaWdpbigpCmRlZiBzcGVjKCk6CiAgICByZXR1cm4ganNvbmlmeShnZW5fc3BlYyhhcHAuX19jbGFzc19fLl9fbmFtZV9fLCBzZXJ2ZXIpKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIHdvcmsncyBhdXRob3ItaWQK</text>
+        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJywgbWV0aG9kcz1bJ0dFVCddKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWMoKToKICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSUQgb2YgYSByZXF1ZXN0ZWQgc3Vib3JkaW5hdGUK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHNlcnZlci51cmwpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBtaXNzaW9uCiAgICAgICAgZGVzY3JpcHRpb246IEEgbWlzc2lvbiB0byBiZSBhY2NlcHRlZAogICAgICAgIGluOiBib2R5CiAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICBzY2hlbWE6CiAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9NaXNzaW9uJwo=</text>
+      <register name="4" type="4">
+        <text>static_url_path</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>name</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2YgYSBzb2xkaWVyIHdobyBpcyB0byBqb2luCg==</text>
+      <register name="6" type="4">
+        <text>name</text>
       </register>
       <register name="7" type="4">
-        <text>user</text>
+        <text>hello</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcy51c2VyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>json</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
