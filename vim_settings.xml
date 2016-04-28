@@ -8,12 +8,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461832653019">
-        <mark key="'" line="338" column="0" />
-        <mark key="[" line="338" column="0" />
-        <mark key="]" line="347" column="80" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461834592026">
+        <mark key="'" line="328" column="8" />
+        <mark key="[" line="358" column="49" />
+        <mark key="]" line="358" column="50" />
+        <mark key="^" line="174" column="21" />
+        <mark key="." line="358" column="50" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -47,12 +47,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461832696043">
-        <mark key="'" line="301" column="14" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="57" />
-        <mark key="." line="10" column="57" />
-        <mark key="^" line="10" column="57" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461834486011">
+        <mark key="'" line="187" column="8" />
+        <mark key="[" line="285" column="32" />
+        <mark key="]" line="286" column="15" />
+        <mark key="." line="286" column="15" />
+        <mark key="^" line="286" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -83,12 +83,12 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461832623371">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="294" column="80" />
-        <mark key="^" line="294" column="78" />
-        <mark key="." line="294" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461834361703">
+        <mark key="'" line="210" column="8" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="295" column="78" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
@@ -199,59 +199,79 @@
       <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="326" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="129" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="212" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="328" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="121" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="268" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="175" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="186" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="141" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJykKQGNyb3NzX29yaWdpbigpCmRlZiBzcGVjKCk6CiAgICByZXR1cm4ganNvbmlmeShnZW5fc3BlYyhhcHAuX19jbGFzc19fLl9fbmFtZV9fLCBzZXJ2ZXIpKQoK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXItaWQK</text>
       </register>
       <register name="-" type="4">
         <text>static_url_path</text>
       </register>
       <register name="/" type="4">
-        <text>favorited</text>
+        <text>in:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjLmpzb24nKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWMoKToKICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCgoKQHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjLmh0bWwnKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWNfaHRtbCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgnc3dhZ2dlcl91aS5odG1sJywgc3BlY191cmw9dXJsX3ByZWZpeCArICcvc3BlYy5qc29uJykK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZDogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJykKQGNyb3NzX29yaWdpbigpCmRlZiBzcGVjKCk6CiAgICByZXR1cm4ganNvbmlmeShnZW5fc3BlYyhhcHAuX19jbGFzc19fLl9fbmFtZV9fLCBzZXJ2ZXIpKQoK</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXItaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHNlcnZlci5yb3V0ZSh1cmxfcHJlZml4ICsgJy9zcGVjJywgbWV0aG9kcz1bJ0dFVCddKQpAY3Jvc3Nfb3JpZ2luKCkKZGVmIHNwZWMoKToKICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCgo=</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIHJlcG9ydCdzIGF1dGhvci1pZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHNlcnZlci51cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSUQgb2YgYSByZXF1ZXN0ZWQgc3Vib3JkaW5hdGUK</text>
       </register>
-      <register name="4" type="4">
-        <text>static_url_path</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2YgYSBsZWFkZXIgd2hvIGlzIHRvIGpvaW4K</text>
       </register>
-      <register name="5" type="4">
-        <text>name</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZDogdHJ1ZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>name</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>hello</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBjb21tYW5kZXIncyBJRCB3aG8gaXMgdG9wIG9mIHRoZSByZXF1ZXN0ZWQgdHJvb3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KGdlbl9zcGVjKGFwcC5fX2NsYXNzX18uX19uYW1lX18sIHNlcnZlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXIncyBJRCB3aG8gaXMgdW5kZXIgdGhlIHJlcXVlc3RlZCBjb21tYW5kZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text>json</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXIncyBJRCB3aG8gaXMgdG9wIG9mIHRoZSByZXF1ZXN0ZWQgc3F1YWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>favorited</last-search>
+      <last-search>in:</last-search>
       <last-offset />
-      <last-pattern>favorited</last-pattern>
+      <last-pattern>in:</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -264,6 +284,8 @@
         <entry>tweet</entry>
         <entry>status</entry>
         <entry>favorited</entry>
+        <entry>required</entry>
+        <entry>in:</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
