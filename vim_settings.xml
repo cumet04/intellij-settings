@@ -8,12 +8,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461834592026">
-        <mark key="'" line="328" column="8" />
-        <mark key="[" line="358" column="49" />
-        <mark key="]" line="358" column="50" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461836134290">
+        <mark key="'" line="302" column="45" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="68" />
         <mark key="^" line="174" column="21" />
-        <mark key="." line="358" column="50" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -47,12 +47,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461834486011">
-        <mark key="'" line="187" column="8" />
-        <mark key="[" line="285" column="32" />
-        <mark key="]" line="286" column="15" />
-        <mark key="." line="286" column="15" />
-        <mark key="^" line="286" column="15" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461836100386">
+        <mark key="'" line="156" column="41" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="68" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="110" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -83,12 +83,12 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461834361703">
-        <mark key="'" line="210" column="8" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="295" column="78" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461836108642">
+        <mark key="'" line="110" column="41" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="68" />
+        <mark key="^" line="294" column="78" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
         <mark key="[" line="6" column="4" />
@@ -126,27 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="32" column="1" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/show.html.erb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="54" column="17" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="47" column="6" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="183" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="204" column="4" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="31" column="2" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="27" column="10" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="38" column="23" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="22" column="6" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
@@ -214,7 +193,6 @@
       <jump line="121" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="168" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="211" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="235" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="240" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="268" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
@@ -223,55 +201,80 @@
       <jump line="186" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="141" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="187" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="190" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="221" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="351" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="91" column="40" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="159" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="129" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="156" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="282" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="334" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="342" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="302" column="45" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXItaWQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
       </register>
       <register name="-" type="4">
         <text>static_url_path</text>
       </register>
       <register name="/" type="4">
-        <text>in:</text>
+        <text>implemented'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXItaWQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogVGhlIHJlcG9ydCdzIGF1dGhvci1pZAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSUQgb2YgYSByZXF1ZXN0ZWQgc3Vib3JkaW5hdGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2YgYSBsZWFkZXIgd2hvIGlzIHRvIGpvaW4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBjb21tYW5kZXIncyBJRCB3aG8gaXMgdG9wIG9mIHRoZSByZXF1ZXN0ZWQgdHJvb3AK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXIncyBJRCB3aG8gaXMgdW5kZXIgdGhlIHJlcXVlc3RlZCBjb21tYW5kZXIK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBsZWFkZXIncyBJRCB3aG8gaXMgdG9wIG9mIHRoZSByZXF1ZXN0ZWQgc3F1YWQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>in:</last-search>
+      <last-search>implemented'</last-search>
       <last-offset />
-      <last-pattern>in:</last-pattern>
+      <last-pattern>implemented'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -286,6 +289,14 @@
         <entry>favorited</entry>
         <entry>required</entry>
         <entry>in:</entry>
+        <entry>def</entry>
+        <entry encoding="base64">ZGVmIA==</entry>
+        <entry>cros</entry>
+        <entry>not</entry>
+        <entry>not im</entry>
+        <entry>not i</entry>
+        <entry>pass</entry>
+        <entry>implemented'</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -318,6 +329,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
