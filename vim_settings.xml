@@ -3,29 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1461836134290">
+        <mark key="'" line="302" column="45" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="68" />
+        <mark key="^" line="174" column="21" />
+        <mark key="." line="341" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/models/project.rb" timestamp="1460711403577" />
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/config/application.rb" timestamp="1460710777870" />
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
+        <mark key="'" line="30" column="27" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
+        <mark key="'" line="205" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="68" column="20" />
-        <mark key="^" line="68" column="20" />
-        <mark key="." line="68" column="20" />
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
         <mark key="[" line="5" column="0" />
@@ -37,11 +41,25 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_list.html.erb" timestamp="1460711463358">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1461837628287">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="57" column="11" />
+        <mark key="." line="57" column="11" />
+        <mark key="^" line="57" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
+        <mark key="'" line="68" column="20" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="68" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js" timestamp="1460692199156">
         <mark key="[" line="21" column="13" />
@@ -49,13 +67,47 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
-        <mark key="'" line="205" column="4" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1461836108642">
+        <mark key="'" line="110" column="41" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="68" />
+        <mark key="^" line="294" column="78" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
+        <mark key="'" line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_list.html.erb" timestamp="1460711463358">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee" timestamp="1460704141292">
         <mark key="[" line="4" column="0" />
@@ -63,39 +115,17 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
+        <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="58" />
+      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="32" column="1" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/show.html.erb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="54" column="17" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="47" column="6" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="183" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="204" column="4" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" />
-      <jump line="31" column="2" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="27" column="10" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="38" column="23" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="22" column="6" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
@@ -119,55 +149,132 @@
       <jump line="46" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="68" column="20" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" />
+      <jump line="6" column="29" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="36" column="16" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="0" column="0" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="16" column="29" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="8" column="29" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="16" column="32" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="24" column="32" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="23" column="10" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="25" column="10" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="26" column="10" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="27" column="10" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" />
+      <jump line="38" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="47" column="70" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="11" column="46" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="15" column="43" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="21" column="42" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="22" column="39" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="23" column="36" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="25" column="37" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="26" column="30" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="27" column="24" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="28" column="31" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="29" column="38" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
+      <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="326" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="129" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="212" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="257" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="328" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="121" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="211" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="268" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="175" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="186" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="141" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="190" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="221" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="235" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="351" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="91" column="40" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="129" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="156" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="282" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="334" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="342" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="302" column="45" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>font</text>
+        <text>implemented'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdHlwZTogJ0dFVCcsCiAgICAgICAgdXJsOiAnPCU9IGFwaV9wcm9qZWN0c19wYXRoICU+LycgKyBwaWQgKyAnL2NvdW50X3VwJwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGF1dG9fZmlsbCgpIHsKICAgIHZhciB1cmwgPSAkKCIjaW5fdXJsIikudmFsKCk7CiAgICB1cmwgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwLyc7CiAgICAkLmFqYXgoewogICAgICAgIHR5cGU6ICdHRVQnLAogICAgICAgIHVybDogdXJsLAogICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uKHhtbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygkKHhtbCkuZmluZCgiLmluX3VybCIpLnZhbCgpKTsKICAgICAgICB9CiAgICB9KTsKfQphdXRvX2ZpbGwoKTsK</text>
+      <register name="1" type="4">
+        <text>500</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dmFyIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>'this function is not implemented yet.'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>msg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>title</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpdGxlID0gJCh4bWwpLmZpbmQoImhlYWQiKS5pbm5lclRleHQ7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>font</last-search>
+      <last-search>implemented'</last-search>
       <last-offset />
-      <last-pattern>font</last-pattern>
+      <last-pattern>implemented'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -175,6 +282,21 @@
       <history-search>
         <entry>modi</entry>
         <entry>font</entry>
+        <entry>retweeted_stat</entry>
+        <entry>user</entry>
+        <entry>tweet</entry>
+        <entry>status</entry>
+        <entry>favorited</entry>
+        <entry>required</entry>
+        <entry>in:</entry>
+        <entry>def</entry>
+        <entry encoding="base64">ZGVmIA==</entry>
+        <entry>cros</entry>
+        <entry>not</entry>
+        <entry>not im</entry>
+        <entry>not i</entry>
+        <entry>pass</entry>
+        <entry>implemented'</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -198,6 +320,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
