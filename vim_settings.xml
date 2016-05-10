@@ -8,6 +8,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462861650775">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
         <mark key="[" line="289" column="4" />
@@ -27,13 +33,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462859897120">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="68" column="33" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462860373333">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="100" column="51" />
+        <mark key="]" line="100" column="54" />
+        <mark key="^" line="100" column="54" />
+        <mark key="." line="100" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
         <mark key="[" line="5" column="0" />
@@ -45,32 +50,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462859278780">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="92" />
-        <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="68" column="20" />
-        <mark key="^" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js" timestamp="1460692199156">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="18" />
@@ -81,28 +60,12 @@
         <mark key="'" line="127" column="0" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1462165316141">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="116" column="4" />
         <mark key="]" line="97" column="9" />
         <mark key="^" line="97" column="9" />
         <mark key="." line="116" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
         <mark key="'" line="27" column="10" />
@@ -122,6 +85,52 @@
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
         <mark key="^" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462861662647">
+        <mark key="'" line="310" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="139" column="4" />
+        <mark key="^" line="161" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
+        <mark key="'" line="68" column="20" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js" timestamp="1460692199156">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="21" />
@@ -130,12 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="32" column="28" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="29" column="14" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="109" column="2" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/show.html.erb" />
-      <jump line="126" column="4" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
       <jump line="33" column="1" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
@@ -214,7 +217,6 @@
       <jump line="293" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="43" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="129" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="156" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="110" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
@@ -230,55 +232,62 @@
       <jump line="49" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
       <jump line="53" column="27" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
+      <jump line="110" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="157" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="160" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="205" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="310" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>500</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZsYXNrcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text encoding="base64">W05JWV0g</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>POST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24zCiMgLSotIGNvZGluZzogdXRmLTggLSotCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>500</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGZsYXNrcgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">W05JWV0g</text>
       </register>
       <register name="3" type="4">
-        <text>'this function is not implemented yet.'</text>
-      </register>
-      <register name="4" type="4">
         <text>msg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
+      <register name="4" type="4">
+        <text>this function is not implemented yet.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
+      <register name="5" type="4">
+        <text>500</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
+      <register name="6" type="4">
+        <text>g</text>
+      </register>
+      <register name="7" type="4">
+        <text>this function is not implemented yet.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0nVGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQnKSwgNTAwCg==</text>
+        <text encoding="base64">ICAgIGlmIF9hcHAuYWNjZXB0X2NhbXBhaWduKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search>POST</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>POST</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -302,8 +311,10 @@
         <entry>pass</entry>
         <entry>implemented'</entry>
         <entry>target</entry>
+        <entry>POST</entry>
       </history-search>
       <history-cmd>
+        <entry>ww</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
