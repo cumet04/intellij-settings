@@ -11,12 +11,11 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462876935357">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462886869806">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="104" column="42" />
-        <mark key="]" line="104" column="42" />
-        <mark key="." line="104" column="42" />
-        <mark key="^" line="104" column="25" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -25,7 +24,7 @@
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1462876943749">
+      <file name="/Python Console" timestamp="1462886862282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -108,12 +107,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462874439551">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462887034822">
         <mark key="'" line="187" column="41" />
-        <mark key="[" line="187" column="51" />
-        <mark key="]" line="187" column="59" />
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="174" column="4" />
         <mark key="^" line="187" column="59" />
-        <mark key="." line="187" column="59" />
+        <mark key="." line="174" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -255,43 +254,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>The subor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHgyJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWFkZXJfbGlzdCA9IFsKICAgICAgICAgICAgbGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHgwJyksCiAgICAgICAgICAgIGxlYWRlcl9iYXNlLl9yZXBsYWNlKGlkPSdseHh4MScpLAogICAgICAgICAgICBsZWFkZXJfYmFzZS5fcmVwbGFjZShpZD0nbHh4eDInKSwKICAgICAgICAgICAgbGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHgzJyksCiAgICAgICAgXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>['subordinates'])</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID0geydzdWJvcmRpbmF0ZXMnOiBbZGljdChsZWFkZXIuX2FzZGljdCgpKV19</text>
+        <text>T</text>
       </register>
       <register name="4" type="4">
-        <text>leader</text>
+        <text>N</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGVhZGVyID0gCiAgICAgICAgc2VsZi5hcHAucG9zdCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgZGF0YT1qc29uLmR1bXBzKGxlYWRlci5fYXNkaWN0KCkpLAogICAgICAgICAgICAgICAgICAgICAgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJykKCiAgICAgICAgbGVhZGVyID0gbGVhZGVyLl9yZXBsYWNlKGlkPSdseHh4MicpCiAgICAgICAgc2VsZi5hcHAucG9zdCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgZGF0YT1qc29uLmR1bXBzKGxlYWRlci5fYXNkaWN0KCkpLAogICAgICAgICAgICAgICAgICAgICAgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJykK</text>
+      <register name="5" type="4">
+        <text>[</text>
       </register>
-      <register name="6" type="4">
-        <text>leader._replace(id='lxxx1')</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZWFkZXJfbGlzdC5hcHBlbmQobGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHg5JykpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGxlYWRlcl9iYXNlLl9yZXBsYWNlKGlkPSdseHh4MScpLAogICAgICAgICAgICBsZWFkZXJfYmFzZS5fcmVwbGFjZShpZD0nbHh4eDInKSwKICAgICAgICAgICAgbGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHgzJyksCiAgICAgICAgXQo=</text>
       </register>
       <register name="8" type="4">
-        <text>single</text>
+        <text encoding="base64">ID0gWw==</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
