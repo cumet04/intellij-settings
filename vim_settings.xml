@@ -31,7 +31,8 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462533424715">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462859897120">
+        <mark key="'" line="91" column="0" />
         <mark key="[" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
@@ -50,8 +51,8 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462600797129">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462859278780">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="92" />
@@ -129,10 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="32" column="28" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
       <jump line="29" column="14" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
@@ -229,6 +226,10 @@
       <jump line="159" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="344" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
+      <jump line="53" column="27" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -238,7 +239,7 @@
         <text>500</text>
       </register>
       <register name="/" type="4">
-        <text>implemented'</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
@@ -275,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>implemented'</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>implemented'</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -300,6 +301,7 @@
         <entry>not i</entry>
         <entry>pass</entry>
         <entry>implemented'</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -341,6 +343,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
