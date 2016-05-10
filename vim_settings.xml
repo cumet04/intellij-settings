@@ -11,12 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462874905642">
-        <mark key="'" line="84" column="43" />
-        <mark key="[" line="84" column="43" />
-        <mark key="]" line="84" column="43" />
-        <mark key="." line="84" column="43" />
-        <mark key="^" line="84" column="43" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462876117521">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="103" column="58" />
+        <mark key="]" line="104" column="40" />
+        <mark key="." line="104" column="40" />
+        <mark key="^" line="104" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -25,7 +25,7 @@
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1462874907695">
+      <file name="/Python Console" timestamp="1462875693909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -152,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
@@ -252,46 +251,47 @@
       <jump line="187" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="59" column="41" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="83" column="43" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>leader</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>leader</text>
       </register>
       <register name="/" type="4">
         <text>The subor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZWFkZXIgPSBMZWFkZXJJbmZvKGlkPSdseHh4MCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSdjbWRfaHR0cCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRwb2ludD0naHR0cDovL2xvY2FsaG9zdDo1MDAwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJvcmRpbmF0ZXM9W10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaXNzaW9ucz1bXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVhZGVyX2Jhc2UuX3JlcGxhY2UoaWQ9J2x4eHgyJyksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>leader</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">bGVhZGVyID0gCiAgICAgICAgc2VsZi5hcHAucG9zdCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgZGF0YT1qc29uLmR1bXBzKGxlYWRlci5fYXNkaWN0KCkpLAogICAgICAgICAgICAgICAgICAgICAgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJykKCiAgICAgICAgbGVhZGVyID0gbGVhZGVyLl9yZXBsYWNlKGlkPSdseHh4MicpCiAgICAgICAgc2VsZi5hcHAucG9zdCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnLAogICAgICAgICAgICAgICAgICAgICAgZGF0YT1qc29uLmR1bXBzKGxlYWRlci5fYXNkaWN0KCkpLAogICAgICAgICAgICAgICAgICAgICAgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJykK</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>leader._replace(id='lxxx1')</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>single</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZWFkZXIxID0gTGVhZGVySW5mbyhpZD0nbHh4eDEnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0nY21kX2h0dHAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kcG9pbnQ9J2h0dHA6Ly9sb2NhbGhvc3Q6NTAwMDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vib3JkaW5hdGVzPVtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWlzc2lvbnM9W10pCg==</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -375,6 +375,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
