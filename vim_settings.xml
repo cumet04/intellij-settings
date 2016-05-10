@@ -8,11 +8,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462861650775">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="20" column="49" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="20" column="49" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462865540816">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -20,6 +21,9 @@
         <mark key="]" line="341" column="68" />
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1462865656564">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -33,10 +37,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462860373333">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="100" column="51" />
-        <mark key="]" line="100" column="54" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1462864378751">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="58" />
         <mark key="^" line="100" column="54" />
         <mark key="." line="100" column="54" />
       </file>
@@ -95,10 +99,10 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462861662647">
-        <mark key="'" line="310" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462864372006">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="17" column="25" />
         <mark key="." line="139" column="4" />
         <mark key="^" line="161" column="37" />
       </file>
@@ -139,12 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="33" column="1" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" />
@@ -239,61 +237,66 @@
       <jump line="60" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="310" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="136" column="38" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="19" column="7" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/app.py" />
+      <jump line="28" column="17" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGZsYXNrcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbV9pZCA9ICJjeHh4MCIKICAgICAgICBzZWxmLmNvbV9pZCA9ICJjeHh4MCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">W05JWV0g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24zCiMgLSotIGNvZGluZzogdXRmLTggLSotCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbV9pZCA9ICJjeHh4MCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZsYXNrcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbV9pZCA9ICJjeHh4MCIKICAgICAgICBzZWxmLmNvbV9pZCA9ICJjeHh4MCIK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">W05JWV0g</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>msg</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>this function is not implemented yet.</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0ICdObyBlbnRyaWVzIGhlcmUgc28gZmFyJyBpbiBydi5kYXRhCg==</text>
       </register>
       <register name="5" type="4">
-        <text>500</text>
+        <text>data</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>data</text>
       </register>
       <register name="7" type="4">
-        <text>this function is not implemented yet.</text>
+        <text>assertEquals</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIF9hcHAuYWNjZXB0X2NhbXBhaWduKCkK</text>
+      <register name="9" type="4">
+        <text>#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>modi</entry>
         <entry>font</entry>
         <entry>retweeted_stat</entry>
         <entry>user</entry>
@@ -312,9 +315,12 @@
         <entry>implemented'</entry>
         <entry>target</entry>
         <entry>POST</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
+        <entry>]w</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
@@ -357,6 +363,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
