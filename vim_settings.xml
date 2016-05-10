@@ -11,12 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462873978571">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="73" column="55" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462874905642">
+        <mark key="'" line="84" column="43" />
+        <mark key="[" line="84" column="43" />
+        <mark key="]" line="84" column="43" />
+        <mark key="." line="84" column="43" />
+        <mark key="^" line="84" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -25,7 +25,7 @@
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1462874440984">
+      <file name="/Python Console" timestamp="1462874907695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -152,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
@@ -252,46 +250,48 @@
       <jump line="179" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="247" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="187" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="59" column="41" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="83" column="43" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_app.subordinates</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>_app.subordinates</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>The subor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci8nKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZWFkZXIgPSBMZWFkZXJJbmZvKGlkPSdseHh4MCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSdjbWRfaHR0cCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRwb2ludD0naHR0cDovL2xvY2FsaG9zdDo1MDAwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJvcmRpbmF0ZXM9W10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaXNzaW9ucz1bXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>_app.subordinates</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="4" type="4">
         <text>'</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>s</text>
-      </register>
-      <register name="7" type="4">
+      <register name="3" type="4">
         <text>e</text>
       </register>
+      <register name="4" type="4">
+        <text>l</text>
+      </register>
+      <register name="5" type="4">
+        <text>g</text>
+      </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
+      <register name="7" type="4">
+        <text>i</text>
+      </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
