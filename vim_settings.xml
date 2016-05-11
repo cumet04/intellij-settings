@@ -11,12 +11,11 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462957790547">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462957874923">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="122" column="10" />
-        <mark key="]" line="122" column="10" />
-        <mark key="^" line="122" column="36" />
-        <mark key="." line="122" column="10" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -254,8 +253,8 @@
       <jump line="60" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
       </register>
       <register name="-" type="4">
         <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
@@ -266,29 +265,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBhY3R1YWwgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmRhdGEuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICAgICAjIGFzc2VydAogICAgICAgIGV4cGVjdGVkID0geydzdWJvcmRpbmF0ZXMnOiBbZGljdChsZWFkZXIuX2FzZGljdCgpKV19CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>#</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhY3R1YWxfbGlzdCksIGxlbigpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAjIFtQT1NUXSAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZWYgdGVzdF9nZXRfc3Vib3JkaW5hdGVzX211bHRpKHNlbGYpOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>dict(leader._asdict())</text>
-      </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>dict(leader._asdict())</text>
       </register>
       <register name="9" type="4">
         <text>/</text>
