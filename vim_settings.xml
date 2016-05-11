@@ -11,11 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462957874923">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462958769221">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="129" column="42" />
+        <mark key="]" line="129" column="57" />
+        <mark key="^" line="129" column="57" />
+        <mark key="." line="129" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
