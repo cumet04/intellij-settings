@@ -11,12 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462960198782">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="145" column="44" />
-        <mark key="]" line="145" column="52" />
-        <mark key="^" line="145" column="52" />
-        <mark key="." line="145" column="52" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462961652113">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="200" column="52" />
+        <mark key="]" line="200" column="59" />
+        <mark key="^" line="200" column="59" />
+        <mark key="." line="200" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -25,7 +25,7 @@
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1462960047981">
+      <file name="/Python Console" timestamp="1462961654911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -108,12 +108,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462957369745">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462961833881">
         <mark key="'" line="187" column="41" />
-        <mark key="[" line="195" column="8" />
-        <mark key="]" line="195" column="9" />
+        <mark key="[" line="141" column="4" />
+        <mark key="]" line="141" column="4" />
         <mark key="^" line="195" column="9" />
-        <mark key="." line="195" column="9" />
+        <mark key="." line="141" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -152,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="268" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="175" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
@@ -252,46 +251,47 @@
       <jump line="109" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subordinates</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>subordinates</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>The subor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBhY3R1YWwgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmRhdGEuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICAgICAjIGFzc2VydAogICAgICAgIGV4cGVjdGVkID0geydzdWJvcmRpbmF0ZXMnOiBbXX0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgZXhwZWN0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ25fYmFzZS5fcmVwbGFjZShwbGFjZT0nUzEwMScpLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>subordinates</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>null</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>leader</text>
+        <text>T</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="4">
+        <text>N</text>
       </register>
       <register name="5" type="4">
-        <text>subordinates</text>
+        <text>[</text>
       </register>
       <register name="6" type="4">
         <text>leader</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
+      <register name="7" type="4">
+        <text>leader_list</text>
       </register>
       <register name="8" type="4">
-        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
+        <text>subordinates</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
