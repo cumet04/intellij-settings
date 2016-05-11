@@ -11,12 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462965754619">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462966377866">
         <mark key="'" line="198" column="33" />
-        <mark key="[" line="5" column="66" />
+        <mark key="[" line="5" column="71" />
         <mark key="]" line="5" column="71" />
         <mark key="^" line="5" column="71" />
-        <mark key="." line="5" column="71" />
+        <mark key="." line="5" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462965190894">
         <mark key="'" line="0" column="0" />
@@ -253,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>another</text>
+        <text>s')</text>
       </register>
       <register name="-" type="4">
-        <text>another</text>
+        <text>s')</text>
       </register>
       <register name="/" type="4">
         <text>_asdict</text>
@@ -265,31 +265,31 @@
         <text encoding="base64">ICAgIGluZm8gPSBfYXBwLmdlbmVyYXRlX2luZm8oKS5fYXNkaWN0KCkK</text>
       </register>
       <register name="1" type="4">
-        <text>another</text>
+        <text>s')</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>another</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>y</text>
-      </register>
-      <register name="5" type="4">
         <text>s</text>
       </register>
+      <register name="5" type="4">
+        <text>y</text>
+      </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>_asdict</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>_asdict</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
