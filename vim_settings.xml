@@ -11,12 +11,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1462869654814">
         <mark key="'" line="347" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462958769221">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="129" column="42" />
-        <mark key="]" line="129" column="57" />
-        <mark key="^" line="129" column="57" />
-        <mark key="." line="129" column="57" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1462960198782">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="145" column="44" />
+        <mark key="]" line="145" column="52" />
+        <mark key="^" line="145" column="52" />
+        <mark key="." line="145" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
         <mark key="'" line="344" column="0" />
@@ -25,7 +25,7 @@
         <mark key="^" line="174" column="21" />
         <mark key="." line="289" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1462957277881">
+      <file name="/Python Console" timestamp="1462960047981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -152,16 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="174" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="212" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="257" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="328" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="121" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="168" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="211" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="240" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="268" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
@@ -244,54 +234,64 @@
       <jump line="179" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="247" column="21" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="187" column="41" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="59" column="41" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="83" column="43" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="119" column="15" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="53" column="33" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
-      <jump line="122" column="40" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="55" column="50" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="59" column="41" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="123" column="18" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="144" column="30" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
+      <register name="&quot;" type="4">
+        <text>subordinates</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
+        <text>subordinates</text>
       </register>
       <register name="/" type="4">
         <text>The subor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBhY3R1YWwgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmRhdGEuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICAgICAjIGFzc2VydAogICAgICAgIGV4cGVjdGVkID0geydzdWJvcmRpbmF0ZXMnOiBbZGljdChsZWFkZXIuX2FzZGljdCgpKV19CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChhY3R1YWwsIGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBhY3R1YWwgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmRhdGEuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICAgICAjIGFzc2VydAogICAgICAgIGV4cGVjdGVkID0geydzdWJvcmRpbmF0ZXMnOiBbXX0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgZXhwZWN0ZWQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
+      <register name="1" type="4">
+        <text>subordinates</text>
       </register>
       <register name="2" type="4">
-        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
+        <text>null</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>leader</text>
       </register>
-      <register name="4" type="4">
-        <text>#</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhY3R1YWxfbGlzdCksIGxlbigpKQo=</text>
+      <register name="5" type="4">
+        <text>subordinates</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFtQT1NUXSAK</text>
+      <register name="6" type="4">
+        <text>leader</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9nZXRfc3Vib3JkaW5hdGVzX211bHRpKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjYWFhYWEK</text>
       </register>
       <register name="8" type="4">
-        <text>dict(leader._asdict())</text>
+        <text>aaaaaaaaaaaaaaaaaaaaaaaaaaa</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
