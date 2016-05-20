@@ -58,6 +58,7 @@
       <map>
         <entry key="$USER_HOME$/.config/pyvenv/troops/bin/python" value="false" />
         <entry key="$USER_HOME$/Documents/SensingTroops/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python3.5" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
