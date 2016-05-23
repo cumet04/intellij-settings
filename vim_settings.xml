@@ -3,93 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1462165382442">
-        <mark key="'" line="344" column="0" />
-        <mark key="[" line="289" column="4" />
-        <mark key="]" line="341" column="68" />
-        <mark key="^" line="174" column="21" />
-        <mark key="." line="289" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+        <mark key="'" line="373" column="0" />
+        <mark key="]" line="370" column="68" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1462165316141">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="97" column="9" />
-        <mark key="^" line="97" column="9" />
-        <mark key="." line="116" column="9" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
+        <mark key="'" line="205" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="8" column="6" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="68" column="20" />
-        <mark key="^" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee.erb" timestamp="1460697539232">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js" timestamp="1460692199156">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_list.html.erb" timestamp="1460711463358">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-        <mark key="." line="5" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
-        <mark key="'" line="205" column="4" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1462165212470">
         <mark key="'" line="162" column="0" />
@@ -98,8 +51,60 @@
         <mark key="." line="138" column="9" />
         <mark key="^" line="138" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
+        <mark key="'" line="68" column="20" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="68" column="20" />
+        <mark key="^" line="68" column="20" />
+        <mark key="." line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js" timestamp="1460692199156">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1462165316141">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="97" column="9" />
+        <mark key="^" line="97" column="9" />
+        <mark key="." line="116" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
+        <mark key="'" line="27" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_list.html.erb" timestamp="1460711463358">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee" timestamp="1460704141292">
         <mark key="[" line="4" column="0" />
@@ -107,22 +112,14 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="80" />
+      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
+        <mark key="^" line="8" column="4" />
       </file>
-      <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
-        <mark key="'" line="27" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="58" />
+      <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
     </filemarks>
     <jumps>
