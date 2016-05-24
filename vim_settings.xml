@@ -13,14 +13,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464013194782">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464057020571">
         <mark key="'" line="118" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="117" column="17" />
+        <mark key="[" line="306" column="45" />
+        <mark key="]" line="306" column="45" />
+        <mark key="." line="306" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1464013260542">
+      <file name="/Python Console" timestamp="1464056585274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -38,12 +37,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464014444896">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
-        <mark key="[" line="71" column="14" />
-        <mark key="]" line="71" column="46" />
-        <mark key="." line="71" column="46" />
-        <mark key="^" line="71" column="46" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="33" />
+        <mark key="." line="62" column="33" />
+        <mark key="^" line="62" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
         <mark key="[" line="5" column="0" />
@@ -100,9 +99,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464013237565">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464056995546">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="74" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
@@ -272,43 +271,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>server.</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>server.</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfaWRfbGlzdCA9IFt0ci5jb21tYW5kZXIgZm9yIHRyIGluIHJlY3J1aXRlci5fYXBwLlRyb29wTGlzdF0K</text>
       </register>
       <register name="1" type="4">
-        <text>server.</text>
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbG9hZGVyPVRydWXjgaDjgajjgqLjg5fjg6rjgYwy5Zue6LW35YuV44GZ44KL77yf44KJ44GX44GE44GM44CBbW9kdWxl5YiG6Zui44GX44Gf44Gu44GnCiAgICAgICAgIyDllY/poYzjgarjgY/jgarjgaPjgZ/jgYvjgoLjgZfjgozjgarjgYTjgILopoHnorroqo3jgIIK</text>
+      <register name="2" type="4">
+        <text>recruiter</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSByZWNydWl0ZXIuc2VydmVyCg==</text>
+      <register name="4" type="4">
+        <text>server.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBjb21tYW5kZXIuc2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlbG9hZGVyPVRydWXjgaDjgajjgqLjg5fjg6rjgYwy5Zue6LW35YuV44GZ44KL77yf44KJ44GX44GE44GM44CBbW9kdWxl5YiG6Zui44GX44Gf44Gu44GnCiAgICAgICAgIyDllY/poYzjgarjgY/jgarjgaPjgZ/jgYvjgoLjgZfjgozjgarjgYTjgILopoHnorroqo3jgIIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBsZWFkZXIuc2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSByZWNydWl0ZXIuc2VydmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBjb21tYW5kZXIuc2VydmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxfcHJlZml4ID0gJy9yZWNydWl0ZXInCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBsZWFkZXIuc2VydmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
