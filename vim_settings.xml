@@ -38,12 +38,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464012893918">
-        <mark key="'" line="78" column="35" />
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="71" column="18" />
-        <mark key="." line="71" column="21" />
-        <mark key="^" line="76" column="29" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464014444896">
+        <mark key="'" line="79" column="35" />
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
         <mark key="[" line="5" column="0" />
@@ -271,44 +271,44 @@
       <jump line="120" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgc3lzLm1vZHVsZXNbJ3JlY3J1aXRlciddCiAgICAgICAgaW1wb3J0IHJlY3J1aXRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>server.</text>
       </register>
       <register name="-" type="4">
-        <text>set_params</text>
+        <text>server.</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBfYXBwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgc3lzLm1vZHVsZXNbJ3JlY3J1aXRlciddCiAgICAgICAgaW1wb3J0IHJlY3J1aXRlcgo=</text>
+      <register name="1" type="4">
+        <text>server.</text>
       </register>
-      <register name="2" type="4">
-        <text>set_params</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlbG9hZGVyPVRydWXjgaDjgajjgqLjg5fjg6rjgYwy5Zue6LW35YuV44GZ44KL77yf44KJ44GX44GE44GM44CBbW9kdWxl5YiG6Zui44GX44Gf44Gu44GnCiAgICAgICAgIyDllY/poYzjgarjgY/jgarjgaPjgZ/jgYvjgoLjgZfjgozjgarjgYTjgILopoHnorroqo3jgIIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlbCBzeXMubW9kdWxlc1snY29tbWFuZGVyJ10KICAgICAgICAjIGltcG9ydCBjb21tYW5kZXIgICMg44Oi44K444Ol44O844Or44Gu44Oq44Ot44O844OJ44KS44GX44Gq44GE44Go5YaF6YOo44GuYXBw44GM44Oq44K744OD44OI44GV44KM44Gq44GE44Gf44KBCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5Ucm9vcExpc3QpICE9IDA6CiAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSByZWNydWl0ZXIuc2VydmVyCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBjb21tYW5kZXIuc2VydmVyCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBsZWFkZXIuc2VydmVyCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>set_params</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB1cmxfcHJlZml4ID0gJy9yZWNydWl0ZXInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
