@@ -16,7 +16,7 @@
         <mark key="^" line="340" column="11" />
         <mark key="." line="420" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1464065784931">
+      <file name="/Python Console" timestamp="1464067569354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/objects.py" timestamp="1464064954648">
@@ -55,12 +55,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464065833912">
-        <mark key="'" line="292" column="49" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="^" line="79" column="14" />
-        <mark key="." line="231" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464067746237">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="319" column="19" />
+        <mark key="]" line="319" column="48" />
+        <mark key="." line="319" column="48" />
+        <mark key="^" line="319" column="48" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
         <mark key="'" line="27" column="10" />
@@ -96,12 +96,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464064763677">
-        <mark key="'" line="316" column="19" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="111" column="49" />
-        <mark key="^" line="354" column="50" />
-        <mark key="." line="354" column="50" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464067529856">
+        <mark key="'" line="70" column="13" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="213" column="47" />
+        <mark key="^" line="213" column="15" />
+        <mark key="." line="213" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -150,17 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="190" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="221" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="279" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="235" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="351" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="91" column="40" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="293" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
@@ -250,63 +239,71 @@
       <jump line="161" column="10" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="265" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="264" column="49" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="103" column="40" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="209" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="347" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="27" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="40" column="35" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="47" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="53" column="30" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="56" column="20" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="70" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgpAc2VydmVyLnJvdXRlKCcvc3Vib3JkaW5hdGVzLzxzdWJfaWQ+L29yZGVycycsIG1ldGhvZHM9WydHRVQnXSkKQGFjY2Vzc19zdWJvcmRpbmF0ZQpkZWYgZ2V0X29yZGVyKHN1Yl9pZCk6CiAgICAiIiIKICAgIExhdGVzdCBvcmRlcnMgYXNzaWduZWQgdG8gdGhlIHN1Ym9yZGluYXRlCiAgICAtLS0KICAgIHBhcmFtZXRlcnM6CiAgICAgIC0gbmFtZTogc3ViX2lkCiAgICAgICAgZGVzY3JpcHRpb246IEEgc29sZGllci1pZAogICAgICAgIGluOiBwYXRoCiAgICAgICAgdHlwZTogc3RyaW5nCiAgICByZXNwb25zZXM6CiAgICAgIDIwMDoKICAgICAgICBkZXNjcmlwdGlvbjogQSBsaXN0IG9mIG9yZGVyCiAgICAgICAgc2NoZW1hOgogICAgICAgICAgcHJvcGVydGllczoKICAgICAgICAgICAgb3JkZXJzOgogICAgICAgICAgICAgIHR5cGU6IGFycmF5CiAgICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9PcmRlcicKICAgICAgICBoZWFkZXJzOgogICAgICAgICAgRVRhZzoKICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAiIiIKICAgIHJldHVybiBqc29uaWZ5KG1pc3Npb25zPVtPcmRlcigpXSkKCg==</text>
+      <register name="&quot;" type="4">
+        <text>result='success'</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>result='success'</text>
       </register>
       <register name="/" type="4">
-        <text>properties</text>
+        <text>subordinates</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXR1czoKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogUmVzcG9uc2Ugc3RhdHVzCiAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvUmVzcG9uc2VTdGF0dXMnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgpAc2VydmVyLnJvdXRlKCcvc3Vib3JkaW5hdGVzLzxzdWJfaWQ+L29yZGVycycsIG1ldGhvZHM9WydHRVQnXSkKQGFjY2Vzc19zdWJvcmRpbmF0ZQpkZWYgZ2V0X29yZGVyKHN1Yl9pZCk6CiAgICAiIiIKICAgIExhdGVzdCBvcmRlcnMgYXNzaWduZWQgdG8gdGhlIHN1Ym9yZGluYXRlCiAgICAtLS0KICAgIHBhcmFtZXRlcnM6CiAgICAgIC0gbmFtZTogc3ViX2lkCiAgICAgICAgZGVzY3JpcHRpb246IEEgc29sZGllci1pZAogICAgICAgIGluOiBwYXRoCiAgICAgICAgdHlwZTogc3RyaW5nCiAgICByZXNwb25zZXM6CiAgICAgIDIwMDoKICAgICAgICBkZXNjcmlwdGlvbjogQSBsaXN0IG9mIG9yZGVyCiAgICAgICAgc2NoZW1hOgogICAgICAgICAgcHJvcGVydGllczoKICAgICAgICAgICAgb3JkZXJzOgogICAgICAgICAgICAgIHR5cGU6IGFycmF5CiAgICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9PcmRlcicKICAgICAgICBoZWFkZXJzOgogICAgICAgICAgRVRhZzoKICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAiIiIKICAgIHJldHVybiBqc29uaWZ5KG1pc3Npb25zPVtPcmRlcigpXSkKCg==</text>
+      <register name="1" type="4">
+        <text>result='success'</text>
       </register>
-      <register name="2" type="4">
-        <text>500</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0OgogICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBUaGUgcmVzdWx0IG9mIHByb2Nlc3M7ICdzdWNjZXNzJyBvciAnZmFpbGVkJwogICAgICAgICAgICAgIHR5cGU6IHN0cmluZwo=</text>
       </register>
       <register name="3" type="4">
-        <text>500</text>
+        <text>missions</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Response status</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uaWZ5KG1zZz0ndGhpcyBmdW5jdGlvbiBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LicpLCA1MDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL0xlYWRlckluZm8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShtc2c9bXNnc1s0MDBdKSwgNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2JqZWN0IG9mIHRoZSBzdWJvcmRpbmF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShtc2c9bXNnc1s0MDBdKSwgNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL01pc3Npb24nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbmlmeShtc2c9bXNnc1s0MDBdKSwgNDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogSW5mb3JtYXRpb24gb2JqZWN0IG9mIHRoZSBzdWJvcmRpbmF0ZQo=</text>
       </register>
       <register name="9" type="4">
-        <text>500</text>
+        <text>Leader</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>properties</last-search>
+      <last-search>subordinates</last-search>
       <last-offset />
-      <last-pattern>properties</last-pattern>
+      <last-pattern>subordinates</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>favorited</entry>
-        <entry>required</entry>
-        <entry>in:</entry>
         <entry>def</entry>
         <entry encoding="base64">ZGVmIA==</entry>
         <entry>cros</entry>
@@ -324,6 +321,9 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kZXJcPg==</entry>
         <entry>properties</entry>
+        <entry>array</entry>
+        <entry>subor</entry>
+        <entry>subordinates</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
