@@ -148,6 +148,13 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.1/pycharm64.vmoptions" timestamp="1464062578020">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -168,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" />
       <jump line="6" column="29" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="36" column="16" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
       <jump line="0" column="0" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
@@ -268,55 +274,56 @@
       <jump line="9" column="35" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="249" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="120" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/.PyCharm2016.1/pycharm64.vmoptions" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text encoding="base64">XDw1MFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWdfaWRfbGlzdCA9IFt0ci5jb21tYW5kZXIgZm9yIHRyIGluIHJlY3J1aXRlci5fYXBwLlRyb29wTGlzdF0K</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>50</text>
       </register>
       <register name="2" type="4">
-        <text>recruiter</text>
+        <text>240</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
       </register>
       <register name="4" type="4">
-        <text>server.</text>
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbG9hZGVyPVRydWXjgaDjgajjgqLjg5fjg6rjgYwy5Zue6LW35YuV44GZ44KL77yf44KJ44GX44GE44GM44CBbW9kdWxl5YiG6Zui44GX44Gf44Gu44GnCiAgICAgICAgIyDllY/poYzjgarjgY/jgarjgaPjgZ/jgYvjgoLjgZfjgozjgarjgYTjgILopoHnorroqo3jgIIK</text>
+      <register name="5" type="4">
+        <text>5</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
+      <register name="6" type="4">
+        <text>3</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSByZWNydWl0ZXIuc2VydmVyCg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBjb21tYW5kZXIuc2VydmVyCg==</text>
+      <register name="8" type="4">
+        <text>5</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBsZWFkZXIuc2VydmVyCg==</text>
+      <register name="9" type="4">
+        <text>7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search encoding="base64">XDw1MFw+</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern encoding="base64">XDw1MFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -340,6 +347,7 @@
         <entry>pass</entry>
         <entry>implemented'</entry>
         <entry>target</entry>
+        <entry encoding="base64">XDw1MFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
