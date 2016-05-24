@@ -99,12 +99,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464096318383">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464097599872">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="80" column="46" />
-        <mark key="." line="80" column="46" />
-        <mark key="^" line="80" column="46" />
+        <mark key="[" line="84" column="17" />
+        <mark key="]" line="84" column="31" />
+        <mark key="." line="84" column="31" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
         <mark key="[" line="14" column="58" />
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>out_id</text>
+        <text>squad_soldiers</text>
       </register>
       <register name="-" type="4">
-        <text>out_id</text>
+        <text>squad_soldiers</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
@@ -284,19 +284,19 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9zcXVhZF9zb2xkaWVyc193aXRob3V0X2lkKHNlbGYpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="1" type="4">
-        <text>out_id</text>
+        <text>squad_soldiers</text>
       </register>
       <register name="2" type="4">
-        <text>commander_info_</text>
+        <text>out_id</text>
       </register>
       <register name="3" type="4">
         <text>commander_info_</text>
       </register>
       <register name="4" type="4">
-        <text>commander_info</text>
+        <text>commander_info_</text>
       </register>
       <register name="5" type="4">
-        <text>replace</text>
+        <text>commander_info</text>
       </register>
       <register name="6" type="4">
         <text>replace</text>
@@ -305,10 +305,10 @@
         <text>replace</text>
       </register>
       <register name="8" type="4">
-        <text>commanders/{com_id}</text>
+        <text>replace</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIFtQVVRdIC9jb21tYW5kZXJzL3tjb21faWR9CiAgICBkZWYgdGVzdF9yZXBsYWNlX2NvbW1hbmRlcl9pbmZvKHNlbGYpOgogICAgICAgIHBhc3MK</text>
+      <register name="9" type="4">
+        <text>commanders/{com_id}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
