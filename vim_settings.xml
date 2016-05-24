@@ -3,19 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1463988849083">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="58" />
-        <mark key="." line="217" column="36" />
-        <mark key="^" line="217" column="36" />
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="58" />
+        <mark key="." line="215" column="36" />
+        <mark key="^" line="215" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1463988739069">
-        <mark key="'" line="355" column="23" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-        <mark key="^" line="356" column="23" />
       </file>
       <file name="/Python Console" timestamp="1463998171482">
         <mark key="[" line="0" column="0" />
@@ -27,15 +30,26 @@
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/application.css.scss" timestamp="1460685052036">
         <mark key="'" line="205" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1463987209352">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="73" />
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/UserManageService/web/WEB-INF/web.xml" timestamp="1463810899879">
         <mark key="[" line="11" column="50" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee.erb" timestamp="1460697539232">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
         <mark key="[" line="6" column="8" />
@@ -77,11 +91,11 @@
         <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1463998169763">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="42" />
-        <mark key="^" line="39" column="42" />
-        <mark key="." line="39" column="42" />
+        <mark key="'" line="33" column="11" />
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="42" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="37" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
         <mark key="[" line="14" column="58" />
@@ -120,6 +134,16 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
         <mark key="[" line="4" column="16" />
