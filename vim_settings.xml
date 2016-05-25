@@ -20,7 +20,7 @@
         <mark key="." line="295" column="20" />
         <mark key="^" line="295" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1464157159985">
+      <file name="/Python Console" timestamp="1464177176006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/objects.py" timestamp="1464154326978">
@@ -114,12 +114,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464157696986">
-        <mark key="'" line="167" column="59" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="74" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464177173974">
+        <mark key="'" line="191" column="35" />
+        <mark key="[" line="132" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
         <mark key="[" line="14" column="58" />
@@ -184,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="254" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="129" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
@@ -284,61 +280,61 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" />
       <jump line="148" column="82" filename="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" />
       <jump line="167" column="59" filename="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" />
+      <jump line="181" column="35" filename="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBhIGNvbW1hbmRlcgogICAgICAgIGNvbW1hbmRlciA9IENvbW1hbmRlckluZm8oaWQ9J2N4eHgxJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2NtZF9odHRwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZHBvaW50PSdodHRwOi8vbG9jYWxob3N0OjUwMDAwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1Ym9yZGluYXRlcz1bXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbXBhaWducz1bXSkKICAgICAgICBzZWxmLmFwcC5wdXQoJy9yZWNydWl0ZXIvY29tbWFuZGVycy9jeHh4MScsCiAgICAgICAgICAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyhhc2RpY3QoY29tbWFuZGVyKSksCiAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZT0nYXBwbGljYXRpb24vanNvbicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RmlsZUhhbmRsZXIsIA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxva1w+</text>
+        <text encoding="base64">XDxsZWFkZXJfaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhc3NlcnQKICAgICAgICAgICAgZXhwZWN0ZWQgPSB7CiAgICAgICAgICAgICAgICAiX3N0YXR1cyI6IHsnc3VjY2Vzcyc6IFRydWUsICdtc2cnOiAic3RhdHVzIGlzIG9rIn0sCiAgICAgICAgICAgICAgICAnY29tbWFuZGVyJzogYXNkaWN0KGNvbW1hbmRlcikKICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgZXhwZWN0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBhIGNvbW1hbmRlcgogICAgICAgIGNvbW1hbmRlciA9IENvbW1hbmRlckluZm8oaWQ9J2N4eHgxJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2NtZF9odHRwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZHBvaW50PSdodHRwOi8vbG9jYWxob3N0OjUwMDAwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1Ym9yZGluYXRlcz1bXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbXBhaWducz1bXSkKICAgICAgICBzZWxmLmFwcC5wdXQoJy9yZWNydWl0ZXIvY29tbWFuZGVycy9jeHh4MScsCiAgICAgICAgICAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyhhc2RpY3QoY29tbWFuZGVyKSksCiAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZT0nYXBwbGljYXRpb24vanNvbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykKCg==</text>
+      <register name="3" type="4">
+        <text>Query-param leader_id is required</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">RmlsZUhhbmRsZXIsIA==</text>
+        <text>Query-param leader_id is required</text>
       </register>
       <register name="5" type="4">
-        <text>, Report, Mission, Campaign</text>
+        <text encoding="base64">ICsgbGVhZGVyX2lk</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL3JlY3J1aXRlci9kZXBhcnRtZW50L3Ryb29wL2NvbW1hbmRlcicpCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">cmVzcG9uc2UgPSAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="9" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxva1w+</last-search>
+      <last-search encoding="base64">XDxsZWFkZXJfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxva1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsZWFkZXJfaWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>modi</entry>
         <entry>font</entry>
         <entry>retweeted_stat</entry>
         <entry>user</entry>
@@ -358,6 +354,7 @@
         <entry>target</entry>
         <entry>array</entry>
         <entry encoding="base64">XDxva1w+</entry>
+        <entry encoding="base64">XDxsZWFkZXJfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -402,6 +399,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
