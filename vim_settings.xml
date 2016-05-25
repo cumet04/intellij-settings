@@ -114,12 +114,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464157598171">
+      <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464157696986">
         <mark key="'" line="167" column="59" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="74" />
         <mark key="^" line="60" column="20" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/new.html.erb" timestamp="1460704456946">
         <mark key="[" line="14" column="58" />
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykKCg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">RmlsZUhhbmRsZXIsIA==</text>
@@ -299,31 +299,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBhc3NlcnQKICAgICAgICAgICAgZXhwZWN0ZWQgPSB7CiAgICAgICAgICAgICAgICAiX3N0YXR1cyI6IHsnc3VjY2Vzcyc6IFRydWUsICdtc2cnOiAic3RhdHVzIGlzIG9rIn0sCiAgICAgICAgICAgICAgICAnY29tbWFuZGVyJzogYXNkaWN0KGNvbW1hbmRlcikKICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgZXhwZWN0ZWQpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSArICcvLi4vdHJvb3BzJykKCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">RmlsZUhhbmRsZXIsIA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>, Report, Mission, Campaign</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cmVzcG9uc2UgPSAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVzcG9uc2Ug</text>
-      </register>
       <register name="9" type="4">
-        <text>True</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
