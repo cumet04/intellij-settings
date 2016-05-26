@@ -3,14 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/application.js.erb" timestamp="1460693990421">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1464013219902">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1464248194438">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="88" column="41" />
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464057020571">
@@ -32,11 +27,6 @@
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.js" timestamp="1460705935919">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
         <mark key="[" line="62" column="24" />
@@ -44,21 +34,11 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html.erb" timestamp="1460704655136">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/UserManageService/web/WEB-INF/web.xml" timestamp="1463810899879">
         <mark key="[" line="11" column="50" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/javascripts/projects.coffee.erb" timestamp="1460697539232">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/routes.rb" timestamp="1460816114903">
         <mark key="[" line="6" column="8" />
@@ -94,6 +74,12 @@
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
         <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464248239036">
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+        <mark key="^" line="68" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -142,16 +128,6 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_count_up.html" timestamp="1460697545472">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/index.html.erb" timestamp="1460698321387">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/Gemfile" timestamp="1460815995430">
         <mark key="[" line="4" column="16" />
@@ -271,46 +247,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>S101</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>S101</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfaWRfbGlzdCA9IFt0ci5jb21tYW5kZXIgZm9yIHRyIGluIHJlY3J1aXRlci5fYXBwLlRyb29wTGlzdF0K</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBhIGNhbXBhaWducwogICAgICAgIGNhbXBhaWduID0gQ2FtcGFpZ24oYXV0aG9yPSdjeHh4MCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXN0aW5hdGlvbj0nbW9uZ29zZXJ2JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlPSdTMTAxJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1cnBvc2U9J0EgZ3JlYXQgYXBwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVtZW50cz0nYnJpZ2h0bmVzcyBzb3VuZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmlnZ2VyPSdhIHRyaWdnZXInKQogICAgICAgIHNlbGYuYXBwLnBvc3QoJy9jb21tYW5kZXIvY2FtcGFpZ25zJywKICAgICAgICAgICAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyhhc2RpY3QoY2FtcGFpZ24pKSwKICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRfdHlwZT0nYXBwbGljYXRpb24vanNvbicpCgogICAgICAgICMgZ2V0IHN1Ym9yZGluYXRlcwogICAgICAgIHJlc3BvbnNlID0gc2VsZi5hcHAuZ2V0KCcvY29tbWFuZGVyL2NhbXBhaWducycpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5zdGF0dXNfY29kZSwgMjAwKQogICAgICAgIGFjdHVhbCA9IGpzb24ubG9hZHMocmVzcG9uc2UuZGF0YS5kZWNvZGUoInV0Zi04IikpCgogICAgICAgICMgYXNzZXJ0CiAgICAgICAgZXhwZWN0ZWQgPSB7CiAgICAgICAgICAgICJfc3RhdHVzIjogeydzdWNjZXNzJzogVHJ1ZSwgJ21zZyc6ICJzdGF0dXMgaXMgb2sifSwKICAgICAgICAgICAgJ2NhbXBhaWducyc6IFthc2RpY3QoY2FtcGFpZ24pXQogICAgICAgIH0KICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgZXhwZWN0ZWQpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>S101</text>
       </register>
       <register name="2" type="4">
-        <text>recruiter</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>server.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlbG9hZGVyPVRydWXjgaDjgajjgqLjg5fjg6rjgYwy5Zue6LW35YuV44GZ44KL77yf44KJ44GX44GE44GM44CBbW9kdWxl5YiG6Zui44GX44Gf44Gu44GnCiAgICAgICAgIyDllY/poYzjgarjgY/jgarjgaPjgZ/jgYvjgoLjgZfjgozjgarjgYTjgILopoHnorroqo3jgIIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSByZWNydWl0ZXIuc2VydmVyCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBjb21tYW5kZXIuc2VydmVyCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIgPSBsZWFkZXIuc2VydmVyCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -342,8 +318,8 @@
         <entry>target</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
