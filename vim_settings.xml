@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1464251556818">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="184" column="41" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1464252409833">
+        <mark key="'" line="280" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464057020571">
         <mark key="'" line="118" column="4" />
@@ -15,7 +15,7 @@
         <mark key="]" line="306" column="45" />
         <mark key="." line="306" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1464249490127">
+      <file name="/Python Console" timestamp="1464252543933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -76,12 +76,12 @@
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464251731236">
-        <mark key="'" line="163" column="30" />
-        <mark key="[" line="163" column="30" />
-        <mark key="]" line="163" column="36" />
-        <mark key="." line="163" column="36" />
-        <mark key="^" line="163" column="36" />
+      <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464252541411">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
         <mark key="[" line="2" column="0" />
@@ -146,22 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="36" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="25" column="37" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="26" column="30" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="27" column="24" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="28" column="31" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="29" column="38" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="24" column="4" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="30" column="27" filename="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" />
-      <jump line="216" column="15" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="294" column="25" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="301" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="338" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="326" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="254" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="129" column="19" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="174" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="212" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
@@ -246,46 +230,62 @@
       <jump line="178" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="147" column="39" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="163" column="30" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="194" column="12" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="182" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="219" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="261" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="265" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="275" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="12" column="49" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="289" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="280" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="287" column="18" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="13" column="48" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="286" column="22" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subordinates</text>
+        <text>report</text>
       </register>
       <register name="-" type="4">
-        <text>subordinates</text>
+        <text>report</text>
       </register>
       <register name="/" type="4">
         <text>campai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBhIGxlYWRlcgogICAgICAgIGxlYWRlciA9IExlYWRlckluZm8oaWQ9J2x4eHgwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9J2NtZF9odHRwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZHBvaW50PSdodHRwOi8vbG9jYWxob3N0OjUwMDAwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1Ym9yZGluYXRlcz1bXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pc3Npb25zPVtdKQogICAgICAgIHNlbGYuYXBwLnBvc3QoJy9jb21tYW5kZXIvc3Vib3JkaW5hdGVzJywKICAgICAgICAgICAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyhhc2RpY3QobGVhZGVyKSksCiAgICAgICAgICAgICAgICAgICAgICBjb250ZW50X3R5cGU9J2FwcGxpY2F0aW9uL2pzb24nKQoKICAgICAgICAjIGdldCBzdWJvcmRpbmF0ZXMKICAgICAgICByZXNwb25zZSA9IHNlbGYuYXBwLmdldCgnL2NvbW1hbmRlci9zdWJvcmRpbmF0ZXMnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCkKICAgICAgICBhY3R1YWwgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmRhdGEuZGVjb2RlKCJ1dGYtOCIpKQoKICAgICAgICAjIGFzc2VydAogICAgICAgIGV4cGVjdGVkID0gewogICAgICAgICAgICAiX3N0YXR1cyI6IHsnc3VjY2Vzcyc6IFRydWUsICdtc2cnOiAic3RhdHVzIGlzIG9rIn0sCiAgICAgICAgICAgICdzdWJvcmRpbmF0ZXMnOiBbYXNkaWN0KGxlYWRlcildCiAgICAgICAgfQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoYWN0dWFsLCBleHBlY3RlZCkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="1" type="4">
-        <text>subordinates</text>
+        <text>report</text>
       </register>
       <register name="2" type="4">
-        <text>commander</text>
+        <text>report</text>
       </register>
       <register name="3" type="4">
-        <text>, Campaign</text>
+        <text>report</text>
       </register>
       <register name="4" type="4">
-        <text>CommanderInfo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>leader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Leader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
