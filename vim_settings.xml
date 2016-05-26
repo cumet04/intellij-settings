@@ -15,7 +15,7 @@
         <mark key="]" line="306" column="45" />
         <mark key="." line="306" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1464252543933">
+      <file name="/Python Console" timestamp="1464265017484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
@@ -47,9 +47,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/utils.py" timestamp="1464265004282">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="^" line="47" column="5" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464013163661">
         <mark key="'" line="9" column="35" />
@@ -99,12 +101,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464013141681">
-        <mark key="'" line="256" column="0" />
-        <mark key="[" line="88" column="59" />
-        <mark key="]" line="89" column="14" />
-        <mark key="." line="89" column="14" />
-        <mark key="^" line="89" column="14" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464265014778">
+        <mark key="'" line="342" column="23" />
+        <mark key="[" line="270" column="19" />
+        <mark key="]" line="270" column="19" />
+        <mark key="." line="270" column="19" />
+        <mark key="^" line="270" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -146,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="174" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="212" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="257" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
@@ -246,46 +247,47 @@
       <jump line="13" column="48" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="286" column="22" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="67" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
+      <jump line="342" column="23" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>report</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>report</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>campai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWN0KG5fdHVwbGUuX2FzZGljdCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>report</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>report</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>report</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBuX3R1cGxlLl9hc2RpY3QoKQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
