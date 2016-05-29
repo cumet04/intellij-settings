@@ -108,12 +108,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464501520224">
-        <mark key="'" line="304" column="8" />
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="91" column="34" />
-        <mark key="^" line="91" column="34" />
-        <mark key="." line="91" column="34" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464515992615">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="106" column="58" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -155,10 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
-      <jump line="275" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
-      <jump line="12" column="49" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
-      <jump line="289" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="287" column="18" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
@@ -255,46 +251,50 @@
       <jump line="205" column="10" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="297" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="298" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="104" column="39" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9hcHAuaWQgPSBjb21tYW5kZXJfaWQKICAgIF9hcHAubmFtZSA9IGNvbW1hbmRlcl9uYW1lCiAgICBfYXBwLmVuZHBvaW50ID0gZW5kcG9pbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>obj:</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CmRlZiBfZ2V0X3N1Ym9yZGluYXRlcyhzZWxmKToKICAgIHN0LCByZXMgPSBzZWxmLmNsaWVudC5nZXQoJ3N1Ym9yZGluYXRlcycpCiAgICBpZiByZXMgaXMgTm9uZToKICAgICAgICByZXR1cm4gTm9uZQogICAgaWYgc3QgIT0gMjAwOgogICAgICAgIHJldHVybiByZXNbJ19zdGF0dXMnXSwgTm9uZQogICAgcmV0dXJuIHJlc1snX3N0YXR1cyddLCBbTGVhZGVySW5mbyhsKSBmb3IgbCBpbiByZXNbJ3N1Ym9yZGluYXRlcyddXQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGluaXRpYWxpemVfYXBwKGNvbW1hbmRlcl9pZCwgY29tbWFuZGVyX25hbWUsIGVuZHBvaW50KToK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIF9hcHAuaWQgPSBjb21tYW5kZXJfaWQKICAgIF9hcHAubmFtZSA9IGNvbW1hbmRlcl9uYW1lCiAgICBfYXBwLmVuZHBvaW50ID0gZW5kcG9pbnQK</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>''</text>
       </register>
       <register name="3" type="4">
-        <text>response</text>
+        <text encoding="base64">ZCA=</text>
       </register>
       <register name="4" type="4">
-        <text>status</text>
+        <text>commander_id</text>
       </register>
       <register name="5" type="4">
-        <text>: str</text>
+        <text>commander_</text>
       </register>
       <register name="6" type="4">
-        <text>response</text>
+        <text>commander_</text>
       </register>
       <register name="7" type="4">
-        <text>status</text>
+        <text>comj</text>
       </register>
       <register name="8" type="4">
-        <text>: str</text>
+        <text>''</text>
       </register>
       <register name="9" type="4">
-        <text>response</text>
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
