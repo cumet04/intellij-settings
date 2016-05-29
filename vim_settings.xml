@@ -13,10 +13,12 @@
       <file name="/Python Console" timestamp="1464500320943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464500191375">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464501300082">
         <mark key="'" line="110" column="0" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="278" column="71" />
+        <mark key="[" line="418" column="69" />
+        <mark key="]" line="419" column="29" />
+        <mark key="." line="419" column="29" />
+        <mark key="^" line="419" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/objects.py" timestamp="1464493930426">
         <mark key="[" line="3" column="0" />
@@ -106,12 +108,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464500335245">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="135" column="67" />
-        <mark key="." line="218" column="40" />
-        <mark key="^" line="218" column="40" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464501520224">
+        <mark key="'" line="304" column="8" />
+        <mark key="[" line="85" column="32" />
+        <mark key="]" line="91" column="34" />
+        <mark key="^" line="91" column="34" />
+        <mark key="." line="91" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -153,9 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
-      <jump line="261" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="265" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="275" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
       <jump line="12" column="49" filename="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" />
@@ -253,61 +252,63 @@
       <jump line="210" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="178" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="205" column="10" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="297" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="298" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfcm9vdChzZWxmKToKICAgIHN0YXR1cywgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoJycpCiAgICBpZiByZXNwb25zZSBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCiAgICBpZiBzdGF0dXMgIT0gMjAwOgogICAgICAgIHJldHVybiAocmVzcG9uc2VbJ19zdGF0dXMnXSwgTm9uZSkKICAgIHJldHVybiAocmVzcG9uc2VbJ19zdGF0dXMnXSwgQ29tbWFuZGVySW5mbygqKnJlc3BvbnNlWydpbmZvJ10pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>CommanderInfo</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>logger.</text>
+        <text>obj:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfcm9vdChzZWxmKToKICAgIHN0YXR1cywgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoJycpCiAgICBpZiByZXNwb25zZSBpcyBOb25lOgogICAgICAgIHJldHVybiBOb25lCiAgICBpZiBzdGF0dXMgIT0gMjAwOgogICAgICAgIHJldHVybiAocmVzcG9uc2VbJ19zdGF0dXMnXSwgTm9uZSkKICAgIHJldHVybiAocmVzcG9uc2VbJ19zdGF0dXMnXSwgQ29tbWFuZGVySW5mbygqKnJlc3BvbnNlWydpbmZvJ10pKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CmRlZiBfZ2V0X3N1Ym9yZGluYXRlcyhzZWxmKToKICAgIHN0LCByZXMgPSBzZWxmLmNsaWVudC5nZXQoJ3N1Ym9yZGluYXRlcycpCiAgICBpZiByZXMgaXMgTm9uZToKICAgICAgICByZXR1cm4gTm9uZQogICAgaWYgc3QgIT0gMjAwOgogICAgICAgIHJldHVybiByZXNbJ19zdGF0dXMnXSwgTm9uZQogICAgcmV0dXJuIHJlc1snX3N0YXR1cyddLCBbTGVhZGVySW5mbyhsKSBmb3IgbCBpbiByZXNbJ3N1Ym9yZGluYXRlcyddXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>CommanderInfo</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>commander</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>response</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>status</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>: str</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>response</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text>status</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>: str</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>response</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger.</last-search>
+      <last-search>obj:</last-search>
       <last-offset />
-      <last-pattern>logger.</last-pattern>
+      <last-pattern>obj:</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
         <entry>not im</entry>
         <entry>not i</entry>
         <entry>pass</entry>
@@ -327,6 +328,7 @@
         <entry>Response</entry>
         <entry>logger</entry>
         <entry>logger.</entry>
+        <entry>obj:</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
