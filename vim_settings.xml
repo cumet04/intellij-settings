@@ -9,8 +9,13 @@
         <mark key="]" line="10" column="29" />
         <mark key="." line="280" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1464340137236">
+      <file name="/Python Console" timestamp="1464487869933">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464487852631">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -240,8 +245,8 @@
       <jump line="68" column="24" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">W05JWV0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJodHRwOi8vbG9jYWxob3N0Igo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">W05JWV0g</text>
@@ -252,32 +257,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgbGVhZGVyX2lkLCBzdWJvcmRpbmF0ZXMgaW4gc2VsZi5TcXVhZExpc3Q6CiAgICAgICAgICAgIGlmIHNvbGRpZXJfaWQgaW4gc3Vib3JkaW5hdGVzOgogICAgICAgICAgICAgICAgcmV0dXJuIGxlYWRlcl9pZAogICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">W05JWV0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJodHRwOi8vbG9jYWxob3N0Igo=</text>
       </register>
       <register name="2" type="4">
-        <text>TroopList</text>
+        <text encoding="base64">W05JWV0g</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>TroopList</text>
       </register>
       <register name="4" type="4">
-        <text>, 500</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>, 500</text>
       </register>
       <register name="6" type="4">
-        <text>NotImplemented</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>leader</text>
+        <text>NotImplemented</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>leader</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
