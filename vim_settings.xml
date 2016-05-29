@@ -285,7 +285,7 @@
         <text>g</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -319,8 +319,8 @@
         <entry encoding="base64">XDxTcXVhZExpc3RcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
