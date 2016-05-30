@@ -4,16 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" timestamp="1464252409833">
-        <mark key="'" line="280" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="280" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464057020571">
-        <mark key="'" line="118" column="4" />
-        <mark key="[" line="306" column="45" />
-        <mark key="]" line="306" column="45" />
-        <mark key="." line="306" column="45" />
+        <mark key="'" line="283" column="0" />
+        <mark key="." line="283" column="0" />
       </file>
       <file name="/Python Console" timestamp="1464252543933">
         <mark key="[" line="0" column="0" />
@@ -46,10 +38,6 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/controllers/projects_controller.rb" timestamp="1460711674989">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464013163661">
         <mark key="'" line="9" column="35" />
@@ -98,13 +86,6 @@
         <mark key="]" line="14" column="58" />
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464013141681">
-        <mark key="'" line="256" column="0" />
-        <mark key="[" line="88" column="59" />
-        <mark key="]" line="89" column="14" />
-        <mark key="." line="89" column="14" />
-        <mark key="^" line="89" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
