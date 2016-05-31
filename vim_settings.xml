@@ -10,7 +10,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1464529232598">
+      <file name="/Python Console" timestamp="1464707550191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464529374814">
@@ -61,10 +61,11 @@
         <mark key="^" line="37" column="52" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464527415336">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464707575533">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+        <mark key="^" line="370" column="25" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
         <mark key="'" line="27" column="10" />
@@ -80,9 +81,6 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/keys.rb" timestamp="1460877902691">
-        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464523880563">
         <mark key="'" line="16" column="0" />
@@ -128,6 +126,11 @@
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
         <mark key="^" line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" timestamp="1464706993012">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
         <mark key="[" line="21" column="21" />
@@ -252,44 +255,44 @@
       <jump line="43" column="53" filename="$USER_HOME$/Documents/SensingTroops/troops/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>if res is None:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc29uLmR1bXBzKHJlcXVlc3Rfb2JqKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSkK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24zCiMgLSotIGNvZGluZzogdXRmLTggLSotCgppbXBvcnQgb3MKaW1wb3J0IGFyZ3BhcnNlCmZyb20gZnVuY3Rvb2xzIGltcG9ydCB3cmFwcwpmcm9tIG9iamVjdHMgaW1wb3J0IExlYWRlckluZm8sIFNvbGRpZXJJbmZvLCBXb3JrLCBNaXNzaW9uLCBSZXNwb25zZVN0YXR1cyxcCiAgICBkZWZpbml0aW9ucwpmcm9tIHV0aWxzIGltcG9ydCBqc29uX2lucHV0LCBhc2RpY3QKZnJvbSBmbGFzayBpbXBvcnQgRmxhc2ssIGpzb25pZnksIHJlcXVlc3QsIEJsdWVwcmludCwgcmVuZGVyX3RlbXBsYXRlCmZyb20gZmxhc2tfY29ycyBpbXBvcnQgY3Jvc3Nfb3JpZ2luCmZyb20gZmxhc2tfc3dhZ2dlciBpbXBvcnQgc3dhZ2dlcgpmcm9tIHJlY3J1aXRlciBpbXBvcnQgUmVjcnVpdGVyQ2xpZW50CmZyb20gY29tbWFuZGVyIGltcG9ydCBDb21tYW5kZXJDbGllbnQKZnJvbSBsb2dnaW5nIGltcG9ydCBnZXRMb2dnZXIsIFN0cmVhbUhhbmRsZXIsIERFQlVHCgpsb2dnZXIgPSBnZXRMb2dnZXIoX19uYW1lX18pCmhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKCkKaGFuZGxlci5zZXRMZXZlbChERUJVRykKbG9nZ2VyLnNldExldmVsKERFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihoYW5kbGVyKQoKCmNsYXNzIExlYWRlcihvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHNlbGYuaWQgPSAnJwogICAgICAgIHNlbGYubmFtZSA9ICcnCiAgICAgICAgc2VsZi5lbmRwb2ludCA9ICcnCiAgICAgICAgc2VsZi5zdWJvcmRpbmF0ZXMgPSB7fQogICAgICAgIHNlbGYubWlzc2lvbnMgPSBbXQogICAgICAgIHNlbGYud29ya19jYWNoZSA9IFtdCgogICAgZGVmIGF3YWtlKHNlbGYsIHJlY19jbGllbnQpOgogICAgICAgICMg5LiK5a6Y44KS6Kej5rG644GZ44KLCiAgICAgICAgc3VwZXJpb3IsIGVyciA9IHJlY19jbGllbnQuZ2V0X2RlcGFydG1lbnRfdHJvb3BfY29tbWFuZGVyKHNlbGYuaWQpCiAgICAgICAgaWYgZXJyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoImluIExlYWRlciBhd2FrZSIpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiW0dFVF1yZWNydWl0ZXIvZGVwYXJ0bWVudC90cm9vcC9jb21tYW5kZXIiICsKICAgICAgICAgICAgICAgICAgICAgICAgICIgZmFpbGVkOiB7MH0iLmZvcm1hdChlcnIpKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBsb2dnZXIuaW5mbygic3VwZXJpb3Igd2FzIHJlc29sdmVkOiBpZD17MH0iLmZvcm1hdChzdXBlcmlvci5pZCkpCgogICAgICAgICMg6YOo6ZqK44Gr5Yqg5YWl44GZ44KLCiAgICAgICAgY29tX2NsaWVudCA9IENvbW1hbmRlckNsaWVudC5nZW5fcmVzdF9jbGllbnQoc3VwZXJpb3IuZW5kcG9pbnQpCiAgICAgICAgcmVzLCBlcnIgPSBjb21fY2xpZW50LnBvc3Rfc3Vib3JkaW5hdGVzKHNlbGYuZ2VuZXJhdGVfaW5mbygpKQogICAgICAgIGlmIGVyciBpcyBub3QgTm9uZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJpbiBMZWFkZXIgYXdha2UiKQogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIltQT1NUXWNvbW1hbmRlci9zdWJvcmRpbmF0ZXMgZmFpbGVkOiB7MH0iLmZvcm1hdChlcnIpKQogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBsb2dnZXIuaW5mbygiam9pbmVkIHRvIHRyb29wIikKCiAgICAgICAgIyBtaXNzaW9u44KS5Y+W5b6X44GZ44KLCiAgICAgICAgIyBUT0RPOiBqb2IgYXNzaWdu44GM5a6f6KOF44GV44KM5qyh56ysCgogICAgZGVmIGdlbmVyYXRlX2luZm8oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAg6Ieq6Lqr44Gu44OR44Op44Oh44O844K/576k44GL44KJTGVhZGVySW5mb+OCquODluOCuOOCp+OCr+ODiOOCkueUn+aIkOOBmeOCiwogICAgICAgIDpyZXR1cm4gTGVhZGVySW5mbzog55Sf5oiQ44GX44GfTGVhZGVySW5mbwogICAgICAgICIiIgogICAgICAgIHJldHVybiBMZWFkZXJJbmZvKAogICAgICAgICAgICBpZD1zZWxmLmlkLAogICAgICAgICAgICBuYW1lPXNlbGYubmFtZSwKICAgICAgICAgICAgZW5kcG9pbnQ9c2VsZi5lbmRwb2ludCwKICAgICAgICAgICAgc3Vib3JkaW5hdGVzPWxpc3Qoc2VsZi5zdWJvcmRpbmF0ZXMua2V5cygpKSwKICAgICAgICAgICAgbWlzc2lvbnM9c2VsZi5taXNzaW9ucykK</text>
       </register>
-      <register name="1" type="4">
-        <text>m</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>m</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzb2xkaWUK</text>
       </register>
-      <register name="3" type="4">
-        <text>m</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHdyYXBzCg==</text>
       </register>
       <register name="4" type="4">
-        <text>app</text>
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyBoZWxwZXIgY2xhc3MgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCg==</text>
+      <register name="5" type="4">
+        <text>definitions</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Mission, ResponseStatus, \</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyDjg6rjgrnjg4jjgavmjJnjgZLjgonjgozjgabjgYTjgovjg6Hjgr3jg4Pjg4njgpLjgqTjg7Pjgrnjgr/jg7Pjgrnjg6Hjgr3jg4Pjg4nljJbjgZnjgosKIyBBUEnjg4njgq3jg6Xjg6Hjg7Pjg4jjgahBUEnjg5jjg6vjg5Hjg7zjga7lrp/oo4XjgpLjgrPjg7zjg4nnmoTjgavov5HjgY/jgavlrp/oo4XjgZnjgovjgZ/jgoHjga7mjqrnva4KbWV0aG9kX2xpc3QgPSBbX2dldF9jb21tYW5kZXJzLAogICAgICAgICAgICAgICBfZ2V0X2NvbW1hbmRlcnNfc3BlYywKICAgICAgICAgICAgICAgX3B1dF9jb21tYW5kZXJzX3NwZWMsCiAgICAgICAgICAgICAgIF9nZXRfZGVwYXJ0bWVudF9zcXVhZF9sZWFkZXIsCiAgICAgICAgICAgICAgIF9nZXRfZGVwYXJ0bWVudF90cm9vcF9jb21tYW5kZXIsCiAgICAgICAgICAgICAgIF0KZm9yIG1ldGhvZCBpbiBtZXRob2RfbGlzdDoKICAgIHNldGF0dHIoUmVjcnVpdGVyQ2xpZW50LCBtZXRob2QuX19uYW1lX19bMTpdLCBtZXRob2QpCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQganNvbl9pbnB1dCwgYXNkaWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBsZWFkZXIgaW1wb3J0IExlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFJlY3J1aXRlckNsaWVudChvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNsaWVudDogUmVzdENsaWVudCk6CiAgICAgICAgc2VsZi5jbGllbnQgPSBjbGllbnQKCgojIOODquOCueODiOOBq+aMmeOBkuOCieOCjOOBpuOBhOOCi+ODoeOCveODg+ODieOCkuOCpOODs+OCueOCv+ODs+OCueODoeOCveODg+ODieWMluOBmeOCiwojIEFQSeODieOCreODpeODoeODs+ODiOOBqEFQSeODmOODq+ODkeODvOOBruWun+ijheOCkuOCs+ODvOODieeahOOBq+i/keOBj+OBq+Wun+ijheOBmeOCi+OBn+OCgeOBruaOque9rgptZXRob2RfbGlzdCA9IFtfZ2V0X2NvbW1hbmRlcnMsCiAgICAgICAgICAgICAgIF9nZXRfY29tbWFuZGVyc19zcGVjLAogICAgICAgICAgICAgICBfcHV0X2NvbW1hbmRlcnNfc3BlYywKICAgICAgICAgICAgICAgX2dldF9kZXBhcnRtZW50X3NxdWFkX2xlYWRlciwKICAgICAgICAgICAgICAgX2dldF9kZXBhcnRtZW50X3Ryb29wX2NvbW1hbmRlciwKICAgICAgICAgICAgICAgXQpmb3IgbWV0aG9kIGluIG1ldGhvZF9saXN0OgogICAgc2V0YXR0cihSZWNydWl0ZXJDbGllbnQsIG1ldGhvZC5fX25hbWVfX1sxOl0sIG1ldGhvZCkKCmRlZiBnZW5fcmVzdF9jbGllbnQoYmFzZV91cmwpOgogICAgcmV0dXJuIFJlY3J1aXRlckNsaWVudChSZXN0Q2xpZW50KGJhc2VfdXJsKSkKCg==</text>
+      <register name="9" type="4">
+        <text>CommanderClient</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
