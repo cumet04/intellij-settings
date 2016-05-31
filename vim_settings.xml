@@ -10,7 +10,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1464707550191">
+      <file name="/Python Console" timestamp="1464711377714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464529374814">
@@ -57,10 +57,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/troops/utils.py" timestamp="1464709121579">
         <mark key="'" line="43" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464708659312">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464711371923">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="370" column="11" />
+        <mark key="]" line="370" column="14" />
+        <mark key="." line="370" column="14" />
+        <mark key="^" line="370" column="14" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
         <mark key="'" line="27" column="10" />
@@ -103,12 +105,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464710617914">
-        <mark key="'" line="138" column="8" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="8" />
-        <mark key="." line="138" column="8" />
-        <mark key="^" line="138" column="7" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464711168887">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="148" column="55" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -155,11 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="446" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="437" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="9" column="49" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="444" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="460" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="107" column="27" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
@@ -255,49 +252,54 @@
       <jump line="43" column="53" filename="$USER_HOME$/Documents/SensingTroops/troops/utils.py" />
       <jump line="327" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="138" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="513" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="47" column="13" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlz</text>
       </register>
       <register name="-" type="4">
-        <text>, obj</text>
+        <text encoding="base64">IGlz</text>
       </register>
       <register name="/" type="4">
         <text>if res is None:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBfcG9zdF9jYW1wYWlnbnMoc2VsZi5jbGllbnQsIG9iaikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiaW4gQ29tbWFuZGVyQ2xpZW50LnBvc3RfY2FtcGFpZ25zIikKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCI+PiBnb3QgYSBleGNlcHRpb246IHswfSIuZm9ybWF0KGUuX19jbGFzc19fKSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzdXBlcmlvciBpcyBOb25lIGFuZCBlcnIgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGlz</text>
       </register>
-      <register name="2" type="4">
-        <text>, obj</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>post_campaigns</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="4">
+        <text>superior</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="4">
-        <text>lient</text>
+        <text>get_subordinates_spec</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>lient</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
-        <text>action JumpToLastChange</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -332,7 +334,6 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action Last Edit Location</entry>
         <entry>action &quot;Last Edit Location&quot;</entry>
         <entry>action LastEditLocation</entry>
@@ -343,6 +344,7 @@
         <entry>actionlist JumpToLast</entry>
         <entry>actionlist JumpToLastChange</entry>
         <entry>action JumpToLastChange</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
