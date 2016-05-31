@@ -103,12 +103,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464710130686">
-        <mark key="'" line="358" column="0" />
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="48" />
-        <mark key="^" line="122" column="36" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464710617914">
+        <mark key="'" line="138" column="8" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="8" />
+        <mark key="." line="138" column="8" />
+        <mark key="^" line="138" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -155,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="3" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="446" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="437" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
@@ -255,10 +254,11 @@
       <jump line="315" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
       <jump line="43" column="53" filename="$USER_HOME$/Documents/SensingTroops/troops/utils.py" />
       <jump line="327" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
+      <jump line="138" column="8" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhCg==</text>
       </register>
       <register name="-" type="4">
         <text>, obj</text>
@@ -269,35 +269,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBfcG9zdF9jYW1wYWlnbnMoc2VsZi5jbGllbnQsIG9iaikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiaW4gQ29tbWFuZGVyQ2xpZW50LnBvc3RfY2FtcGFpZ25zIikKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCI+PiBnb3QgYSBleGNlcHRpb246IHswfSIuZm9ybWF0KGUuX19jbGFzc19fKSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUK</text>
       </register>
-      <register name="1" type="4">
-        <text>, obj</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhCg==</text>
       </register>
       <register name="2" type="4">
-        <text>post_campaigns</text>
+        <text>, obj</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="3" type="4">
+        <text>post_campaigns</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>lient</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>lient</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action JumpToLastChange</text>
       </register>
     </registers>
     <search>
@@ -333,6 +333,16 @@
       <history-cmd>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action Last Edit Location</entry>
+        <entry>action &quot;Last Edit Location&quot;</entry>
+        <entry>action LastEditLocation</entry>
+        <entry>actionlist LastEdit</entry>
+        <entry>actionlist &quot;Last Edit Location&quot;</entry>
+        <entry>actionlist Last Edit Location</entry>
+        <entry>actionlist Last</entry>
+        <entry>actionlist JumpToLast</entry>
+        <entry>actionlist JumpToLastChange</entry>
+        <entry>action JumpToLastChange</entry>
       </history-cmd>
       <history-expr />
       <history-input />
