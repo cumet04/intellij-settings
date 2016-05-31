@@ -103,12 +103,12 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464709546804">
-        <mark key="'" line="349" column="0" />
-        <mark key="[" line="105" column="31" />
-        <mark key="]" line="105" column="31" />
-        <mark key="." line="105" column="31" />
-        <mark key="^" line="105" column="31" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464710130686">
+        <mark key="'" line="358" column="0" />
+        <mark key="[" line="122" column="48" />
+        <mark key="]" line="122" column="48" />
+        <mark key="." line="122" column="48" />
+        <mark key="^" line="122" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/assets/stylesheets/projects.css.scss" timestamp="1460708606370">
         <mark key="'" line="68" column="20" />
@@ -258,43 +258,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>, obj</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>, obj</text>
       </register>
       <register name="/" type="4">
         <text>if res is None:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbQ2FtcGFpZ24oYykgZm9yIGMgaW4gcmVzWydjYW1wYWlnbnMnXV0sIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBfcG9zdF9jYW1wYWlnbnMoc2VsZi5jbGllbnQsIG9iaikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiaW4gQ29tbWFuZGVyQ2xpZW50LnBvc3RfY2FtcGFpZ25zIikKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCI+PiBnb3QgYSBleGNlcHRpb246IHswfSIuZm9ybWF0KGUuX19jbGFzc19fKSkKICAgICAgICAgICAgcmV0dXJuIE5vbmUsIE5vbmUK</text>
       </register>
       <register name="1" type="4">
-        <text>i</text>
-      </register>
-      <register name="2" type="4">
-        <text>lient</text>
-      </register>
-      <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="4" type="4">
-        <text>self</text>
-      </register>
-      <register name="5" type="4">
-        <text>self</text>
-      </register>
-      <register name="6" type="4">
         <text>, obj</text>
       </register>
-      <register name="7" type="4">
-        <text>post_subordinates</text>
+      <register name="2" type="4">
+        <text>post_campaigns</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyDjg6rjgrnjg4jjgavmjJnjgZLjgonjgozjgabjgYTjgovjg6Hjgr3jg4Pjg4njgpLjgqTjg7Pjgrnjgr/jg7Pjgrnjg6Hjgr3jg4Pjg4nljJbjgZnjgosKICAgICAgICBtZXRob2RfbGlzdCA9IFtfZ2V0X3Jvb3QsCiAgICAgICAgICAgICAgICAgICAgICAgX2dldF9jYW1wYWlnbnMsCiAgICAgICAgICAgICAgICAgICAgICAgX3Bvc3RfY2FtcGFpZ25zLAogICAgICAgICAgICAgICAgICAgICAgIF9nZXRfc3Vib3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgICMgX3Bvc3Rfc3Vib3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgIF9nZXRfc3Vib3JkaW5hdGVzX3NwZWMsCiAgICAgICAgICAgICAgICAgICAgICAgX3Bvc3RfcmVwb3J0CiAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgIGZvciBtZXRob2QgaW4gbWV0aG9kX2xpc3Q6CiAgICAgICAgICAgIHNldGF0dHIoc2VsZi5fX2NsYXNzX18sIG1ldGhvZC5fX25hbWVfX1sxOl0sIG1ldGhvZCkK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>lient</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="4">
+        <text>l</text>
+      </register>
+      <register name="8" type="4">
+        <text>x</text>
+      </register>
+      <register name="9" type="4">
+        <text>self</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
