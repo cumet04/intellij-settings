@@ -10,7 +10,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1464712234020">
+      <file name="/Python Console" timestamp="1464776187306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464712167593">
@@ -20,9 +20,10 @@
         <mark key="." line="142" column="80" />
         <mark key="^" line="142" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/objects.py" timestamp="1464493930426">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="34" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/objects.py" timestamp="1464775587403">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/tweet.rb" timestamp="1460890177423">
         <mark key="'" line="30" column="27" />
@@ -57,12 +58,12 @@
       <file name="$USER_HOME$/Documents/SensingTroops/troops/utils.py" timestamp="1464709121579">
         <mark key="'" line="43" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464771780903">
-        <mark key="'" line="404" column="0" />
-        <mark key="[" line="164" column="42" />
-        <mark key="]" line="164" column="50" />
-        <mark key="." line="164" column="50" />
-        <mark key="^" line="164" column="50" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464776015380">
+        <mark key="'" line="470" column="4" />
+        <mark key="[" line="470" column="0" />
+        <mark key="]" line="492" column="47" />
+        <mark key="." line="170" column="26" />
+        <mark key="^" line="170" column="26" />
       </file>
       <file name="/usr/local/lib/ruby/gems/2.3.0/gems/twitter-5.16.0/lib/twitter/user.rb" timestamp="1460884459273">
         <mark key="'" line="27" column="10" />
@@ -86,10 +87,6 @@
         <mark key="." line="52" column="30" />
         <mark key="^" line="33" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/webTwitterC/config/initializers/session_store.rb" timestamp="1460817565516">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/recruiter_test.py" timestamp="1464523898642">
         <mark key="[" line="5" column="74" />
         <mark key="]" line="6" column="0" />
@@ -105,10 +102,10 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464771854153">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464775940564">
         <mark key="'" line="150" column="58" />
-        <mark key="[" line="432" column="22" />
-        <mark key="]" line="432" column="23" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="155" column="51" />
         <mark key="." line="432" column="23" />
         <mark key="^" line="432" column="23" />
       </file>
@@ -131,10 +128,12 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" timestamp="1464706993012">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" timestamp="1464776110084">
+        <mark key="'" line="55" column="30" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="70" column="7" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/webTwitterC/app/controllers/application_controller.rb" timestamp="1460890258110">
         <mark key="[" line="21" column="21" />
@@ -157,11 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="34" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
-      <jump line="289" column="24" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
-      <jump line="297" column="35" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
-      <jump line="8" column="7" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="30" column="8" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="32" column="34" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="33" column="45" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
@@ -257,55 +251,60 @@
       <jump line="111" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="119" column="22" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
       <jump line="395" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" />
+      <jump line="36" column="14" filename="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" />
+      <jump line="169" column="26" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="470" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
+      <jump line="55" column="30" filename="$USER_HOME$/Documents/SensingTroops/troops/soldier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get_subordinates_spec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get_subordinates_spec</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>str(e\.__class__)</text>
+        <text>tr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc3Vib3JkaW5hdGVzX3NwZWMoc2VsZiwgc3ViX2lkOiBzdHIpIC0+IChTb2xkaWVySW5mbywgc3RyKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBfZ2V0X3N1Ym9yZGluYXRlc19zcGVjKHNlbGYuY2xpZW50LCBzdWJfaWQpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoImluIExlYWRlckNsaWVudC5nZXRfc3Vib3JkaW5hdGVzX3NwZWMiKQogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIj4+IGdvdCBhIGV4Y2VwdGlvbjogezB9Ii5mb3JtYXQoZS5fX2NsYXNzX18uX19uYW1lX18pKQogICAgICAgICAgICByZXR1cm4gTm9uZSwgTm9uZQo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ2lkJywgbWV0YXZhcj0naWQnLCB0eXBlPXN0ciwgaGVscD0nVGFyZ2V0IGlkIG9mIGFwcCcpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICduYW1lJywgbWV0YXZhcj0nbmFtZScsIHR5cGU9c3RyLCBoZWxwPSdUYXJnZXQgbmFtZSBvZiBhcHAnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLVAnLCAnLS1wb3J0JywgdHlwZT1pbnQsIGRlZmF1bHQ9NTAwMDIsIGhlbHA9J3BvcnQnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAnLUYnLCAnLS1wcmVmaXgnLCB0eXBlPXN0ciwgZGVmYXVsdD0nL2xlYWRlcicsIGhlbHA9J3VybCBwcmVmaXgnKQogICAgcGFyYW1zID0gcGFyc2VyLnBhcnNlX2FyZ3MoKQogICAgdXJsX3ByZWZpeCA9IHBhcmFtcy5wcmVmaXgKCiAgICBpZiBvcy5lbnZpcm9uLmdldCgiV0VSS1pFVUdfUlVOX01BSU4iKSA9PSAidHJ1ZSI6CiAgICAgICAgZXAgPSAnaHR0cDovL2xvY2FsaG9zdDp7MH17MX0vJy5mb3JtYXQocGFyYW1zLnBvcnQsIHVybF9wcmVmaXgpCiAgICAgICAgaW5pdGlhbGl6ZV9hcHAocGFyYW1zLmlkLCBwYXJhbXMubmFtZSwgZXApCiAgICAgICAgX2xlYWRlci5hd2FrZShSZWNydWl0ZXJDbGllbnQuZ2VuX3Jlc3RfY2xpZW50KAogICAgICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo1MDAwMC9yZWNydWl0ZXIvJykpCgogICAgc2VydmVyID0gRmxhc2soX19uYW1lX18pCiAgICBzZXJ2ZXIuZGVidWcgPSBUcnVlCiAgICBzZXJ2ZXIucmVnaXN0ZXJfYmx1ZXByaW50KGFwcCwgdXJsX3ByZWZpeD11cmxfcHJlZml4KQogICAgc2VydmVyLnJ1bihob3N0PScwLjAuMC4wJywgcG9ydD1wYXJhbXMucG9ydCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>get_subordinates_spec</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>get_subordinates_spec</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNlcnZlciA9IEZsYXNrKF9fbmFtZV9fKQogICAgc2VydmVyLmRlYnVnID0gVHJ1ZQogICAgc2VydmVyLnJlZ2lzdGVyX2JsdWVwcmludChhcHAsIHVybF9wcmVmaXg9dXJsX3ByZWZpeCkKICAgIHNlcnZlci5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9cGFyYW1zLnBvcnQpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>SoldierInfo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>get_subordinates_spec</text>
+        <text>leader</text>
       </register>
-      <register name="5" type="4">
-        <text>SoldierInfo</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGluaXRpYWxpemVfYXBwKHBhcmFtcy5pZCwgcGFyYW1zLm5hbWUsIGVwKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>info</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIG9zLmVudmlyb24uZ2V0KCJXRVJLWkVVR19SVU5fTUFJTiIpID09ICJ0cnVlIjoKICAgICAgICBlcCA9ICdodHRwOi8vbG9jYWxob3N0OnswfXsxfS8nLmZvcm1hdChwYXJhbXMucG9ydCwgdXJsX3ByZWZpeCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>get</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVybF9wcmVmaXggPSBwYXJhbXMucHJlZml4Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>sub_id</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1GJywgJy0tcHJlZml4JywgdHlwZT1zdHIsIGRlZmF1bHQ9Jy9sZWFkZXInLCBoZWxwPSd1cmwgcHJlZml4JykK</text>
       </register>
-      <register name="9" type="4">
-        <text>subordinates_spec</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy1QJywgJy0tcG9ydCcsIHR5cGU9aW50LCBkZWZhdWx0PTUwMDAyLCBoZWxwPSdwb3J0JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>str(e.</last-search>
+      <last-search>tr</last-search>
       <last-offset />
-      <last-pattern>str(e\.__class__)</last-pattern>
+      <last-pattern>tr</last-pattern>
       <last-replace>e\.__class__\.__name__</last-replace>
       <last-substitute>str(e\.__class__)</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOVFw+</entry>
         <entry encoding="base64">XDxTcXVhZExpc3RcPg==</entry>
         <entry>Response</entry>
         <entry>logger</entry>
@@ -333,6 +331,7 @@
         <entry>str(e.</entry>
         <entry>str\(e\.__class__\)</entry>
         <entry>str(e\.__class__)</entry>
+        <entry>tr</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
