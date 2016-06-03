@@ -12,10 +12,10 @@
       <file name="/Python Console" timestamp="1464869120262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464869089167">
+      <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="294" column="70" />
-        <mark key="]" line="294" column="70" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="19" column="25" />
         <mark key="." line="294" column="70" />
         <mark key="^" line="294" column="70" />
       </file>
@@ -273,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLmVudmlyb24uZ2V0KCJXRVJLWkVVR19SVU5fTUFJTiIpID09ICJ0cnVlIjoK</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBvcwpmcm9tIHV0aWxzLmNvbW1hbmRlcl9jbGllbnQgaW1wb3J0IENvbW1hbmRlckNsaWVudApmcm9tIHV0aWxzLm9iamVjdHMgaW1wb3J0IENvbW1hbmRlckluZm8sIFJlc3BvbnNlU3RhdHVzLCBkZWZpbml0aW9ucwpmcm9tIHV0aWxzLmhlbHBlcnMgaW1wb3J0IGpzb25faW5wdXQsIGFzZGljdApmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBuYW1lZHR1cGxlCmZyb20gZmxhc2tfY29ycyBpbXBvcnQgY3Jvc3Nfb3JpZ2luCmZyb20gZmxhc2sgaW1wb3J0IEZsYXNrLCBqc29uaWZ5LCByZXF1ZXN0LCByZW5kZXJfdGVtcGxhdGUsIEJsdWVwcmludApmcm9tIGZsYXNrX3N3YWdnZXIgaW1wb3J0IHN3YWdnZXIKZnJvbSBsb2dnaW5nIGltcG9ydCBnZXRMb2dnZXIsIFN0cmVhbUhhbmRsZXIsIERFQlVHCgpsb2dnZXIgPSBnZXRMb2dnZXIoX19uYW1lX18pCmhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKCkKaGFuZGxlci5zZXRMZXZlbChERUJVRykKbG9nZ2VyLnNldExldmVsKERFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihoYW5kbGVyKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZnJvbSA=</text>
@@ -282,7 +282,7 @@
         <text encoding="base64">XDxhc2RpY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcnZlci5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9cGFyYW1zLnBvcnQsIHVzZV9yZWxvYWRlcj1GYWxzZSkK</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBvcwpmcm9tIHV0aWxzLmNvbW1hbmRlcl9jbGllbnQgaW1wb3J0IENvbW1hbmRlckNsaWVudApmcm9tIHV0aWxzLm9iamVjdHMgaW1wb3J0IENvbW1hbmRlckluZm8sIFJlc3BvbnNlU3RhdHVzLCBkZWZpbml0aW9ucwpmcm9tIHV0aWxzLmhlbHBlcnMgaW1wb3J0IGpzb25faW5wdXQsIGFzZGljdApmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBuYW1lZHR1cGxlCmZyb20gZmxhc2tfY29ycyBpbXBvcnQgY3Jvc3Nfb3JpZ2luCmZyb20gZmxhc2sgaW1wb3J0IEZsYXNrLCBqc29uaWZ5LCByZXF1ZXN0LCByZW5kZXJfdGVtcGxhdGUsIEJsdWVwcmludApmcm9tIGZsYXNrX3N3YWdnZXIgaW1wb3J0IHN3YWdnZXIKZnJvbSBsb2dnaW5nIGltcG9ydCBnZXRMb2dnZXIsIFN0cmVhbUhhbmRsZXIsIERFQlVHCgpsb2dnZXIgPSBnZXRMb2dnZXIoX19uYW1lX18pCmhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKCkKaGFuZGxlci5zZXRMZXZlbChERUJVRykKbG9nZ2VyLnNldExldmVsKERFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihoYW5kbGVyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIG9zLmVudmlyb24uZ2V0KCJXRVJLWkVVR19SVU5fTUFJTiIpID09ICJ0cnVlIjoK</text>
