@@ -82,6 +82,13 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1465370066519">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="108" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/codecheck-1908/portfolio/app/views/projects/_list.html.erb" timestamp="1460711463358">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="54" />
@@ -139,9 +146,9 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465365916620">
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="109" column="29" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465369186752">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="71" column="49" />
         <mark key="." line="109" column="34" />
         <mark key="^" line="79" column="34" />
       </file>
@@ -278,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
-      <jump line="143" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/leader.py" />
-      <jump line="405" column="4" filename="$USER_HOME$/Documents/SensingTroops/troops/commander.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="24" column="21" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
       <jump line="306" column="0" filename="$USER_HOME$/Documents/SensingTroops/test/commander_test.py" />
@@ -378,61 +380,65 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
       <jump line="61" column="17" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
+      <jump line="7" column="20" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKG5fdHVwbGUsIHR1cGxlKToKICAgICAgICByZXR1cm4gbl90dXBsZQogICAgCiAgICBzb3VyY2UgPSBuX3R1cGxlCiAgICBmb3Iga2V5IGluIHNvdXJjZS5fZmllbGRzOgogICAgICAgIHZhbHVlID0gZ2V0YXR0cihzb3VyY2UsIGtleSkKICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCB0dXBsZSk6CiAgICAgICAgICAgIHNldGF0dHIoc291cmNlLCBrZXksIGFzZGljdCh2YWx1ZSkpCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgbGlzdCk6Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2RpY3RcPg==</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBvdXRwdXRfc3BlY19qc29uKCk6CiAgICAgICAgc3BlY19kaWN0ID0gc3dhZ2dlcihzZXJ2ZXIsIHRlbXBsYXRlPXsnZGVmaW5pdGlvbnMnOiBkZWZpbml0aW9uc30pCiAgICAgICAgc3BlY19kaWN0WydpbmZvJ11bJ3RpdGxlJ10gPSAnU2Vuc2luZ1Ryb29wcycKICAgICAgICByZXR1cm4ganNvbmlmeShzcGVjX2RpY3QpCg==</text>
+        <text encoding="base64">Y2xhc3MgTGVhZGVySW5mbyhvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsCiAgICAgICAgICAgICAgICAgaWQ6IHN0ciwKICAgICAgICAgICAgICAgICBuYW1lOiBzdHIsCiAgICAgICAgICAgICAgICAgZW5kcG9pbnQ6IHN0ciwKICAgICAgICAgICAgICAgICBzdWJvcmRpbmF0ZXM6IExpc3RbU29sZGllckluZm9dLAogICAgICAgICAgICAgICAgIG1pc3Npb25zOiBMaXN0W01pc3Npb25dKToKICAgICAgICBzZWxmLmlkID0gaWQKICAgICAgICBzZWxmLm5hbWUgPSBuYW1lCiAgICAgICAgc2VsZi5lbmRwb2ludCA9IGVuZHBvaW50CiAgICAgICAgc2VsZi5zdWJvcmRpbmF0ZXMgPSBzdWJvcmRpbmF0ZXMKICAgICAgICBzZWxmLm1pc3Npb25zID0gbWlzc2lvbnMKCiAgICAgICAgZGVmaW5pdGlvbnNbc2VsZi5fX2NsYXNzX18uX19uYW1lX19dID0gewogICAgICAgICAgICAndHlwZSc6ICdvYmplY3QnLAogICAgICAgICAgICAncHJvcGVydGllcyc6IHsKICAgICAgICAgICAgICAgICdpZCc6IHsnZGVzY3JpcHRpb24nOiAidGhlIG1hbidzIElEIiwKICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdzdHJpbmcnfSwKICAgICAgICAgICAgICAgICduYW1lJzogeyd0eXBlJzogJ3N0cmluZyd9LAogICAgICAgICAgICAgICAgJ2VuZHBvaW50Jzogeyd0eXBlJzogJ3N0cmluZyd9LAogICAgICAgICAgICAgICAgJ3N1Ym9yZGluYXRlcyc6IHsnZGVzY3JpcHRpb24nOiAiQSBsaXN0IG9mIHN1Ym9yZGluYXRlcydzIElEIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiAnYXJyYXknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaXRlbXMnOiB7J3R5cGUnOiAnc3RyaW5nJ319LAogICAgICAgICAgICAgICAgJ21pc3Npb25zJzogeyd0eXBlJzogJ2FycmF5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaXRlbXMnOiB7JyRyZWYnOiAnIy9kZWZpbml0aW9ucy9NaXNzaW9uJ319LAogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgIGRlZiB0b19kaWN0KHNlbGYpOgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJpZCI6IHNlbGYuaWQsCiAgICAgICAgICAgICJuYW1lIjogc2VsZi5uYW1lLAogICAgICAgICAgICAiZW5kcG9pbnQiOiBzZWxmLmVuZHBvaW50CiAgICAgICAgICAgICJzdWJvcmRpbmF0ZXMiOiBbc3ViLnRvX2RpY3QoKSBmb3Igc3ViIGluIHNlbGYuc3Vib3JkaW5hdGVzXSwKICAgICAgICAgICAgIm1pc3Npb25zIjogW20udG9fZGljdCgpIGZvciBtIGluIHNlbGYubWlzc2lvbnNdCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBpc2luc3RhbmNlKG5fdHVwbGUsIHR1cGxlKToKICAgICAgICByZXR1cm4gbl90dXBsZQogICAgCiAgICBzb3VyY2UgPSBuX3R1cGxlCiAgICBmb3Iga2V5IGluIHNvdXJjZS5fZmllbGRzOgogICAgICAgIHZhbHVlID0gZ2V0YXR0cihzb3VyY2UsIGtleSkKICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCB0dXBsZSk6CiAgICAgICAgICAgIHNldGF0dHIoc291cmNlLCBrZXksIGFzZGljdCh2YWx1ZSkpCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgbGlzdCk6Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>missions</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>missions</text>
       </register>
       <register name="5" type="4">
-        <text>key</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>missions</text>
       </register>
       <register name="7" type="4">
-        <text>getattr(source</text>
+        <text>missions</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+      <register name="8" type="4">
+        <text>missions</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>ission</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2RpY3RcPg==</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2RpY3RcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>def</entry>
         <entry encoding="base64">ZGVmIA==</entry>
         <entry>cros</entry>
         <entry>not</entry>
@@ -452,10 +458,11 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kZXJfY2xpZW50XD4=</entry>
         <entry encoding="base64">XDxhc2RpY3RcPg==</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>action JumpToLastChange</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
