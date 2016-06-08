@@ -10,7 +10,7 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1465377856058">
+      <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -45,12 +45,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" timestamp="1465377361350">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
         <mark key="[" line="370" column="0" />
@@ -63,12 +57,10 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465377171951">
-        <mark key="'" line="78" column="20" />
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="69" column="17" />
-        <mark key="." line="69" column="17" />
-        <mark key="^" line="69" column="17" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465379004101">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1465377577028">
         <mark key="'" line="71" column="45" />
@@ -302,23 +294,23 @@
       <jump line="78" column="20" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgbWlzc2lvbl9iYXNlID0gTWlzc2lvbihhdXRob3I9J2x4eHgwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uPSdtb25nb3NlcnYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2U9J0FsbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykKICAgICAgICBzZWxmLmFjY2VwdF9taXNzaW9uKG1pc3Npb25fYmFzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>on desk</text>
       </register>
       <register name="/" type="4">
         <text>asdict</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidmFsdWVzIjogInZhbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0cmlnZ2VyIjogInRyaSIKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBtaXNzaW9uX2Jhc2UgPSBNaXNzaW9uKGF1dGhvcj0nbHh4eDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb249J21vbmdvc2VydicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZT0nb24gZGVzaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgbWlzc2lvbl9iYXNlID0gTWlzc2lvbihhdXRob3I9J2x4eHgwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uPSdtb25nb3NlcnYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2U9J0FsbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykKICAgICAgICBzZWxmLmFjY2VwdF9taXNzaW9uKG1pc3Npb25fYmFzZSkK</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>on desk</text>
       </register>
       <register name="3" type="4">
         <text>)</text>
@@ -327,19 +319,19 @@
         <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
         <text>)</text>
       </register>
       <register name="7" type="4">
+        <text>,</text>
+      </register>
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVtZW50cz0nYnJpZ2h0bmVzcyBzb3VuZCcsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9J2JyaWdodG5lc3Mgc291bmQnLAo=</text>
+      <register name="9" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
