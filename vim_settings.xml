@@ -368,8 +368,8 @@
         <entry>asdict</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>action JumpToLastChange</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
