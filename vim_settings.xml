@@ -169,12 +169,12 @@
         <mark key="." line="37" column="21" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" timestamp="1465485886165">
-        <mark key="'" line="17" column="46" />
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" timestamp="1465486433917">
+        <mark key="'" line="65" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1464935379948">
         <mark key="'" line="49" column="12" />
@@ -199,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="40" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="161" column="54" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="172" column="45" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="189" column="52" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
@@ -299,10 +297,12 @@
       <jump line="4" column="13" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="78" column="3" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="17" column="46" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
+      <jump line="11" column="28" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
+      <jump line="65" column="14" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Lypqc2hpbnQgbm9kZTogdHJ1ZSAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -313,8 +313,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaXNzaW9uX2Jhc2UgPSBNaXNzaW9uKGF1dGhvcj0nbHh4eDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb249J21vbmdvc2VydicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZT0nb24gZGVzaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Lypqc2hpbnQgbm9kZTogdHJ1ZSAqLwo=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IA==</text>
@@ -326,19 +326,19 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>v</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
