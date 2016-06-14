@@ -16,7 +16,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1465881868035">
+      <file name="/Python Console" timestamp="1465884828076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -26,7 +26,7 @@
         <mark key="." line="294" column="70" />
         <mark key="^" line="294" column="70" />
       </file>
-      <file name="/fragment.py" timestamp="1465547353565">
+      <file name="/fragment.py" timestamp="1465884668298">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/objects.py" timestamp="1464932368307">
@@ -69,12 +69,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465548490816">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465884811587">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="86" column="40" />
+        <mark key="[" line="113" column="11" />
+        <mark key="]" line="113" column="14" />
+        <mark key="." line="113" column="14" />
+        <mark key="^" line="113" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1465550856259">
         <mark key="'" line="71" column="0" />
@@ -109,12 +109,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" timestamp="1465551261187">
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" timestamp="1465884591460">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="23" />
-        <mark key="." line="87" column="28" />
-        <mark key="^" line="62" column="67" />
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="51" />
+        <mark key="." line="86" column="51" />
+        <mark key="^" line="86" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -184,12 +184,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1465883518195">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1465884286953">
         <mark key="'" line="1" column="14" />
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="56" />
-        <mark key="^" line="81" column="56" />
-        <mark key="." line="81" column="56" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/commander_client.py" timestamp="1465551239184">
         <mark key="'" line="92" column="12" />
@@ -315,47 +315,47 @@
       <jump line="1" column="14" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ID0gW10=</text>
       </register>
       <register name="/" type="4">
         <text>e.__class__.__name__</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAndmFsdWVzJzogeyd0eXBlJzogJ2FycmF5JywgJ2l0ZW1zJzogeyd0eXBlJzogJ3N0cmluZyd9fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZXJyIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJpbiBIZWFydEJlYXQgcnVuIikKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiW0dFVF1sZWFkZXIvc3Vib3JkaW5hdGVzL3N1Yl9pZCBmYWlsZWQ6IHswfSIuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0KGVycikpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>object</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>number</text>
+        <text encoding="base64">ID0gW10=</text>
       </register>
-      <register name="4" type="4">
-        <text>string</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndmFsdWVzJzogeyd0eXBlJzogJ3N0cmluZyd9Cg==</text>
+      <register name="5" type="4">
+        <text>HeartBeat</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndlYXBvbnMgPSBzb2xkaWVyLndlYXBvbnMK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IG5vdCBOb25lOg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>soldier</text>
+        <text>&quot;&quot;,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNvbGRpZXIgPSBzb2xkaWVyCg==</text>
+      <register name="9" type="4">
+        <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -393,8 +393,8 @@
       <history-cmd>
         <entry>action JumpToLastChange</entry>
         <entry>%s/e.__class__.__name__/e/g</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
