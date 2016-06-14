@@ -185,11 +185,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1465543477989">
-        <mark key="'" line="55" column="36" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="69" column="36" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/commander_client.py" timestamp="1465551239184">
         <mark key="'" line="92" column="12" />
