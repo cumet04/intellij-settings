@@ -16,7 +16,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Python Console" timestamp="1465894965045">
+      <file name="/Python Console" timestamp="1466058032757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -51,6 +51,12 @@
         <mark key="]" line="99" column="30" />
         <mark key="." line="99" column="30" />
         <mark key="^" line="99" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag.py" timestamp="1466057893097">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -208,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
       <jump line="122" column="17" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="135" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
@@ -308,55 +313,56 @@
       <jump line="91" column="7" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
+      <jump line="9" column="7" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZvciBkZXYgaW4gZGV2aWNlczoKICAgIHByaW50ICJEZXZpY2UgJXMgKCVzKSwgUlNTST0lZCBkQiIgJSAoZGV2LmFkZHIsIGRldi5hZGRyVHlwZSwgZGV2LnJzc2kpCiAgICBmb3IgKGFkdHlwZSwgZGVzYywgdmFsdWUpIGluIGRldi5nZXRTY2FuRGF0YSgpOgogICAgICAgIHByaW50ICIgICVzID0gJXMiICUgKGRlc2MsIHZhbHVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>e.__class__.__name__</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmtzID0gW3cgZm9yIHcgaW4gd29ya19jYWNoZSBpZiB3LnB1cnBvc2UgPT0gbV9pZF0K</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">CmZvciBkZXYgaW4gZGV2aWNlczoKICAgIHByaW50ICJEZXZpY2UgJXMgKCVzKSwgUlNTST0lZCBkQiIgJSAoZGV2LmFkZHIsIGRldi5hZGRyVHlwZSwgZGV2LnJzc2kpCiAgICBmb3IgKGFkdHlwZSwgZGVzYywgdmFsdWUpIGluIGRldi5nZXRTY2FuRGF0YSgpOgogICAgICAgIHByaW50ICIgICVzID0gJXMiICUgKGRlc2MsIHZhbHVlKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGRldi4KICAgICAgICAgICAgcHJpbnQgIkRpc2NvdmVyZWQgZGV2aWNlIiwgZGV2LmFkZHIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>f</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwdXJwb3NlIjogY2FtcGFpZ24ucHVycG9zZSwK</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>s</text>
       </register>
-      <register name="7" type="4">
-        <text>one(values)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlzTmV3RGF0YToKICAgICAgICAgICAgcHJpbnQgIlJlY2VpdmVkIG5ldyBkYXRhIGZyb20iLCBkZXYuYWRkcgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>con</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\*\*</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>e.__class__.__name__</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>e.__class__.__name__</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
         <entry encoding="base64">XDxtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxtaXNzaW9uX2Jhc2VcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
@@ -384,6 +389,7 @@
         <entry>**</entry>
         <entry>\*\*</entry>
         <entry>e.__class__.__name__</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
