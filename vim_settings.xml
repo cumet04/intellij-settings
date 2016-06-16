@@ -29,6 +29,9 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="/Python Console" timestamp="1466078696520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1465884668298">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,8 +119,11 @@
         <mark key="^" line="61" column="63" />
         <mark key="." line="61" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1465888058557">
-        <mark key="[" line="15" column="32" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466079198323">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" timestamp="1465884591460">
         <mark key="'" line="0" column="0" />
@@ -331,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBibHVlcHkuYnRsZSBpbXBvcnQgU2Nhbm5lciwgU2NhbkVudHJ5Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -343,31 +349,31 @@
         <text encoding="base64">dGhyZWFkID0gU2Vuc2luZygiIikKdGhyZWFkLnN0YXJ0KCkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZnJvbSBibHVlcHkuYnRsZSBpbXBvcnQgU2Nhbm5lciwgU2NhbkVudHJ5Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
-      </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>g</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>args</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>args</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
