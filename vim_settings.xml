@@ -56,6 +56,13 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" timestamp="1466068654963">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="13" />
+        <mark key="." line="60" column="1" />
+        <mark key="^" line="59" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
         <mark key="[" line="370" column="0" />
@@ -176,6 +183,10 @@
         <mark key="." line="37" column="21" />
         <mark key="^" line="37" column="20" />
       </file>
+      <file name="/usr/local/var/pyenv/versions/3.5.1/lib/python3.5/site-packages/bluepy/btle.py" timestamp="1466067640340">
+        <mark key="[" line="629" column="0" />
+        <mark key="]" line="632" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" timestamp="1465486433917">
         <mark key="'" line="65" column="14" />
         <mark key="[" line="0" column="0" />
@@ -212,11 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="2" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="52" column="9" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="22" column="22" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
@@ -312,63 +318,67 @@
       <jump line="2" column="73" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag.py" />
       <jump line="58" column="3" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag.py" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag.py" />
+      <jump line="54" column="23" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
+      <jump line="64" column="27" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
+      <jump line="23" column="30" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhZyA9IFNlbnNvclRhZyhhZGRyKQogICAgICAgIHNlbGYudGFnLklSdGVtcGVyYXR1cmUuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5odW1pZGl0eS5lbmFibGUoKQogICAgICAgIHNlbGYudGFnLmJhcm9tZXRlci5lbmFibGUoKQogICAgICAgIHNlbGYudGFnLmFjY2VsZXJvbWV0ZXIuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5tYWduZXRvbWV0ZXIuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5neXJvc2NvcGUuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5saWdodG1ldGVyLmVuYWJsZSgpCiAgICAgICAgbG9nZ2VyLmluZm8oIlNlbnNvclRhZyBjb25uZWN0ZWQ6IHswfSIuZm9ybWF0KGFkZHIpKQogICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">dGhyZWFkID0gU2Vuc2luZygiIikKdGhyZWFkLnN0YXJ0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text encoding="base64">XDxhMFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImFhIikK</text>
+        <text encoding="base64">dGhyZWFkID0gU2Vuc2luZygiIikKdGhyZWFkLnN0YXJ0KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhZyA9IFNlbnNvclRhZyhhZGRyKQogICAgICAgIHNlbGYudGFnLklSdGVtcGVyYXR1cmUuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5odW1pZGl0eS5lbmFibGUoKQogICAgICAgIHNlbGYudGFnLmJhcm9tZXRlci5lbmFibGUoKQogICAgICAgIHNlbGYudGFnLmFjY2VsZXJvbWV0ZXIuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5tYWduZXRvbWV0ZXIuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5neXJvc2NvcGUuZW5hYmxlKCkKICAgICAgICBzZWxmLnRhZy5saWdodG1ldGVyLmVuYWJsZSgpCiAgICAgICAgbG9nZ2VyLmluZm8oIlNlbnNvclRhZyBjb25uZWN0ZWQ6IHswfSIuZm9ybWF0KGFkZHIpKQogICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+      <register name="1" type="4">
+        <text>r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5lcnJvcihlLmFyZ3MpCg==</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>#</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search encoding="base64">XDxhMFw+</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern encoding="base64">XDxhMFw+</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>e.__class__.__name__</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9saXN0XD4=</entry>
         <entry>campaign</entry>
         <entry>campai</entry>
@@ -388,6 +398,7 @@
         <entry>dev</entry>
         <entry>tag</entry>
         <entry>self</entry>
+        <entry encoding="base64">XDxhMFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
