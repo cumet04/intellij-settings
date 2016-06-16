@@ -29,7 +29,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1466078696520">
+      <file name="/Python Console" timestamp="1466080691705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1465884668298">
@@ -84,6 +84,12 @@
         <mark key="." line="102" column="17" />
         <mark key="^" line="102" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/config/recruit.yml" timestamp="1466080562716">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465893533825">
         <mark key="'" line="116" column="39" />
         <mark key="[" line="125" column="44" />
@@ -119,11 +125,16 @@
         <mark key="^" line="61" column="63" />
         <mark key="." line="61" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466079198323">
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1466079292280">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466080680540">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="42" column="47" />
+        <mark key="^" line="42" column="48" />
+        <mark key="." line="42" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" timestamp="1465884591460">
         <mark key="'" line="0" column="0" />
@@ -205,10 +216,10 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1465888077824">
-        <mark key="'" line="1" column="14" />
-        <mark key="[" line="101" column="40" />
-        <mark key="]" line="75" column="54" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1466079576094">
+        <mark key="'" line="53" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="13" column="26" />
         <mark key="." line="101" column="50" />
         <mark key="^" line="75" column="54" />
       </file>
@@ -234,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="12" column="12" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="2" column="1" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
@@ -334,46 +343,48 @@
       <jump line="23" column="30" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
       <jump line="15" column="25" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
       <jump line="36" column="9" filename="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" />
+      <jump line="53" column="10" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="45" column="12" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhMFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGhyZWFkID0gU2Vuc2luZygiIikKdGhyZWFkLnN0YXJ0KCkK</text>
+        <text encoding="base64">ZnJvbSBsb2dnaW5nIGltcG9ydCBnZXRMb2dnZXIsIFN0cmVhbUhhbmRsZXIsIERFQlVHCgpsb2dnZXIgPSBnZXRMb2dnZXIoX19uYW1lX18pCmhhbmRsZXIgPSBTdHJlYW1IYW5kbGVyKCkKaGFuZGxlci5zZXRMZXZlbChERUJVRykKbG9nZ2VyLnNldExldmVsKERFQlVHKQpsb2dnZXIuYWRkSGFuZGxlcihoYW5kbGVyKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBibHVlcHkuYnRsZSBpbXBvcnQgU2Nhbm5lciwgU2NhbkVudHJ5Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>args</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
