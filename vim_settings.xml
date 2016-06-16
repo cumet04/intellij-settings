@@ -56,11 +56,11 @@
         <mark key="." line="29" column="58" />
         <mark key="^" line="29" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" timestamp="1466070819956">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="59" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="25" column="59" />
+      <file name="$USER_HOME$/Documents/SensorTagSoldier/bluepy/sensortag_try.py" timestamp="1466071531898">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="34" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -325,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addr</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>addr</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhMFw+</text>
@@ -337,31 +337,31 @@
         <text encoding="base64">dGhyZWFkID0gU2Vuc2luZygiIikKdGhyZWFkLnN0YXJ0KCkK</text>
       </register>
       <register name="1" type="4">
-        <text>addr</text>
-      </register>
-      <register name="2" type="4">
-        <text>params</text>
-      </register>
-      <register name="3" type="4">
-        <text>addr</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZHIgPSBwYXJhbXMuaG9zdAo=</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
+      <register name="2" type="4">
+        <text>s</text>
+      </register>
+      <register name="3" type="4">
+        <text>g</text>
+      </register>
+      <register name="4" type="4">
+        <text>r</text>
+      </register>
+      <register name="5" type="4">
+        <text>a</text>
+      </register>
       <register name="6" type="4">
-        <text>f</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>args</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
