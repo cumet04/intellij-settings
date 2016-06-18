@@ -19,13 +19,13 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466233430920">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466234875430">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1466233507827">
+      <file name="/Python Console" timestamp="1466234420700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -61,12 +61,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/rest.py" timestamp="1466233505815">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="28" column="28" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/rest.py" timestamp="1466234126990">
+        <mark key="'" line="172" column="23" />
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="172" column="23" />
+        <mark key="^" line="172" column="23" />
+        <mark key="." line="172" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -227,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="6" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
-      <jump line="696" column="23" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
-      <jump line="842" column="63" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="38" column="18" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="39" column="6" filename="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" />
       <jump line="108" column="12" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
@@ -327,46 +323,50 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
+      <jump line="112" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
+      <jump line="150" column="14" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
+      <jump line="172" column="23" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgaW50ZXJuYWxfZXJyb3IoZXJyb3IpOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIj4+IEludGVybmFsIFNlcnZlciBFcnJvciIpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0cmFjZWJhY2suZm9ybWF0X2V4YygpKQogICAgICAgICAgICByZXR1cm4gImludGVybmFsIHNlcnZlciBlcnJvciIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text>lo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAdGVzdF9jbGllbnQoc2VsZi5jbGllbnQpCg==</text>
+        <text encoding="base64">ZGVmIGdldCgqYXJncywgKiprd2FyZ3MpOgogICAgaWYgdGVzdF9jbGllbnRzIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIF9nZXQoKmFyZ3MsICoqa3dhcmdzKQogICAgZWxzZToKICAgICAgICByZXR1cm4gX3Rlc3RfZ2V0KCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgaW50ZXJuYWxfZXJyb3IoZXJyb3IpOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoIj4+IEludGVybmFsIFNlcnZlciBFcnJvciIpCiAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0cmFjZWJhY2suZm9ybWF0X2V4YygpKQogICAgICAgICAgICByZXR1cm4gImludGVybmFsIHNlcnZlciBlcnJvciIK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+      <register name="2" type="4">
+        <text>server</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsaWVudFsicmVjcnVpdGVyIl0gPQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+        <text>Recruiter(config_path))</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+        <text>rec_server.test_client()</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9ICd7MH0vcmVjcnVpdC55bWwnLmZvcm1hdChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQogICAgICAgIFJlY3J1aXRlclNlcnZlci5zZXRfbW9kZWwoUmVjcnVpdGVyKGNvbmZpZ19wYXRoKSkKICAgICAgICByZWNfc2VydmVyID0gUmVjcnVpdGVyU2VydmVyLmdlbmVyYXRlX3NlcnZlcigiL3JlY3J1aXRlciIpCiAgICAgICAgcmVjX3NlcnZlci5lcnJvcl9oYW5kbGVyX3NwZWNbTm9uZV1bNTAwXSA9IGludGVybmFsX2Vycm9yCiAgICAgICAgY2xpZW50WyJyZWNydWl0ZXIiXSA9IHJlY19zZXJ2ZXIudGVzdF9jbGllbnQoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXRhZz1Ob25lLCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cGFyYW1zPU5vbmUsIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB1dGlscy5yZXN0LnRlc3RfY2xpZW50cyA9IGRpY3QoKQogICAgICAgIGNsaWVudCA9IHV0aWxzLnJlc3QudGVzdF9jbGllbnRzCgogICAgICAgIGRlZiBpbnRlcm5hbF9lcnJvcihlcnJvcik6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiPj4gSW50ZXJuYWwgU2VydmVyIEVycm9yIikKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKHRyYWNlYmFjay5mb3JtYXRfZXhjKCkpCiAgICAgICAgICAgIHJldHVybiAiaW50ZXJuYWwgc2VydmVyIGVycm9yIgoKICAgICAgICAjIGluaXQgcmVjcnVpdGVyCiAgICAgICAgY29uZmlnX3BhdGggPSAnezB9L3JlY3J1aXQueW1sJy5mb3JtYXQob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkKICAgICAgICBSZWNydWl0ZXJTZXJ2ZXIuc2V0X21vZGVsKFJlY3J1aXRlcihjb25maWdfcGF0aCkpCiAgICAgICAgcmVjX3NlcnZlciA9IFJlY3J1aXRlclNlcnZlci5nZW5lcmF0ZV9zZXJ2ZXIoIi9yZWNydWl0ZXIiKQogICAgICAgIHJlY19zZXJ2ZXIuZXJyb3JfaGFuZGxlcl9zcGVjW05vbmVdWzUwMF0gPSBpbnRlcm5hbF9lcnJvcgogICAgICAgIGNsaWVudFsicmVjcnVpdGVyIl0gPSByZWNfc2VydmVyLnRlc3RfY2xpZW50KCkKCiAgICAgICAgIyBpbml0IGNvbW1hbmRlcgogICAgICAgIGNvbV9tb2RlbCA9IENvbW1hbmRlcigiY3h4eDAiLCAiY21kX3Rlc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGVzdDovL2N4eHgwL2NvbW1hbmRlci8iKQogICAgICAgIGNvbV9tb2RlbC5hd2FrZSgidGVzdDovL3JlY3J1aXRlci9yZWNydWl0ZXIvIikKICAgICAgICBDb21tYW5kZXJTZXJ2ZXIuc2V0X21vZGVsKGNvbV9tb2RlbCkKICAgICAgICBjb21fc2VydmVyID0gQ29tbWFuZGVyU2VydmVyLmdlbmVyYXRlX3NlcnZlcigiL2NvbW1hbmRlciIpCiAgICAgICAgY29tX3NlcnZlci5lcnJvcl9oYW5kbGVyX3NwZWNbTm9uZV1bNTAwXSA9IGludGVybmFsX2Vycm9yCiAgICAgICAgY2xpZW50WyJjeHh4MCJdID0gY29tX3NlcnZlci50ZXN0X2NsaWVudCgpCgogICAgICAgICMgaW5pdCBsZWFkZXIKICAgICAgICBsZWFfbW9kZWwgPSBMZWFkZXIoImx4eHgwIiwgImxlYV90ZXN0IiwgInRlc3Q6Ly9seHh4MC9sZWFkZXIvIikKICAgICAgICBsZWFfbW9kZWwuYXdha2UoInRlc3Q6Ly9yZWNydWl0ZXIvcmVjcnVpdGVyLyIsIDIpCiAgICAgICAgTGVhZGVyU2VydmVyLnNldF9tb2RlbChsZWFfbW9kZWwpCiAgICAgICAgbGVhX3NlcnZlciA9IExlYWRlclNlcnZlci5nZW5lcmF0ZV9zZXJ2ZXIoIi9sZWFkZXIiKQogICAgICAgIGxlYV9zZXJ2ZXIuZXJyb3JfaGFuZGxlcl9zcGVjW05vbmVdWzUwMF0gPSBpbnRlcm5hbF9lcnJvcgogICAgICAgIGNsaWVudFsibHh4eDAiXSA9IGxlYV9zZXJ2ZXIudGVzdF9jbGllbnQoKQoKICAgICAgICAjIGluaXQgc29sZGllcgogICAgICAgIHNvbF9tb2RlbCA9IFNvbGRpZXIoInN4eHgwIiwgInNvbF90ZXN0IikKICAgICAgICBzb2xfbW9kZWwuYXdha2UoInRlc3Q6Ly9yZWNydWl0ZXIvcmVjcnVpdGVyLyIsIDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -408,6 +408,7 @@
         <entry>%s/e.__class__.__name__/e/g</entry>
         <entry>action JumpToLastChange</entry>
         <entry>q</entry>
+        <entry>g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
