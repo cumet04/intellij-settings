@@ -19,14 +19,14 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466226714524">
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466228082080">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="52" column="24" />
-        <mark key="." line="52" column="24" />
-        <mark key="^" line="52" column="24" />
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1466226435454">
+      <file name="/Python Console" timestamp="1466227965551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -101,10 +101,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" timestamp="1466177403274">
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" timestamp="1466226958505">
         <mark key="'" line="53" column="17" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="32" column="38" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="58" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="8" column="3" />
       </file>
@@ -329,44 +329,44 @@
       <jump line="24" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IHJlcy5kYXRhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>put</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ2hlYWRlcnMnXSA9IGt3YXJncy5nZXQoJ2hlYWRlcnMnLCB7fSkKICAgICAgICBjLCBwYXRoID0gc2VsZWN0X2NsaWVudCh1cmwpCiAgICAgICAgCiAgICAgICAgaWYgZXRhZyBpcyBub3QgTm9uZToKICAgICAgICAgICAga3dhcmdzWydoZWFkZXJzJ11bJ0lmLU5vbmUtTWF0Y2gnXSA9IGV0YWcKCiAgICAgICAgaWYganNvbiBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmVzID0gYy5wdXQocGF0aCwgZGF0YT1kdW1wcyhqc29uKSwKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudF90eXBlPSdhcHBsaWNhdGlvbi9qc29uJywgKiprd2FyZ3MpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVzID0gYy5wdXQocGF0aCwgZGF0YT1kYXRhLCAqKmt3YXJncykKICAgICAgICByZXR1cm4gcmVzLCBOb25lCg==</text>
+        <text encoding="base64">ICAgIEB3cmFwX3Jlc3QK</text>
       </register>
-      <register name="1" type="4">
-        <text>put</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IHJlcy5kYXRhCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>put</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmpzb24gPSBqc29uCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGpzb24oc2VsZik6CiAgICAgICAgICAgICAgICByZXR1cm4gbG9hZHMoc2VsZi5kYXRhLmRlY29kZSgidXRmLTgiKSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3NbJ2hlYWRlcnMnXSA9IGt3YXJncy5nZXQoJ2hlYWRlcnMnLCB7fSkKICAgICAgICBjLCBwYXRoID0gc2VsZWN0X2NsaWVudCh1cmwpCiAgICAgICAgCiAgICAgICAgaWYgZXRhZyBpcyBub3QgTm9uZToKICAgICAgICAgICAga3dhcmdzWydoZWFkZXJzJ11bJ0lmLU5vbmUtTWF0Y2gnXSA9IGV0YWcKICAgICAgICBwYXNzCg==</text>
+      <register name="4" type="4">
+        <text>json</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2hlYWRlcnMnIG5vdCBpbiBrd2FyZ3M6CiAgICAgICAgICAgICAgICBrd2FyZ3NbJ2hlYWRlcnMnXSA9IHt9Cg==</text>
+      <register name="5" type="4">
+        <text>lambda self: )</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2hlYWRlcnMnIG5vdCBpbiBrd2FyZ3M6CiAgICAgICAgICAgICAgICBrd2FyZ3NbJ2hlYWRlcnMnXSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLmpzb24gPSBqc29uCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICcnKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGpzb24oc2VsZik6CiAgICAgICAgICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIiEhISEhISEhISEhISEhISEhISEhISEhISEhISEiKQo=</text>
+      <register name="8" type="4">
+        <text>loads(self.data.decode(&quot;utf-8&quot;))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGpzb24gaW1wb3J0IGR1bXBzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
