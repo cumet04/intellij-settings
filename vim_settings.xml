@@ -16,11 +16,12 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466181951929">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466223825199">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="28" column="64" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="/Python Console" timestamp="1466181953142">
         <mark key="[" line="0" column="0" />
@@ -71,9 +72,10 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="370" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1466181631868">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="21" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1466223613509">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="71" column="20" />
         <mark key="^" line="71" column="21" />
         <mark key="." line="71" column="21" />
       </file>
@@ -221,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="15" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="1" column="14" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
       <jump line="131" column="63" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
       <jump line="93" column="29" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
@@ -240,7 +240,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="89" column="13" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="117" column="31" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="527" column="6" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
       <jump line="696" column="23" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
       <jump line="842" column="63" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/requests/models.py" />
@@ -315,52 +314,55 @@
       <jump line="67" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="69" column="8" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="1" column="5" filename="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
+      <jump line="0" column="26" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
+      <jump line="28" column="13" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return_value</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>return_value</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>defin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLnJlc3QgYXMgcmVzdAo=</text>
+        <text encoding="base64">ZGVmIGpzb25faW5wdXQoZik6CiAgICAiIiIKICAgIFBVVC9QT1NU44GnanNvbuOCkuWPl+OBkeWPluOCi0FQSeeUqOOBruODh+OCs+ODrOODvOOCvwogICAgQ29udGVudC1UeXBl44Gu44OB44Kn44OD44Kv44GoanNvbuOBruODh+OCs+ODvOODieODgeOCp+ODg+OCr+OCkuihjOOBhgogICAgIiIiCiAgICBAd3JhcHMoZikKICAgIGRlZiBjaGVja19qc29uKCphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgaWYgcmVxdWVzdC5tZXRob2QgPT0gJ1BVVCcgb3IgcmVxdWVzdC5tZXRob2QgPT0gJ1BPU1QnOgogICAgICAgICAgICAjIHJlcXVlc3QuanNvbgogICAgICAgICAgICAjICAgLSBiYWQgY29udGVudC10eXBlIC0+IHJldHVybiBOb25lCiAgICAgICAgICAgICMgICAtIGNhbid0IGRlY29kZSAtPiByYWlzZSBCYWRSZXF1ZXN0CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICMgbG9nZ2VyLmluZm8ocmVxdWVzdC5kYXRhLmRlY29kZSgndXRmLTgnKSkKICAgICAgICAgICAgICAgIGlmIHJlcXVlc3QuanNvbiBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBqc29uaWZ5KHJlc3VsdD0nZmFpbGVkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9J2FwcGxpY2F0aW9uL2pzb24gcmVxdWlyZWQnKSwgNDA2CiAgICAgICAgICAgIGV4Y2VwdCBCYWRSZXF1ZXN0OgogICAgICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocmVzdWx0PSdmYWlsZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXNnPSJwYXJhbSBjb3VsZG4ndCBkZWNvZGUgdG8ganNvbiIpLCA0MDAKICAgICAgICByZXR1cm4gZigqYXJncywgKiprd2FyZ3MpCiAgICByZXR1cm4gY2hlY2tfanNvbgo=</text>
       </register>
       <register name="1" type="4">
-        <text>return_value</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>mock</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>return_value='dummy'):</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>'os.path.join'</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgUFVUL1BPU1Tjgadqc29u44KS5Y+X44GR5Y+W44KLQVBJ55So44Gu44OH44Kz44Os44O844K/CiAgICBDb250ZW50LVR5cGXjga7jg4Hjgqfjg4Pjgq/jgahqc29u44Gu44OH44Kz44O844OJ44OB44Kn44OD44Kv44KS6KGM44GGCiAgICAiIiIK</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>check_json</text>
       </register>
-      <register name="7" type="4">
-        <text>None</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0Lm1ldGhvZCA9PSAnUFVUJyBvciByZXF1ZXN0Lm1ldGhvZCA9PSAnUE9TVCc6CiAgICAgICAgICAgICMgcmVxdWVzdC5qc29uCiAgICAgICAgICAgICMgICAtIGJhZCBjb250ZW50LXR5cGUgLT4gcmV0dXJuIE5vbmUKICAgICAgICAgICAgIyAgIC0gY2FuJ3QgZGVjb2RlIC0+IHJhaXNlIEJhZFJlcXVlc3QKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgIyBsb2dnZXIuaW5mbyhyZXF1ZXN0LmRhdGEuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgICAgICAgICAgaWYgcmVxdWVzdC5qc29uIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkocmVzdWx0PSdmYWlsZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZz0nYXBwbGljYXRpb24vanNvbiByZXF1aXJlZCcpLCA0MDYKICAgICAgICAgICAgZXhjZXB0IEJhZFJlcXVlc3Q6CiAgICAgICAgICAgICAgICByZXR1cm4ganNvbmlmeShyZXN1bHQ9J2ZhaWxlZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2c9InBhcmFtIGNvdWxkbid0IGRlY29kZSB0byBqc29uIiksIDQwMAo=</text>
       </register>
       <register name="8" type="4">
-        <text>helpers</text>
+        <text>check_json</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQHBhdGNoKCJyZXF1ZXN0cy5nZXQiLCBzaWRlX2VmZmVjdD1fcmVzdF9nZXQpCg==</text>
+      <register name="9" type="4">
+        <text>json_input</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
