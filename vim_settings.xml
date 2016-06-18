@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466181690203">
-        <mark key="'" line="149" column="8" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466262803282">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1466224678988">
@@ -19,14 +19,13 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466261991143">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="85" column="27" />
-        <mark key="]" line="86" column="19" />
-        <mark key="^" line="86" column="19" />
-        <mark key="." line="86" column="19" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466263415045">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1466235683306">
+      <file name="/Python Console" timestamp="1466263346362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -56,18 +55,18 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" timestamp="1466178134002">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="31" column="38" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" timestamp="1466263097755">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
         <mark key="^" line="7" column="25" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/rest.py" timestamp="1466234126990">
-        <mark key="'" line="172" column="23" />
-        <mark key="[" line="172" column="21" />
-        <mark key="]" line="172" column="23" />
-        <mark key="^" line="172" column="23" />
-        <mark key="." line="172" column="23" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/rest.py" timestamp="1466262654792">
+        <mark key="'" line="165" column="23" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -76,19 +75,19 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="370" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1466223613509">
-        <mark key="'" line="51" column="4" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="71" column="20" />
-        <mark key="^" line="71" column="21" />
-        <mark key="." line="71" column="21" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1466262674136">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466235471151">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="19" />
-        <mark key="." line="92" column="18" />
-        <mark key="^" line="92" column="18" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466263283559">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1466175862699">
         <mark key="'" line="7" column="0" />
@@ -103,30 +102,30 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" timestamp="1466235757836">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="317" column="18" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" timestamp="1466263082702">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" timestamp="1466226224433">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="61" column="52" />
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" timestamp="1466263105820">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
         <mark key="^" line="5" column="28" />
+        <mark key="." line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/controller/leader.py" timestamp="1466262863600">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="29" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/controller/leader.py" timestamp="1466174263536">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/__init__.py" timestamp="1466176725218">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/__init__.py" timestamp="1466263032493">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1466176638275">
         <mark key="'" line="12" column="22" />
@@ -161,11 +160,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/controller/commander.py" timestamp="1466174234003">
-        <mark key="[" line="235" column="22" />
-        <mark key="]" line="235" column="22" />
-        <mark key="^" line="235" column="7" />
-        <mark key="." line="235" column="25" />
+      <file name="$USER_HOME$/Documents/SensingTroops/controller/commander.py" timestamp="1466262856407">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/commander.py" timestamp="1464924137146">
         <mark key="'" line="403" column="4" />
@@ -181,18 +180,22 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" timestamp="1466181762651">
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="79" column="24" />
-        <mark key="^" line="83" column="40" />
-        <mark key="." line="79" column="24" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" timestamp="1466262819667">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="77" column="40" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" timestamp="1466174276287">
-        <mark key="'" line="83" column="32" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="21" />
-        <mark key="^" line="37" column="20" />
+      <file name="$USER_HOME$/Documents/SensingTroops/controller/__init__.py" timestamp="1466262845696">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" timestamp="1466262876658">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" timestamp="1465486433917">
         <mark key="'" line="65" column="14" />
@@ -201,11 +204,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1466235482960">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1466262998126">
+        <mark key="'" line="128" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/commander_client.py" timestamp="1466173697304">
         <mark key="'" line="74" column="36" />
@@ -214,11 +217,17 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" timestamp="1466176670916">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" timestamp="1466262825105">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/__init__.py" timestamp="1466262735221">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/UserManageService/src/main/java/jp/kobe_u/cs27/personnel/test.java" timestamp="1463810742185">
         <mark key="'" line="9" column="11" />
@@ -229,14 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="6" filename="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" />
-      <jump line="108" column="12" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="111" column="15" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="113" column="24" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="114" column="36" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="35" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="17" column="16" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="26" column="16" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
       <jump line="75" column="36" filename="$USER_HOME$/Documents/SensingTroops/utils/commander_client.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
@@ -251,7 +252,6 @@
       <jump line="73" column="1" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="54" column="6" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
       <jump line="83" column="32" filename="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" />
@@ -329,63 +329,71 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="172" column="23" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="56" column="19" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/__init__.py" />
+      <jump line="137" column="13" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgdW5pdHRlc3QubWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lo</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgdW5pdHRlc3QubWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5tb2RlbHNbImx4eHgwIl0uaGVhcnRiZWF0X3RocmVhZC5pc19hbGl2ZSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzay50ZXN0aW5nIGltcG9ydCBGbGFza0NsaWVudAo=</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.recruiter</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.leader</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y2xpZW50WyJseHh4MCJdLCA=</text>
+        <text>.recruiter</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Z2V0TG9nZ2VyKCJtb2RlbC5jb21tYW5kZXIiKS5zZXRMZXZlbChFUlJPUikKZ2V0TG9nZ2VyKCJtb2RlbC5sZWFkZXIiKS5zZXRMZXZlbChFUlJPUikKZ2V0TG9nZ2VyKCJtb2RlbC5zb2xkaWVyIikuc2V0TGV2ZWwoRVJST1IpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>.commander</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xpZW50WyJjeHh4MCJdLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lo</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>lo</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>e.__class__.__name__</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc2RpY3RcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>leader</entry>
         <entry>asdict</entry>
@@ -405,6 +413,7 @@
         <entry>test_client</entry>
         <entry>put</entry>
         <entry>lo</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/e.__class__.__name__/e/g</entry>
