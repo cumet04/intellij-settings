@@ -29,7 +29,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1466407463144">
+      <file name="/Python Console" timestamp="1466410443789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1465884668298">
@@ -51,6 +51,12 @@
         <mark key="]" line="45" column="28" />
         <mark key="." line="45" column="28" />
         <mark key="^" line="45" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/soldier_test.py" timestamp="1466410440698">
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="57" column="55" />
+        <mark key="^" line="57" column="55" />
+        <mark key="." line="57" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" timestamp="1465541113409">
         <mark key="[" line="99" column="24" />
@@ -346,11 +352,11 @@
       <jump line="267" column="18" filename="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5yZWNydWl0ZXJfY2xpZW50IGltcG9ydCBSZWNydWl0ZXJDbGllbnQK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUeXBlRXJyb3JcPg==</text>
@@ -358,32 +364,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvbGRpZXIgPSBTb2xkaWVyKHBhcmFtcy5pZCwgcGFyYW1zLm5hbWUpCiAgICBzb2xkaWVyLmF3YWtlKCdodHRwOi8vbG9jYWxob3N0OjUwMDAwL3JlY3J1aXRlci8nLCAxKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5yZWNydWl0ZXJfY2xpZW50IGltcG9ydCBSZWNydWl0ZXJDbGllbnQK</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb2xkaWVyID0gU29sZGllcihwYXJhbXMuaWQsIHBhcmFtcy5uYW1lKQogICAgICAgIHJlY19jbGllbnQgPSBSZWNydWl0ZXJDbGllbnQuZ2VuX3Jlc3RfY2xpZW50KAogICAgICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo1MDAwMC9yZWNydWl0ZXIvJykKICAgICAgICBzb2xkaWVyLmF3YWtlKHJlY19jbGllbnQsIDEpCg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5yZWNydWl0ZXJfY2xpZW50IGltcG9ydCBSZWNydWl0ZXJDbGllbnQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzb2xkaWVyID0gU29sZGllcihwYXJhbXMuaWQsIHBhcmFtcy5uYW1lKQogICAgICAgIHJlY19jbGllbnQgPSBSZWNydWl0ZXJDbGllbnQuZ2VuX3Jlc3RfY2xpZW50KAogICAgICAgICAgICAnaHR0cDovL2xvY2FsaG9zdDo1MDAwMC9yZWNydWl0ZXIvJykKICAgICAgICBzb2xkaWVyLmF3YWtlKHJlY19jbGllbnQsIDEpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzb2xkaWVyLmF3YWtlKCdodHRwOi8vbG9jYWxob3N0OjUwMDAwL3JlY3J1aXRlci8nLCAxKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>s}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICJ1bmki</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>]</text>
       </register>
-      <register name="8" type="4">
-        <text>[</text>
-      </register>
       <register name="9" type="4">
-        <text>weapons</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
