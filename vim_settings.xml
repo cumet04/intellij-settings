@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466420135530">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466421052529">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="136" column="43" />
-        <mark key="]" line="136" column="43" />
-        <mark key="^" line="111" column="47" />
-        <mark key="." line="136" column="43" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/config/cam_heartbeat.json" timestamp="1465536413267">
         <mark key="[" line="19" column="13" />
@@ -352,8 +351,8 @@
       <jump line="124" column="39" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgpjbGFzcyBNb25nb1B1c2gob2JqZWN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1cmkpOgogICAgICAgIHNlbGYuY29sID0gcHltb25nby5Nb25nb0NsaWVudChob3N0KVtkYl9uYW1lXVtjb2xfbmFtZV0K</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -364,32 +363,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvbGRpZXIgPSBTb2xkaWVyKHBhcmFtcy5pZCwgcGFyYW1zLm5hbWUpCiAgICBzb2xkaWVyLmF3YWtlKCdodHRwOi8vbG9jYWxob3N0OjUwMDAwL3JlY3J1aXRlci8nLCAxKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>]</text>
+      <register name="1" type="2">
+        <text encoding="base64">CgpjbGFzcyBNb25nb1B1c2gob2JqZWN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1cmkpOgogICAgICAgIHNlbGYuY29sID0gcHltb25nby5Nb25nb0NsaWVudChob3N0KVtkYl9uYW1lXVtjb2xfbmFtZV0K</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
