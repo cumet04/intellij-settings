@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466422882038">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466426564973">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="167" column="36" />
+        <mark key="[" line="169" column="22" />
+        <mark key="]" line="170" column="17" />
+        <mark key="^" line="170" column="17" />
+        <mark key="." line="170" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/config/cam_heartbeat.json" timestamp="1465536413267">
         <mark key="[" line="19" column="13" />
@@ -26,7 +29,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1466422547442">
+      <file name="/Python Console" timestamp="1466426575716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1465884668298">
@@ -103,12 +106,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466420099315">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466426461010">
         <mark key="'" line="124" column="39" />
-        <mark key="[" line="124" column="39" />
-        <mark key="]" line="124" column="46" />
-        <mark key="^" line="124" column="46" />
-        <mark key="." line="124" column="46" />
+        <mark key="[" line="153" column="45" />
+        <mark key="]" line="153" column="52" />
+        <mark key="^" line="153" column="52" />
+        <mark key="." line="153" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1465550856259">
         <mark key="'" line="71" column="0" />
@@ -360,43 +363,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>campaigns</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>campaigns</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUeXBlRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBDQzI2NTAtYTA6ZTY6Zjg6YWU6YWQ6ODIK</text>
+        <text encoding="base64">ICAgICAgICBvbGRfY2FtcGFpZ25zID0gc2VsZi5jYW1wYWlnbnMudmFsdWVzKCkKICAgICAgICBbc2VsZi5hY2NlcHRfY2FtcGFpZ24oYykgZm9yIGMgaW4gb2xkX2NhbXBhaWduc10K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>campaigns</text>
       </register>
       <register name="2" type="4">
-        <text>a0:e6:f8:ae:ad:82</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>insert_many</text>
+        <text>campaign</text>
       </register>
       <register name="4" type="4">
-        <text>col</text>
+        <text>campaigns</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sID0gcHltb25nby5Nb25nb0NsaWVudChjYW1wYWlnbi5kZXN0aW5hdGlvbilbJ3Ryb29wcyddWyd2YWx1ZXMnXQo=</text>
+      <register name="5" type="4">
+        <text>campaigns</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBweW1vbmdvCg==</text>
+      <register name="7" type="4">
+        <text>a0:e6:f8:ae:ad:82</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>insert_many</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>col</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
