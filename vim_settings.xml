@@ -35,7 +35,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1466429786333">
+      <file name="/Python Console" timestamp="1466430614277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1465884668298">
@@ -112,12 +112,12 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466429772851">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466430606195">
         <mark key="'" line="131" column="39" />
-        <mark key="[" line="122" column="20" />
-        <mark key="]" line="122" column="21" />
-        <mark key="." line="122" column="21" />
-        <mark key="^" line="121" column="56" />
+        <mark key="[" line="142" column="30" />
+        <mark key="]" line="142" column="37" />
+        <mark key="." line="142" column="37" />
+        <mark key="^" line="142" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1465550856259">
         <mark key="'" line="71" column="0" />
@@ -380,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.missions</text>
+        <text>purpose</text>
       </register>
       <register name="-" type="4">
-        <text>.missions</text>
+        <text>purpose</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
@@ -392,31 +392,31 @@
         <text encoding="base64">ICAgICAgICAjIENhbXBhaWdu44Gu5pu05paw44Gn44GC44KM44Gw77yIPUlE44GM5ZCM44GY44Gn44GC44KM44Gw77yJ5pei5a2Y44Gu44KC44Gu44KS5raI44GZCiAgICAgICAgaWYgY2FtcGFpZ24uZ2V0X2lkKCkgaW4gc2VsZi5jYW1wYWlnbnM6CiAgICAgICAgICAgIG9sZF9jYW0gPSBzZWxmLmNhbXBhaWduc1tjYW1wYWlnbi5nZXRfaWQoKV0KICAgICAgICAgICAgZm9yIHN1YiBpbiBzZWxmLnN1Ym9yZGluYXRlcy52YWx1ZXMoKToKICAgICAgICAgICAgICAgIFtzdWIubWlzc2lvbnMucmVtb3ZlKG0pIGZvciBtIGluIHN1Yi5taXNzaW9ucwogICAgICAgICAgICAgICAgIGlmIG0ucHVycG9zZSA9PSBvbGRfY2FtLmdldF9pZCgpXQo=</text>
       </register>
       <register name="1" type="4">
+        <text>purpose</text>
+      </register>
+      <register name="2" type="4">
         <text>.missions</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtzdWIub3JkZXJzLnJlbW92ZShtKSBmb3IgbSBpbiBzdWIubWlzc2lvbnMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>missions</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>s</text>
       </register>
-      <register name="5" type="4">
-        <text>campaign</text>
-      </register>
       <register name="6" type="4">
-        <text>campaigns</text>
+        <text>campaign</text>
       </register>
       <register name="7" type="4">
         <text>campaigns</text>
       </register>
       <register name="8" type="4">
-        <text>campaign</text>
+        <text>campaigns</text>
       </register>
       <register name="9" type="4">
-        <text>Campaign</text>
+        <text>campaign</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
