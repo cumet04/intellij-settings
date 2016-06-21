@@ -35,6 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="/Python Console" timestamp="1466492350119">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1465884668298">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
         <mark key="[" line="62" column="24" />
@@ -42,12 +48,15 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/leader.py" timestamp="1466427597613">
-        <mark key="'" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1466062677212">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="57" column="67" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/app/leader.py" timestamp="1466492412528">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="51" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/tests/soldier_test.py" timestamp="1466410440698">
         <mark key="[" line="57" column="55" />
@@ -138,15 +147,17 @@
         <mark key="^" line="61" column="63" />
         <mark key="." line="61" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1466406584260">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466406618254">
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1466492456265">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="41" column="48" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466492563378">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="44" column="51" />
+        <mark key="." line="46" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/leader_client.py" timestamp="1465884591460">
         <mark key="'" line="0" column="0" />
@@ -162,12 +173,12 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1466491668588">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="16" />
-        <mark key="^" line="42" column="58" />
-        <mark key="." line="42" column="16" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1466492381144">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="36" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/recruiter_client.py" timestamp="1465551264883">
         <mark key="'" line="77" column="36" />
@@ -268,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
       <jump line="90" column="29" filename="$USER_HOME$/Documents/SensingTroops/model/job_info.py" />
       <jump line="18" column="13" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="22" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
@@ -368,46 +378,47 @@
       <jump line="22" column="6" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/templates/swagger_ui.html" />
       <jump line="2" column="2" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/templates/swagger_ui.html" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGggaW4gc2VsZi53b3JraW5nX3RocmVhZHM6CiAgICAgICAgICAgIGlmIG1pc3Npb24uZ2V0X2lkKCkgPT0gdGgubWlzc2lvbi5nZXRfaWQoKToKICAgICAgICAgICAgICAgIHRoLmxvY2suc2V0KCkKICAgICAgICAgICAgICAgIHNlbGYud29ya2luZ190aHJlYWRzLnJlbW92ZSh0aCkK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCByZWNfYWRkcgo=</text>
       </register>
       <register name="1" type="4">
-        <text>S</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>localhost</text>
+        <text>params</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzog5a6f6KGM44Ob44K544OI44GuSVDjgpLlj5blvpfjgZnjgosK</text>
+      <register name="3" type="4">
+        <text>&quot;tag_soldier&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>localhost</text>
+        <text>rec_addr</text>
       </register>
-      <register name="5" type="4">
-        <text>get_id</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJ2lkJywgbWV0YXZhcj0naWQnLCB0eXBlPXN0ciwgaGVscD0nVGFyZ2V0IGlkIG9mIGFwcCcpCg==</text>
       </register>
       <register name="6" type="4">
-        <text>get_id</text>
+        <text>'http://localhost:50000/recruiter/'</text>
       </register>
       <register name="7" type="4">
-        <text>mission</text>
+        <text>'http://localhost:50000/recruiter/'</text>
       </register>
       <register name="8" type="4">
-        <text>mission</text>
+        <text>'http://localhost:50000/recruiter/'</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'http://localhost:50000/recruiter/'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
