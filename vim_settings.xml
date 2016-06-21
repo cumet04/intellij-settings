@@ -35,21 +35,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1466472321636">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1465884668298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
         <mark key="[" line="62" column="24" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
-      </file>
-      <file name="/a.dummy" timestamp="1466062677212">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/leader.py" timestamp="1466427597613">
         <mark key="'" line="0" column="0" />
@@ -171,12 +162,12 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1466488949705">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="29" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="41" column="29" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1466491668588">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="16" />
+        <mark key="^" line="42" column="58" />
+        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/recruiter_client.py" timestamp="1465551264883">
         <mark key="'" line="77" column="36" />
@@ -380,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
@@ -392,31 +383,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgdGggaW4gc2VsZi53b3JraW5nX3RocmVhZHM6CiAgICAgICAgICAgIGlmIG1pc3Npb24uZ2V0X2lkKCkgPT0gdGgubWlzc2lvbi5nZXRfaWQoKToKICAgICAgICAgICAgICAgIHRoLmxvY2suc2V0KCkKICAgICAgICAgICAgICAgIHNlbGYud29ya2luZ190aHJlYWRzLnJlbW92ZSh0aCkK</text>
       </register>
       <register name="1" type="4">
+        <text>S</text>
+      </register>
+      <register name="2" type="4">
         <text>localhost</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgVE9ETzog5a6f6KGM44Ob44K544OI44GuSVDjgpLlj5blvpfjgZnjgosK</text>
       </register>
-      <register name="3" type="4">
-        <text>localhost</text>
-      </register>
       <register name="4" type="4">
-        <text>get_id</text>
+        <text>localhost</text>
       </register>
       <register name="5" type="4">
         <text>get_id</text>
       </register>
       <register name="6" type="4">
-        <text>mission</text>
+        <text>get_id</text>
       </register>
       <register name="7" type="4">
         <text>mission</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mission</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
