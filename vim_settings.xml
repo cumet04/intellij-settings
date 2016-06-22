@@ -124,12 +124,12 @@
         <mark key="." line="296" column="0" />
         <mark key="^" line="237" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" timestamp="1466577890151">
+      <file name="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" timestamp="1466590997962">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="47" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="56" column="46" />
+        <mark key="[" line="180" column="25" />
+        <mark key="]" line="180" column="40" />
+        <mark key="." line="180" column="40" />
+        <mark key="^" line="180" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/controller/leader.py" timestamp="1466262863600">
         <mark key="[" line="5" column="0" />
@@ -201,8 +201,8 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" timestamp="1466577385650">
-        <mark key="[" line="34" column="26" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" timestamp="1466591041816">
+        <mark key="[" line="39" column="57" />
         <mark key="]" line="34" column="26" />
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
@@ -357,11 +357,11 @@
       <jump line="134" column="10" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2U9ImxlZnQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
@@ -369,11 +369,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2U9ImxlZnQiLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcD0nc29sX2h0dHAnLAo=</text>
+      <register name="1" type="4">
+        <text>o</text>
       </register>
-      <register name="2" type="4">
-        <text>name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcD0nc29sX2h0dHAnLAo=</text>
       </register>
       <register name="3" type="4">
         <text>name</text>
