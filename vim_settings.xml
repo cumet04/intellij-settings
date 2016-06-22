@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466592662118">
@@ -97,12 +97,9 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466594916124">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466634907059">
         <mark key="'" line="130" column="0" />
-        <mark key="[" line="200" column="40" />
-        <mark key="]" line="200" column="40" />
-        <mark key="." line="200" column="40" />
-        <mark key="^" line="200" column="40" />
+        <mark key="[" line="204" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1466175862699">
         <mark key="'" line="7" column="0" />
@@ -239,8 +236,8 @@
         <mark key="^" line="3" column="57" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" timestamp="1466594109910">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" timestamp="1466634895619">
+        <mark key="'" line="268" column="0" />
         <mark key="[" line="268" column="0" />
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
@@ -261,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="16" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="9" column="24" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="149" column="12" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
@@ -361,6 +357,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/config/recruit.yml" />
       <jump line="134" column="10" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="126" column="7" filename="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" />
+      <jump line="268" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -403,7 +400,7 @@
         <text>c</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -441,9 +438,9 @@
       <history-cmd>
         <entry>%s/e.__class__.__name__/e/g</entry>
         <entry>g</entry>
-        <entry>q</entry>
         <entry>action JumpToLastChange</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
