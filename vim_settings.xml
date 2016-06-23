@@ -83,12 +83,9 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466685354375">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466686007838">
         <mark key="'" line="183" column="0" />
-        <mark key="[" line="211" column="19" />
-        <mark key="]" line="204" column="40" />
-        <mark key="." line="270" column="0" />
-        <mark key="^" line="269" column="23" />
+        <mark key="[" line="218" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1466175862699">
         <mark key="'" line="7" column="0" />
@@ -321,43 +318,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5zdWJfaGVhcnRfd2FpdHNbc3ViX2lkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9ICJ7MH17MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzZWxmLmxlYWRlci5zdXBlcmlvcl9lcCwKICAgICAgICAgICAgICAgICAgICAic3Vib3JkaW5hdGVzL3swfS9yZXBvcnQiLmZvcm1hdChzZWxmLmxlYWRlci5pZCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>superi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5zdWJfaGVhcnRfd2FpdHNbc3ViX2lkXQo=</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSAiezB9c3Vib3JkaW5hdGVzL3sxfS9yZXBvcnQiLmZvcm1hdChzZWxmLnN1cGVyaW9yX2VwLCBzZWxmLmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9ICJ7MH17MX0iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBzZWxmLmxlYWRlci5zdXBlcmlvcl9lcCwKICAgICAgICAgICAgICAgICAgICAic3Vib3JkaW5hdGVzL3swfS9yZXBvcnQiLmZvcm1hdChzZWxmLmxlYWRlci5pZCkpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImV2ZW50IHNldCIpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVl</text>
+        <text>)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRlci5yZWNlaXZlX2hlYXJ0YmVhdChzdWJfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN1Ym9yZGluYXRlcy97MH0vcmVwb3J0Ii5mb3JtYXQoc2VsZi5pZCkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxlYWRlci5yZWNlaXZlX2hlYXJ0YmVhdChzdWJfaWQpCg==</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxlYWRlci5yZWNlaXZlX2hlYXJ0YmVhdChzdWJfaWQpCg==</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oImV2ZW50IHNldCIpCg==</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
