@@ -95,12 +95,12 @@
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466680969604">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="183" column="8" />
-        <mark key="]" line="183" column="14" />
-        <mark key="." line="183" column="14" />
-        <mark key="^" line="183" column="14" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466681976284">
+        <mark key="'" line="187" column="0" />
+        <mark key="[" line="196" column="22" />
+        <mark key="]" line="196" column="44" />
+        <mark key="." line="196" column="44" />
+        <mark key="^" line="196" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1466175862699">
         <mark key="'" line="7" column="0" />
@@ -340,11 +340,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>死亡認定</text>
       </register>
       <register name="/" type="4">
         <text>superi</text>
@@ -352,32 +352,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9oZWFydF93YWl0ID0gTm9uZSAgIyB0eXBlOiBFdmVudAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlCg==</text>
+      <register name="2" type="4">
+        <text>死亡認定</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhlCg==</text>
+      <register name="3" type="4">
+        <text>肪</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJfaW5mby5faGVhcnRfd2FpdCA9IEV2ZW50KCkK</text>
+      <register name="4" type="4">
+        <text>脂</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9oZWFydF93YWl0ID0gTm9uZSAgIyB0eXBlOiBFdmVudAo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9oZWFydF93YWl0ID0gTm9uZSAgIyB0eXBlOiBFdmVudAo=</text>
+      <register name="6" type="4">
+        <text>Thread</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>m_req.values,</text>
+        <text>Event()</text>
       </register>
       <register name="9" type="4">
-        <text>mission</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
