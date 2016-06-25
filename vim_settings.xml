@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466262803282">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466839538290">
         <mark key="'" line="62" column="8" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="3" column="24" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="167" column="43" />
+        <mark key="." line="167" column="43" />
+        <mark key="^" line="167" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/config/cam_heartbeat.json" timestamp="1465536413267">
         <mark key="[" line="19" column="13" />
@@ -91,11 +91,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466268388638">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1466839562638">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="206" column="36" />
+        <mark key="]" line="206" column="41" />
+        <mark key="." line="206" column="41" />
+        <mark key="^" line="206" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" timestamp="1466175862699">
         <mark key="'" line="7" column="0" />
@@ -349,43 +350,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oYWN0dWFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlbW92ZV9zdWJvcmRpbmF0ZShzaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWUgPSB0aW1lCiAgICAgICAgc2VsZi5wdXJwb3NlID0gcHVycG9zZQogICAgICAgIHNlbGYudmFsdWVzID0gdmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnJlbW92ZV9zdWJvcmRpbmF0ZShzaWQpOgogICAgICAgICAgICAjIHJlbW92ZeOBjOWkseaVl+OBmeOCjOOBsO+8iOOBneOCguOBneOCguWJiumZpOa4iOOBp+OBguOCjOOBsO+8ieWun+ihjOOBl+OBquOBhAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oYWN0dWFsKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlbW92ZV9zdWJvcmRpbmF0ZShzaWQpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZW1vdmVfc3Vib3JkaW5hdGUoc2lkKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzaWQgaW4gc2VsZi5zdWJvcmRpbmF0ZXM6Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>json.lo</text>
+        <text>*</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bG9hZHMsIA==</text>
+        <text>*</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="6" type="4">
+        <text>[sid]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cmwgPSAiezB9ezF9Ii5mb3JtYXQoCiAgICAgICAgICAgICMgICAgIHNlbGYuc29sZGllci5zdXBlcmlvcl9lcCwKICAgICAgICAgICAgIyAgICAgInN1Ym9yZGluYXRlcy97MH0vd29yayIuZm9ybWF0KHNlbGYuc29sZGllci5pZCkpCiAgICAgICAgICAgICMgcmVzdC5wb3N0KHVybCwganNvbj13b3JrLnRvX2RpY3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oYWN0dWFsKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
