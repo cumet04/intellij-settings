@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466847996805">
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1466848755456">
         <mark key="'" line="173" column="13" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="43" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="226" column="40" />
+        <mark key="[" line="197" column="71" />
+        <mark key="]" line="197" column="72" />
+        <mark key="." line="197" column="72" />
+        <mark key="^" line="197" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/config/cam_heartbeat.json" timestamp="1465536413267">
         <mark key="[" line="19" column="13" />
@@ -356,11 +356,11 @@
       <jump line="43" column="39" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPDw8PDw8PDw8PD4+Pj4+Pj4+Pj4iKQo=</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwzXD4=</text>
@@ -369,31 +369,31 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiPDw8PDw8PDw8PD4+Pj4+Pj4+Pj4iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>values</text>
+        <text>~</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>values</text>
       </register>
       <register name="3" type="4">
         <text>5</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="7" type="4">
         <text>2</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVjX2FkZHIgPSAiIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgc2VsZi5zdWJfaGVhcnRfd2FpdHNbc3ViX2lkXQo=</text>
+        <text encoding="base64">cmVjX2FkZHIgPSAiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
