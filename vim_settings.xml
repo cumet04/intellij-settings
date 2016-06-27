@@ -10,8 +10,12 @@
         <mark key="." line="187" column="22" />
         <mark key="^" line="187" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" timestamp="1466638126813">
-        <mark key="'" line="706" column="10" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" timestamp="1467023639104">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" timestamp="1466592805417">
         <mark key="'" line="9" column="40" />
@@ -20,7 +24,7 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1467022152956">
+      <file name="/Python Console" timestamp="1467027323371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -70,6 +74,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/templates/troops_viewer.html" timestamp="1467025909258">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
         <mark key="[" line="370" column="0" />
@@ -98,7 +108,7 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/recruiter.py" timestamp="1466638416727">
-        <mark key="'" line="51" column="0" />
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -109,6 +119,12 @@
         <mark key="]" line="307" column="36" />
         <mark key="." line="307" column="36" />
         <mark key="^" line="307" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" timestamp="1467027367902">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" timestamp="1466639950648">
         <mark key="'" line="60" column="0" />
@@ -135,11 +151,9 @@
         <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1467022123170">
-        <mark key="'" line="43" column="16" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/recruiter_client.py" timestamp="1466146188420">
         <mark key="'" line="52" column="0" />
@@ -219,15 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="32" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
-      <jump line="112" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
-      <jump line="150" column="14" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="172" column="23" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="56" column="19" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
@@ -319,46 +324,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
       <jump line="46" column="23" filename="$USER_HOME$/Documents/SensingTroops/app/leader.py" />
       <jump line="44" column="16" filename="$USER_HOME$/Documents/SensingTroops/app/commander.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
+      <jump line="29" column="10" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="50" column="13" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="0" column="55" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="78" column="36" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="75" column="44" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/troops_viewer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRleHQiOiAid2VhcG9uczogezB9Ii5mb3JtYXQoaW5mby53ZWFwb25zKSwKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>socket.gethostbyname(socket.gethostname())</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>superi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSAiezB9c3Vib3JkaW5hdGVzL3sxfS9yZXBvcnQiLmZvcm1hdChzZWxmLnN1cGVyaW9yX2VwLCBzZWxmLmlkKQo=</text>
+        <text encoding="base64">ZGVmIGdlbl9taXNzaW9uX2RhdGEobWlzc2lvbik6CiAgICByZXR1cm4gewogICAgICAgICJ0ZXh0Ijogc3RyKG1pc3Npb24pCiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRleHQiOiAid2VhcG9uczogezB9Ii5mb3JtYXQoaW5mby53ZWFwb25zKSwKICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>socket.gethostbyname(socket.gethostname())</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub2RlcyI6IFtnZW5fc29sZGllcl9kYXRhKGluZm8pIGZvciBpbmZvIGluIHN1Yl9pbmZvX2xpc3RdCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNvY2tldAo=</text>
+      <register name="3" type="4">
+        <text>}</text>
       </register>
       <register name="4" type="4">
-        <text>socket.gethostbyname(socket.gethostname())</text>
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X2lwKCkpCmV4aXQoKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5oZWxwZXJzIGltcG9ydCBnZXRfaXAK</text>
+      <register name="7" type="4">
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>subordinates</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Y29ubiA=</text>
+        <text>mission</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,6 +415,7 @@
         <entry>g</entry>
         <entry>action JumpToLastChange</entry>
         <entry>q</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
