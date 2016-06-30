@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1467040114877">
-        <mark key="'" line="160" column="4" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="229" column="35" />
-        <mark key="." line="187" column="22" />
-        <mark key="^" line="187" column="22" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/commander.py" timestamp="1467248601486">
+        <mark key="[" line="163" column="53" />
+        <mark key="]" line="163" column="54" />
+        <mark key="." line="163" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" timestamp="1467039812000">
         <mark key="'" line="34" column="25" />
@@ -24,7 +22,7 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1467043320127">
+      <file name="/Python Console" timestamp="1467248915959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -47,11 +45,11 @@
       <file name="/a.dummy" timestamp="1464861154224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/leader.py" timestamp="1467022084754">
+      <file name="$USER_HOME$/Documents/SensingTroops/app/leader.py" timestamp="1467248617965">
         <mark key="'" line="45" column="23" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="35" />
+        <mark key="." line="52" column="35" />
         <mark key="^" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/tests/soldier_test.py" timestamp="1466646415147">
@@ -150,11 +148,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467044399904">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="43" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="43" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467248912602">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -349,43 +347,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>、</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>、</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>superi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHltb25nbwogICAgICAgIGltcG9ydCByZQogICAgICAgIG1hdGNoX3Jlc3VsdCA9IHJlLm1hdGNoKHIibW9uZ29kYjovLyguKj8pLyguKj8pLyguKikiLCB1cmkpCiAgICAgICAgaWYgbWF0Y2hfcmVzdWx0IGlzIE5vbmU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigidXJpIGlzIG5vdCBtb25nb2RiLXVyaTogezB9Ii5mb3JtYXQodXJpKSkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgaG9zdCA9IG1hdGNoX3Jlc3VsdC5ncm91cCgxKQogICAgICAgIGRiX25hbWUgPSBtYXRjaF9yZXN1bHQuZ3JvdXAoMikKICAgICAgICBjb2xfbmFtZSA9IG1hdGNoX3Jlc3VsdC5ncm91cCgzKQogICAgICAgIHNlbGYuY29sID0gcHltb25nby5Nb25nb0NsaWVudChob3N0KVtkYl9uYW1lXVtjb2xfbmFtZV0KCiAgICBkZWYgcHVzaF92YWx1ZXMoc2VsZiwgdmFsdWVzKToKICAgICAgICBpZiBsZW4odmFsdWVzKSA9PSAwOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBsb2dnZXIuaW5mbygiPDw8PDw8PDw8PD4+Pj4+Pj4+Pj4iKQogICAgICAgIGxvZ2dlci5pbmZvKHZhbHVlcykKICAgICAgICBsb2dnZXIuaW5mbygiPDw8PDw8PDw8PD4+Pj4+Pj4+Pj4iKQogICAgICAgIHNlbGYuY29sLmluc2VydF9tYW55KHZhbHVlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uLmR1bXBzKHB1c2hfZGF0YSwgc29ydF9rZXlzPVRydWUsIGluZGVudD0yKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>、</text>
+        <text>}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YWwgaW4gcmVzLnZhbHVlcykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codmFsKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>val</text>
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text>val</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>p</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>y</text>
       </register>
       <register name="8" type="4">
-        <text>addRow</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
