@@ -24,7 +24,7 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1467307159667">
+      <file name="/Python Console" timestamp="1467307536139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -162,11 +162,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="44" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467307157131">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467307532331">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -363,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hours</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hours</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
@@ -375,31 +375,31 @@
         <text encoding="base64">ICAgIHJldHVybiBweW1vbmdvLk1vbmdvQ2xpZW50KCIxOTIuMTY4LjAuMjEiKVsidGVzdCJdWyJ0cm9vcHMiXQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hours</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlYXJjaCkK</text>
-      </register>
-      <register name="4" type="4">
-        <text>#</text>
-      </register>
-      <register name="5" type="4">
-        <text>troops</text>
-      </register>
-      <register name="6" type="4">
-        <text>test</text>
-      </register>
-      <register name="7" type="4">
-        <text>192.168.0.21</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
+      <register name="3" type="4">
         <text>#</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>#</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNlYXJjaCkK</text>
+      </register>
+      <register name="7" type="4">
+        <text>#</text>
+      </register>
+      <register name="8" type="4">
+        <text>troops</text>
+      </register>
+      <register name="9" type="4">
+        <text>test</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
