@@ -166,12 +166,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1466844009363">
-        <mark key="'" line="43" column="39" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="40" />
-        <mark key="^" line="59" column="36" />
-        <mark key="." line="43" column="40" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1467271629988">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467262781817">
         <mark key="[" line="29" column="20" />
@@ -279,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="0" column="26" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
       <jump line="314" column="8" filename="$USER_HOME$/Documents/SensingTroops/venv/lib/python3.5/site-packages/flask/app.py" />
@@ -379,10 +377,12 @@
       <jump line="15" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
       <jump line="25" column="35" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
       <jump line="34" column="52" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
+      <jump line="57" column="14" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>place</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="-" type="4">
         <text>place</text>
@@ -393,35 +393,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlYXJjaC51cGRhdGUoc19wbGFjZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>place</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
-      <register name="2" type="4">
-        <text>purpose</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>s_purpose + s_place + s_type</text>
+        <text>place</text>
       </register>
       <register name="4" type="4">
-        <text>type</text>
+        <text>purpose</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>s_purpose + s_place + s_type</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>type</text>
       </register>
       <register name="7" type="4">
-        <text>values</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>troops</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>localhost</text>
+        <text>values</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -460,8 +460,8 @@
         <entry>%s/e.__class__.__name__/e/g</entry>
         <entry>g</entry>
         <entry>action JumpToLastChange</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
