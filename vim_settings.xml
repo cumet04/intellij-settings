@@ -24,7 +24,7 @@
         <mark key="." line="91" column="57" />
         <mark key="^" line="91" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1467307536139">
+      <file name="/Python Console" timestamp="1467344845695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -155,12 +155,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1467302459802">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="44" column="52" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1467344952960">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="63" />
+        <mark key="]" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467307532331">
         <mark key="[" line="11" column="47" />
@@ -260,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="46" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="8" column="70" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="109" column="57" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="9" column="40" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="31" column="23" filename="$USER_HOME$/Documents/SensingTroops/tests/soldier_test.py" />
@@ -360,13 +358,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/static/values_viewer.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/static/values_viewer.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/static/values_viewer.js" />
+      <jump line="107" column="23" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hours</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>hours</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
@@ -375,31 +375,31 @@
         <text encoding="base64">ICAgIHJldHVybiBweW1vbmdvLk1vbmdvQ2xpZW50KCIxOTIuMTY4LjAuMjEiKVsidGVzdCJdWyJ0cm9vcHMiXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>hours</text>
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KHRhZ3MpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>#</text>
+      <register name="5" type="2">
+        <text encoding="base64">dGFncyA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNlYXJjaCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsaW5lCg==</text>
       </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>txt</text>
       </register>
       <register name="8" type="4">
-        <text>troops</text>
+        <text>text</text>
       </register>
       <register name="9" type="4">
-        <text>test</text>
+        <text>hours</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
