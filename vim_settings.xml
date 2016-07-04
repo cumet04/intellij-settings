@@ -11,11 +11,11 @@
         <mark key="." line="163" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" timestamp="1467438602494">
-        <mark key="'" line="52" column="68" />
+        <mark key="'" line="51" column="68" />
         <mark key="[" line="51" column="4" />
         <mark key="]" line="51" column="4" />
         <mark key="." line="51" column="4" />
-        <mark key="^" line="52" column="5" />
+        <mark key="^" line="51" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/config/cam_heartbeat.json" timestamp="1465536413267">
         <mark key="[" line="19" column="13" />
@@ -30,7 +30,7 @@
         <mark key="." line="108" column="57" />
         <mark key="^" line="108" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1467438515092">
+      <file name="/Python Console" timestamp="1467640937513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/recruiter.py" timestamp="1464921814477">
@@ -157,11 +157,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1467354029219">
-        <mark key="[" line="164" column="11" />
-        <mark key="]" line="164" column="28" />
-        <mark key="^" line="164" column="28" />
-        <mark key="." line="164" column="28" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1467641663180">
+        <mark key="'" line="55" column="49" />
+        <mark key="[" line="126" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/values_viewer.py" timestamp="1467438360644">
         <mark key="[" line="11" column="42" />
@@ -236,10 +234,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1467437309968">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="8" />
-        <mark key="." line="72" column="8" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1467640571693">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="47" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="166" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/commander_client.py" timestamp="1466173697304">
         <mark key="'" line="74" column="36" />
@@ -264,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="10" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="88" column="32" filename="$USER_HOME$/Documents/SensingTroops/utils/rest.py" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
@@ -364,46 +362,47 @@
       <jump line="13" column="22" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/templates/troops_viewer.html" />
       <jump line="26" column="32" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/static/values_viewer.js" />
       <jump line="52" column="68" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
+      <jump line="55" column="49" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW51dGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSB2bF92aWV3ZXIuZ2V0X3ZhbHVlcyhwdXJwb3NlLCBwbGFjZSwgdHlwZSwgMTAwMCwgZGF5cz0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJEaXNjb25uZWN0ZWQ6IHswfSIuZm9ybWF0KHNlbGYudGFnLmFkZHIpKQogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKHRyYWNlYmFjay5mb3JtYXRfZXhjKCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>#</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAiRmFpbGVkIHRvIGNvbm5lY3QgdG8gcGVyaXBoZXJhbCIgaW4gZS5tZXNzYWdlOgogICAgICAgICAgICBsb2dnZXIuaW5mbygiY29ubmVjdGlvbiBmYWlsZWQ6IHswfSIuZm9ybWF0KGFkZHIpKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>700</text>
-      </register>
-      <register name="4" type="4">
-        <text>1</text>
-      </register>
-      <register name="5" type="4">
-        <text>days</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibWludXRlcyI6IAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>1</text>
-      </register>
-      <register name="8" type="4">
         <text>.</text>
       </register>
+      <register name="4" type="4">
+        <text>g</text>
+      </register>
+      <register name="5" type="4">
+        <text>a</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
+      <register name="8" type="4">
+        <text>f</text>
+      </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
