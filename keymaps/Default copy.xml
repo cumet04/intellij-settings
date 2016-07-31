@@ -1,5 +1,14 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CopyElement" />
   <action id="GotoSuperMethod" />
+  <action id="Help.KeymapReference">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -15,4 +24,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
