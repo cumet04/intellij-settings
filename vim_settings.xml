@@ -45,11 +45,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472307430414">
-        <mark key="'" line="245" column="18" />
-        <mark key="[" line="812" column="0" />
-        <mark key="]" line="812" column="4" />
-        <mark key="." line="812" column="4" />
+      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472308052328">
+        <mark key="'" line="221" column="26" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/FamousQuotes/index.html" timestamp="1472307407666">
         <mark key="'" line="0" column="0" />
@@ -208,37 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="25" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="223" column="64" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="230" column="39" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="243" column="53" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="254" column="35" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="280" column="53" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="288" column="64" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="296" column="39" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="93" column="20" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="99" column="52" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="113" column="35" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="193" column="52" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="55" column="55" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="66" column="43" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="104" column="65" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="113" column="43" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="156" column="55" filename="$USER_HOME$/Documents/SensingTroops/tests/recruiter_test.py" />
-      <jump line="0" column="50" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
-      <jump line="70" column="31" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
-      <jump line="11" column="22" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="21" column="10" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="23" column="31" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="24" column="48" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="32" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="49" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="68" column="24" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="73" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="99" column="28" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="104" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="129" column="35" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
       <jump line="143" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
@@ -304,29 +273,60 @@
       <jump line="819" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="104" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="193" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="245" column="18" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="265" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="266" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="269" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="288" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="291" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="305" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="311" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="432" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="450" column="6" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="481" column="10" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="202" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="207" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="212" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="245" column="18" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="263" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="665" column="35" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="250" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="642" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="666" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="669" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="672" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="251" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="280" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="238" column="24" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="191" column="40" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="240" column="40" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="49" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="169" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="47" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="179" column="44" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="164" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="192" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="221" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Lypqc2hpbnQgbm9kZTogdHJ1ZSAqLwo=</text>
+        <text encoding="base64">CgogIC8vIOaMh+WumuOBleOCjOOBn+OCqOODs+ODieODneOCpOODs+ODiOOBqOODkeODqeODoeODvOOCv++8jOW8leaVsOOBi+OCieOCteODvOODk+OCueOCkuWun+ihjOOBmeOCiwogIC8vCiAgLy8gMjAxMi8wNy8wNSDkuLvjgatwYXJhbXPjga7lh6bnkIbvvIzmma7pgJrjgaskLmFqYXgoKeOBp+OCiOOBj+OBre+8nyDihpIg44Gy44Go44G+44GacGFyYW3lh6bnkIbjga7jgb/jgpLmipzjgY3lh7rjgZfjgZPjga7jg6Hjgr3jg4Pjg4njga/kvb/jgo/jgarjgYTjgojjgYbjgavjgZfjgZ8KICAvLwogIC8vIGVuZHBvaW50OgogIC8vIGFwaToKICAvLyBwYXJhbXM65byV5pWw44Gr44Gv6YWN5YiX44Gn5oyH5a6a44GZ44KL44GT44Go44KC5Y+v6IO9CiAgLy8gaXNPdXRwdXRDb25zb2xlOiDjgrPjg7Pjgr3jg7zjg6vlh7rlipvjgpLjgZnjgovjgYsKICAnX19pbnZva2VTZXJ2aWNlUmVxdWVzdCc6IGZ1bmN0aW9uIChlbmRwb2ludCwgYXBpLCBwYXJhbXMsIGlzT3V0cHV0Q29uc29sZSkgewogICAgLy8g44K144O844OT44K55a6f6KGMVVJMCiAgICB2YXIgdXJsID0gZW5kcG9pbnQgKyBhcGk7CiAgICAvLyBhcmdzCiAgICB2YXIgYXJnID0gJC5wYXJhbVByZWZpeCArICQucGFyYW1PcGVyYXRvciArIHBhcmFtczsKCiAgICAvLyDjg5Hjg6njg6Hjg7zjgr/jgpLnlJ/miJAKICAgIC8vIOaMh+WumnBhcmFtc+OBi+OCiSAicGFyYW0wPWhvZ2UmcGFyYW0xPWZ1Z2EiIOOCkueUn+aIkAogICAgdmFyIHBhcmFtQXJyYXkgPSBuZXcgQXJyYXkoKTsKCiAgICAvLyDjg5Hjg6njg6Hjg7zjgr/opoHntKDmnKrmjIflrprjga7loLTlkIjvvIznqbrphY3liJfjgavlpInmj5sKICAgIGlmICh0eXBlb2YocGFyYW1zKSA9PSAidW5kZWZpbmVkIikgewogICAgICBwYXJhbXMgPSBuZXcgQXJyYXkoKTsKICAgIH0KICAgIC8vIOODkeODqeODoeODvOOCv+imgee0oOOBjDHlgIvjga7loLTlkIjvvIzphY3liJfjgavmm7jjgY3nm7TjgZcKICAgIGVsc2UgaWYgKCEocGFyYW1zIGluc3RhbmNlb2YgQXJyYXkpKSB7CiAgICAgIHBhcmFtcyA9IG5ldyBBcnJheShwYXJhbXMpOwogICAgfQogICAgLy8gcGFyYW3jgpLmlbTlvaIKICAgICQuZWFjaChwYXJhbXMsIGZ1bmN0aW9uIChpLCB2YWwpIHsKICAgICAgcGFyYW1BcnJheS5wdXNoKCQucGFyYW1QcmVmaXggKyBpICsgJC5wYXJhbU9wZXJhdG9yICsgdmFsKTsKICAgIH0pOwogICAgdmFyIGZpeGVkUGFyYW1zID0gcGFyYW1BcnJheS5qb2luKCQucGFyYW1TZXBhcmF0b3IpOwoKICAgIC8vIGR1bXDlh7rlipvnlKh1cmwKICAgIHZhciBmdWxsVXJsID0gdXJsICsgJz8nICsgZml4ZWRQYXJhbXM7CgogICAgLy8g5YaN55Sf5ZG844Gz5Ye644GXCiAgICAkLmFqYXgoewogICAgICB1cmw6IHVybCwKICAgICAgZGF0YTogZml4ZWRQYXJhbXMsCiAgICAgIGJlZm9yZVNlbmQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBpZiAoaXNPdXRwdXRDb25zb2xlKSB7CiAgICAgICAgICAkKCkuZHVtcFJldHVyblZhbHVlKGZ1bGxVcmwsICcuLi4gLi4uJyk7CiAgICAgICAgfQogICAgICB9LAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoZGF0YSkgewogICAgICAgIGlmIChpc091dHB1dENvbnNvbGUpIHsKICAgICAgICAgICQoKS5kdW1wUmV0dXJuVmFsdWUoZnVsbFVybCwgJChkYXRhKS5maW5kKCdyZXR1cm4nKS50ZXh0KCkpOwogICAgICAgIH0KICAgICAgfSwKICAgICAgZXJyb3I6IGZ1bmN0aW9uICgpIHsKICAgICAgICBpZiAoaXNPdXRwdXRDb25zb2xlKSB7CiAgICAgICAgICAkKCkuZHVtcFJldHVyblZhbHVlKGZ1bGxVcmwsICQoZGF0YSkuZmluZCgncmV0dXJuJykudGV4dCgpKTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKCiAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaXNzaW9uX2Jhc2UgPSBNaXNzaW9uKGF1dGhvcj0nbHh4eDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb249J21vbmdvc2VydicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZT0nb24gZGVzaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lypqc2hpbnQgbm9kZTogdHJ1ZSAqLwo=</text>
+        <text encoding="base64">CgogIC8vIOaMh+WumuOBleOCjOOBn+OCqOODs+ODieODneOCpOODs+ODiOOBqOODkeODqeODoeODvOOCv++8jOW8leaVsOOBi+OCieOCteODvOODk+OCueOCkuWun+ihjOOBmeOCiwogIC8vCiAgLy8gMjAxMi8wNy8wNSDkuLvjgatwYXJhbXPjga7lh6bnkIbvvIzmma7pgJrjgaskLmFqYXgoKeOBp+OCiOOBj+OBre+8nyDihpIg44Gy44Go44G+44GacGFyYW3lh6bnkIbjga7jgb/jgpLmipzjgY3lh7rjgZfjgZPjga7jg6Hjgr3jg4Pjg4njga/kvb/jgo/jgarjgYTjgojjgYbjgavjgZfjgZ8KICAvLwogIC8vIGVuZHBvaW50OgogIC8vIGFwaToKICAvLyBwYXJhbXM65byV5pWw44Gr44Gv6YWN5YiX44Gn5oyH5a6a44GZ44KL44GT44Go44KC5Y+v6IO9CiAgLy8gaXNPdXRwdXRDb25zb2xlOiDjgrPjg7Pjgr3jg7zjg6vlh7rlipvjgpLjgZnjgovjgYsKICAnX19pbnZva2VTZXJ2aWNlUmVxdWVzdCc6IGZ1bmN0aW9uIChlbmRwb2ludCwgYXBpLCBwYXJhbXMsIGlzT3V0cHV0Q29uc29sZSkgewogICAgLy8g44K144O844OT44K55a6f6KGMVVJMCiAgICB2YXIgdXJsID0gZW5kcG9pbnQgKyBhcGk7CiAgICAvLyBhcmdzCiAgICB2YXIgYXJnID0gJC5wYXJhbVByZWZpeCArICQucGFyYW1PcGVyYXRvciArIHBhcmFtczsKCiAgICAvLyDjg5Hjg6njg6Hjg7zjgr/jgpLnlJ/miJAKICAgIC8vIOaMh+WumnBhcmFtc+OBi+OCiSAicGFyYW0wPWhvZ2UmcGFyYW0xPWZ1Z2EiIOOCkueUn+aIkAogICAgdmFyIHBhcmFtQXJyYXkgPSBuZXcgQXJyYXkoKTsKCiAgICAvLyDjg5Hjg6njg6Hjg7zjgr/opoHntKDmnKrmjIflrprjga7loLTlkIjvvIznqbrphY3liJfjgavlpInmj5sKICAgIGlmICh0eXBlb2YocGFyYW1zKSA9PSAidW5kZWZpbmVkIikgewogICAgICBwYXJhbXMgPSBuZXcgQXJyYXkoKTsKICAgIH0KICAgIC8vIOODkeODqeODoeODvOOCv+imgee0oOOBjDHlgIvjga7loLTlkIjvvIzphY3liJfjgavmm7jjgY3nm7TjgZcKICAgIGVsc2UgaWYgKCEocGFyYW1zIGluc3RhbmNlb2YgQXJyYXkpKSB7CiAgICAgIHBhcmFtcyA9IG5ldyBBcnJheShwYXJhbXMpOwogICAgfQogICAgLy8gcGFyYW3jgpLmlbTlvaIKICAgICQuZWFjaChwYXJhbXMsIGZ1bmN0aW9uIChpLCB2YWwpIHsKICAgICAgcGFyYW1BcnJheS5wdXNoKCQucGFyYW1QcmVmaXggKyBpICsgJC5wYXJhbU9wZXJhdG9yICsgdmFsKTsKICAgIH0pOwogICAgdmFyIGZpeGVkUGFyYW1zID0gcGFyYW1BcnJheS5qb2luKCQucGFyYW1TZXBhcmF0b3IpOwoKICAgIC8vIGR1bXDlh7rlipvnlKh1cmwKICAgIHZhciBmdWxsVXJsID0gdXJsICsgJz8nICsgZml4ZWRQYXJhbXM7CgogICAgLy8g5YaN55Sf5ZG844Gz5Ye644GXCiAgICAkLmFqYXgoewogICAgICB1cmw6IHVybCwKICAgICAgZGF0YTogZml4ZWRQYXJhbXMsCiAgICAgIGJlZm9yZVNlbmQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBpZiAoaXNPdXRwdXRDb25zb2xlKSB7CiAgICAgICAgICAkKCkuZHVtcFJldHVyblZhbHVlKGZ1bGxVcmwsICcuLi4gLi4uJyk7CiAgICAgICAgfQogICAgICB9LAogICAgICBzdWNjZXNzOiBmdW5jdGlvbiAoZGF0YSkgewogICAgICAgIGlmIChpc091dHB1dENvbnNvbGUpIHsKICAgICAgICAgICQoKS5kdW1wUmV0dXJuVmFsdWUoZnVsbFVybCwgJChkYXRhKS5maW5kKCdyZXR1cm4nKS50ZXh0KCkpOwogICAgICAgIH0KICAgICAgfSwKICAgICAgZXJyb3I6IGZ1bmN0aW9uICgpIHsKICAgICAgICBpZiAoaXNPdXRwdXRDb25zb2xlKSB7CiAgICAgICAgICAkKCkuZHVtcFJldHVyblZhbHVlKGZ1bGxVcmwsICQoZGF0YSkuZmluZCgncmV0dXJuJykudGV4dCgpKTsKICAgICAgICB9CiAgICAgIH0sCiAgICB9KTsKCiAgfSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Lypqc2hpbnQgbm9kZTogdHJ1ZSAqLwo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
@@ -338,38 +338,30 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>not i</entry>
-        <entry>pass</entry>
-        <entry>implemented'</entry>
-        <entry>target</entry>
-        <entry encoding="base64">XDxtaXNzaW9uc1w+</entry>
-        <entry encoding="base64">XDxtaXNzaW9uX2Jhc2VcPg==</entry>
-        <entry encoding="base64">XDxjYW1wYWlnbnNcPg==</entry>
-        <entry encoding="base64">XDxleHBlY3RlZF9saXN0XD4=</entry>
         <entry>campaign</entry>
         <entry>campai</entry>
         <entry encoding="base64">XDxSZWNydWl0ZXJDbGllbnRcPg==</entry>
@@ -382,6 +374,14 @@
         <entry>asdict</entry>
         <entry encoding="base64">XDxzZW5zb3JEYXRhXD4=</entry>
         <entry>dump</entry>
+        <entry>dumpreturnvalue</entry>
+        <entry>dumpReturnV</entry>
+        <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbVNlcGFyYXRvclw+</entry>
+        <entry encoding="base64">XDxfX2ludm9rZVNlcnZpY2VSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxwYXJhbVByZWZpeFw+</entry>
+        <entry encoding="base64">XDxwYXJhbU9wZXJhdG9yXD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
