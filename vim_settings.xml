@@ -45,8 +45,8 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472308052328">
-        <mark key="'" line="221" column="26" />
+      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472308535108">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
@@ -208,37 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="129" column="35" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="143" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="160" column="24" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="165" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="188" column="28" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="193" column="34" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="122" column="17" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="71" column="45" filename="$USER_HOME$/Documents/SensingTroops/model/actor_info.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="70" column="29" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="201" column="60" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="166" column="68" filename="$USER_HOME$/Documents/SensingTroops/controller/leader.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/leader_test.py" />
-      <jump line="72" column="17" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
-      <jump line="78" column="20" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="57" column="8" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="63" column="15" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="51" column="6" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="3" column="16" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="52" column="9" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="22" column="22" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
@@ -268,7 +237,6 @@
       <jump line="509" column="5" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="802" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="17" column="9" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/index.html" />
       <jump line="819" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="104" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -308,6 +276,38 @@
       <jump line="164" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="192" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="221" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="180" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="593" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="78" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="89" column="49" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="97" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="119" column="18" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="141" column="39" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="239" column="17" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="353" column="19" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="224" column="20" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="226" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="583" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="607" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="35" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="531" column="10" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="220" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="538" column="10" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="563" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="568" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="242" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="415" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="452" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="537" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="562" column="6" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="569" column="48" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="570" column="44" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="704" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="709" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="711" column="22" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -317,7 +317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</text>
+        <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaXNzaW9uX2Jhc2UgPSBNaXNzaW9uKGF1dGhvcj0nbHh4eDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb249J21vbmdvc2VydicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZT0nb24gZGVzaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykK</text>
@@ -354,18 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxxdW90ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxxdW90ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>campaign</entry>
-        <entry>campai</entry>
-        <entry encoding="base64">XDxSZWNydWl0ZXJDbGllbnRcPg==</entry>
-        <entry>CommanderCli</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kZXJfY2xpZW50XD4=</entry>
         <entry encoding="base64">XDxhc2RpY3RcPg==</entry>
@@ -382,6 +378,10 @@
         <entry encoding="base64">XDxwYXJhbVByZWZpeFw+</entry>
         <entry encoding="base64">XDxwYXJhbU9wZXJhdG9yXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxHRlNTZXJ2aWNlRW5kcG9pbnRcPg==</entry>
+        <entry encoding="base64">XDxtcDNQbGF5U2VydmljZUVuZHBvaW50XD4=</entry>
+        <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBBbmRDb3VudFw+</entry>
+        <entry encoding="base64">XDxxdW90ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
