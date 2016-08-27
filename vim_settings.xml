@@ -73,6 +73,13 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/rails_docker/config/routes.rb" timestamp="1472281483413">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/rest.py" timestamp="1466329254207">
         <mark key="'" line="165" column="23" />
         <mark key="[" line="31" column="0" />
@@ -155,6 +162,12 @@
         <mark key="]" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472282282893">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1467102343373">
         <mark key="'" line="19" column="29" />
         <mark key="[" line="7" column="0" />
@@ -209,6 +222,12 @@
         <mark key="]" line="68" column="20" />
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472282336511">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/controller/__init__.py" timestamp="1467351121312">
         <mark key="'" line="35" column="33" />
@@ -265,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/SensingTroops/tests/integration_test.py" />
@@ -365,46 +383,47 @@
       <jump line="52" column="68" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/viewer.py" />
       <jump line="55" column="49" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="51" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/current_viewer/static/values_viewer.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/rails_docker/config/routes.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>10.0.2.2</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>10.0.2.2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5hZGRDb2x1bW4oJ251bWJlcicsICflgKQnKTsK</text>
+        <text encoding="base64">ICAgIHN0ciA9ICJhYWEiICsgImJiYiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEuYWRkQ29sdW1uKCdudW1iZXInLCAn5YCkJyk7Cg==</text>
+        <text encoding="base64">ICAgIGJiYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGlmIChlbGVtWzFdLmxlbmd0aCA9PSB1bmRlZmluZWQpIHsKICAgICAgICAvLyDlgKTjgYzjgrnjgqvjg6nlgKTjgafjgYLjgozjgbAKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDlgKTjgYzphY3liJfjgarjgokKICAgICAgICByZXR1cm4gW25ldyBEYXRlKGVsZW1bMF0pXS5jb25jYXQoZWxlbVsxXSk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW25ldyBEYXRlKGVsZW1bMF0pLCBlbGVtWzFdXTsK</text>
+        <text encoding="base64">ICAgIGRhdGEuYWRkQ29sdW1uKCdudW1iZXInLCAn5YCkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIGlmIChlbGVtWzFdLmxlbmd0aCA9PSB1bmRlZmluZWQpIHsKICAgICAgICAvLyDlgKTjgYzjgrnjgqvjg6nlgKTjgafjgYLjgozjgbAKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDlgKTjgYzphY3liJfjgarjgokKICAgICAgICByZXR1cm4gW25ldyBEYXRlKGVsZW1bMF0pXS5jb25jYXQoZWxlbVsxXSk7CiAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW25ldyBEYXRlKGVsZW1bMF0pLCBlbGVtWzFdXTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIChPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nKHZhbHVlc1swXVsxXSkgPT0gIltvYmplY3QgQXJyYXldIikgewogICAgICB2YWx1ZXMgPSB2YWx1ZXMubWFwKGZ1bmN0aW9uIChlbGVtKSB7CiAgICAgICAgcmV0dXJuIFtlbGVtWzBdXS5jb25jYXQoZWxlbVsxXSk7CiAgICAgIH0pOwogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>];</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>,</text>
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -494,6 +513,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
