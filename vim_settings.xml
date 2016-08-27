@@ -45,11 +45,14 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472306816600">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472307430414">
+        <mark key="'" line="245" column="18" />
         <mark key="[" line="812" column="0" />
         <mark key="]" line="812" column="4" />
         <mark key="." line="812" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/FamousQuotes/index.html" timestamp="1472307407666">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -205,14 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="32" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="68" column="55" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="79" column="43" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="132" column="66" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="139" column="41" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="164" column="53" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="175" column="44" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
-      <jump line="194" column="42" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
       <jump line="208" column="25" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
       <jump line="223" column="64" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
       <jump line="230" column="39" filename="$USER_HOME$/Documents/SensingTroops/tests/commander_test.py" />
@@ -305,6 +300,14 @@
       <jump line="802" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="17" column="9" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/index.html" />
+      <jump line="819" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="193" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="202" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="207" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="212" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
+      <jump line="245" column="18" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -314,7 +317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5zb3JEYXRhXD4=</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaXNzaW9uX2Jhc2UgPSBNaXNzaW9uKGF1dGhvcj0nbHh4eDAnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb249J21vbmdvc2VydicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZT0nb24gZGVzaycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXJwb3NlPSdBIGdyZWF0IGFwcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlbWVudHM9ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZXMiOiAidmFsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHJpZ2dlciI6ICJ0cmkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJpZ2dlcj0nYSB0cmlnZ2VyJykK</text>
@@ -351,15 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5zb3JEYXRhXD4=</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5zb3JEYXRhXD4=</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>not im</entry>
         <entry>not i</entry>
         <entry>pass</entry>
         <entry>implemented'</entry>
@@ -379,6 +381,7 @@
         <entry>leader</entry>
         <entry>asdict</entry>
         <entry encoding="base64">XDxzZW5zb3JEYXRhXD4=</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
