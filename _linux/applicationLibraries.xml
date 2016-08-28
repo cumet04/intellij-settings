@@ -256,6 +256,18 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bootstrap-sass-3.2.0.0/templates" />
       </SOURCES>
     </library>
+    <library name="bson (v4.1.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.1.1" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bson-4.1.1/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bson-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.1.1" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bson-4.1.1/ext" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bson-4.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="buftok (v0.2.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/buftok-0.2.0/lib" />
@@ -314,11 +326,13 @@
     </library>
     <library name="byebug (v9.0.5, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.5" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.5/lib" />
@@ -448,28 +462,34 @@
     </library>
     <library name="debase (v0.2.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.9.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.1/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -784,11 +804,13 @@
     </library>
     <library name="libv8 (v3.16.14.15, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.15" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.15" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.15-x86_64-linux/vendor" />
@@ -906,6 +928,16 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/minitest-5.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="mongo (v2.3.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mongo-2.3.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mongo-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mongo-2.3.0/bin" />
+        <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mongo-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.11.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/multi_json-1.11.2/lib" />
@@ -932,11 +964,13 @@
     </library>
     <library name="mysql2 (v0.4.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mysql2-0.4.4/support" />
@@ -962,11 +996,13 @@
     </library>
     <library name="nio4r (v1.2.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
@@ -992,6 +1028,7 @@
     </library>
     <library name="nokogiri (v1.6.8, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -1000,6 +1037,7 @@
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/bin" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8/lib" />
@@ -1510,10 +1548,12 @@
     </library>
     <library name="therubyracer (v0.12.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.2" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.2/lib" />
       </SOURCES>
@@ -1714,10 +1754,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext" />
         <root url="file:///usr/local/var/rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
