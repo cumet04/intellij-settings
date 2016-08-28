@@ -228,11 +228,11 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472304928695">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472364548737">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/controller/__init__.py" timestamp="1467351121312">
         <mark key="'" line="35" column="33" />
@@ -392,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['category'] + ', ' + file['name']</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>['category'] + ', ' + file['name']</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
