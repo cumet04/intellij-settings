@@ -163,12 +163,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472361833156">
+      <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472362857828">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="8" />
-        <mark key="^" line="31" column="9" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/soldier.py" timestamp="1467102343373">
         <mark key="'" line="19" column="29" />
@@ -392,43 +392,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>['category'] + ', ' + file['name']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>['category'] + ', ' + file['name']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGZpbGUuY2F0ZWdvcnkgKyAnLCAnICsgZmlsZS5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGZpbGVbJ2NhdGVnb3J5J10gKyAnLCAnICsgZmlsZVsnbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGZpbGVbJ2NhdGVnb3J5J10gKyAnLCAnICsgZmlsZVsnbmFtZSddCiAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGZpbGUuaW5zcGVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiaW5pdCIK</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGZpbGUuaW5zcGVjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amJ1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgcHV0cyAiaW5pdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgamJ1aWxkZXIK</text>
+        <text encoding="base64">amJ1aWxkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJiYgo=</text>
+        <text encoding="base64">ICAgICAgamJ1aWxkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">ICAgIGJiYgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEuYWRkQ29sdW1uKCdudW1iZXInLCAn5YCkJyk7Cg==</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGlmIChlbGVtWzFdLmxlbmd0aCA9PSB1bmRlZmluZWQpIHsKICAgICAgICAvLyDlgKTjgYzjgrnjgqvjg6nlgKTjgafjgYLjgozjgbAKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyDlgKTjgYzphY3liJfjgarjgokKICAgICAgICByZXR1cm4gW25ldyBEYXRlKGVsZW1bMF0pXS5jb25jYXQoZWxlbVsxXSk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRhdGEuYWRkQ29sdW1uKCdudW1iZXInLCAn5YCkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
