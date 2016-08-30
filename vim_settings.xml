@@ -35,6 +35,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830050121_change_column_to_soundfile.rb" timestamp="1472533431111">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="3" />
@@ -68,8 +74,8 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830042623_change_column_to_user.rb" timestamp="1472531284466">
-        <mark key="[" line="2" column="51" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830042623_change_column_to_user.rb" timestamp="1472533294737">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="72" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="51" />
@@ -338,16 +344,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">OmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOnNvdW5kX2ZpbGVzLCA6Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
