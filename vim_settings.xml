@@ -11,10 +11,11 @@
       <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472481913436">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472530227519">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
@@ -66,6 +67,12 @@
         <mark key="]" line="68" column="20" />
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830042623_change_column_to_user.rb" timestamp="1472531284466">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/controller/recruiter.py" timestamp="1465377650467">
         <mark key="'" line="194" column="71" />
@@ -194,6 +201,12 @@
         <mark key="^" line="170" column="47" />
         <mark key="." line="170" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160828055124_create_sound_files.rb" timestamp="1472531281284">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="45" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
         <mark key="[" line="62" column="24" />
@@ -319,44 +332,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZmID0gU291bmRGaWxlLm5ldwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>limit: 65535</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>ENV[&quot;MONGO_FAMOUSQ_PORT_27017_TCP_ADDR&quot;]</text>
+        <text encoding="base64">OmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZmID0gU291bmRGaWxlLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBmaWxlLmluc3BlCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKHN0cmVhbS5yZWFkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnLndlYl9jb25zb2xlLndoaXRlbGlzdGVkX2lwcyA9ICcxNzIuMTcuMC4xJwo=</text>
+        <text encoding="base64">ICAgICAgZi5jb250ZW50ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnLmFmdGVyX2luaXRpYWxpemUgZG8KICAgICMgICBjbGllbnQgPSBNb25nbzo6Q2xpZW50Lm5ldygnbW9uZ29kYjovLzE5Mi4xNjguMTA0LjMxOjI3MDE3L2dmcycpCiAgICAjICAgZnNfYnVja2V0ID0gY2xpZW50LmRhdGFiYXNlLmZzKGJ1Y2tldF9uYW1lOiAnZmFtb3VzcScpCiAgICAjICAgZnNfYnVja2V0LmZpbmQoKS5lYWNoIGRvIHxmaWxlfAogICAgIyAgICAgIyBwdXRzIGZpbGVbJ2NhdGVnb3J5J10gKyAnLCAnICsgZmlsZVsnbmFtZSddCiAgICAjICAgICBwdXRzIGZpbGUuaW5zcGVjdAogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
+        <text encoding="base64">ICAgIGYgPSBTb3VuZEZpbGUubmV3KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ciA9ICJhYWEiICsgImJiYiIKICAgIHB1dHMgJ3Nzc3MnCiAgICBzdHIgPSBzdHIgKyAiY2NjIgo=</text>
+        <text encoding="base64">ICAgIGZmID0gU291bmRGaWxlLm5ldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dHMgRU5WWyJNT05HT19GQU1PVVNRX1BPUlRfMjcwMTdfVENQX0FERFIiXQo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyBmaWxlLmluc3BlCg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IyAgIAojICAgCiMgICAKIyAgIAojICAgCiMgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgY29uZmlnLndlYl9jb25zb2xlLndoaXRlbGlzdGVkX2lwcyA9ICcxNzIuMTcuMC4xJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
