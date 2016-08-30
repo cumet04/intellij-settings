@@ -11,11 +11,11 @@
       <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472532065190">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472534915983">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
@@ -139,6 +139,12 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472534256633">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="163" column="0" />
@@ -160,9 +166,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/controller/commander.py" timestamp="1465372063091">
-        <mark key="'" line="235" column="68" />
-        <mark key="^" line="277" column="75" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/sound_file.rb" timestamp="1472534214724">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/leader.py" timestamp="1464868813842">
         <mark key="'" line="143" column="4" />
@@ -220,9 +228,9 @@
         <mark key="." line="62" column="33" />
         <mark key="^" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/schema.rb" timestamp="1472532337395">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/schema.rb" timestamp="1472534537727">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/recruiter.py" timestamp="1465371626486">
@@ -343,44 +351,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcHV0cyBxdW90ZS5pbnNwZWN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRl</text>
+        <text>file.inspect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOnNvdW5kX2ZpbGVzLCA6Y29udGVudCwgOmJpbmFyeSwgOmxpbWl0ID0+IDE2Lm1lZ2FieXRlCg==</text>
+      <register name="0" type="4">
+        <text>SoundFile.new(filename: file['filename'], content: stream.read)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
+        <text encoding="base64">ICAgICAgcHV0cyBxdW90ZS5pbnNwZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKHN0cmVhbS5yZWFkKQo=</text>
+        <text encoding="base64">CiAgICAgICMgdC5zdHJpbmcgICAiY2F0ZWdvcnkiCiAgICAgICMgdC5pbnRlZ2VyICAiY291bnQiCiAgICAgICMgdC5zdHJpbmcgICAiZmlsZW5hbWUiCiAgICAgIGZzX2J1Y2tldC5vcGVuX2Rvd25sb2FkX3N0cmVhbShmaWxlWydfaWQnXSkgZG8gfHN0cmVhbXwKICAgICAgICBmID0gU291bmRGaWxlLm5ldyhmaWxlbmFtZTogZmlsZVsnZmlsZW5hbWUnXSwgY29udGVudDogc3RyZWFtLnJlYWQpCiAgICAgICAgZi5zYXZlKCkKICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZi5jb250ZW50ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBmLmNvbnRlbnQgPSBzdHJlYW0ucmVhZAogICAgICAgIGYuZmlsZW5hbWUgPSBmaWxlWydmaWxlbmFtZSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
+        <text encoding="base64">ICAgICAgIyBwdXRzIGZpbGVbJ2NhdGVnb3J5J10gKyAnLCAnICsgZmlsZVsnbmFtZSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGYgPSBTb3VuZEZpbGUubmV3KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZmID0gU291bmRGaWxlLm5ldwo=</text>
+        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBmaWxlLmluc3BlCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlLndyaXRlKHN0cmVhbS5yZWFkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnLndlYl9jb25zb2xlLndoaXRlbGlzdGVkX2lwcyA9ICcxNzIuMTcuMC4xJwo=</text>
+        <text encoding="base64">ICAgICAgZi5jb250ZW50ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZiA9IFNvdW5kRmlsZS5uZXcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
