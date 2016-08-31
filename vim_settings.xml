@@ -11,11 +11,10 @@
       <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472604241525">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472605389186">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
@@ -353,10 +352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgKz0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>do</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
@@ -365,31 +364,31 @@
         <text encoding="base64">ICIgKyBmaWxlWydmaWxlbmFtZSdd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgY291bnQgKz0gMQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV4dCB1bmxlc3MgZmlsZQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gc3RyZWFtLnJlYWQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY291bnQgKz0gMQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZnNfYnVja2V0Lm9wZW5fZG93bmxvYWRfc3RyZWFtKGluZm9bJ19pZCddKSBkbyB8c3RyZWFtfAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICJkdXAuIgo=</text>
+        <text encoding="base64">ICAgICAgdW5sZXNzIGZpbGUgdGhlbgogICAgICAgIHB1dHMgImZpbGUgbm90IGZvdW5kOyAiICsgaW5mb1snZmlsZW5hbWUnXQogICAgICAgIG5leHQKICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBmaWxlWydjYXRlZ29yeSddICsgJywgJyArIGZpbGVbJ25hbWUnXSArICcsICcgKyBmaWxlWydmaWxlbmFtZSddCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgcmVzdWx0cy5pbnNwZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGNvbnRlbnQubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0CiAgICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgUXVvdGUudHJhbnNhY3Rpb24gZG8KICAgICMgICBxdW90ZXMuZWFjaCBkbyB8cXwKICAgICMgICAgIHEuc2F2ZSgpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgbmV4dCB1bmxlc3MgZmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
