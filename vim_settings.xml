@@ -11,11 +11,11 @@
       <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472608700553">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472612146760">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
@@ -146,11 +146,11 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472534256633">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472612529854">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -234,10 +234,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472609253261">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472612433452">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
@@ -365,43 +366,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1dHMgUXVvdGUuZnVsbF9pbXBvcnQK</text>
       </register>
       <register name="-" type="4">
-        <text>clear</text>
+        <text>&quot;not implemented&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBwbGFpbjogIm5vdCBpbXBsZW1lbnRlZCIsIHN0YXR1czogNTAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjYXRlZ29yeTogaW5mb1snY2F0ZWdvcnknXSwKICAgICAgICAgICAgICBuYW1lOiBpbmZvWyduYW1lJ10sCiAgICAgICAgICAgICAgY291bnQ6IGluZm9bJ2NvdW50J10sCiAgICAgICAgICAgICAgZmlsZW5hbWU6IGluZm9bJ2ZpbGVuYW1lJ10sCiAgICAgICAgICAgICAgc291bmRfZmlsZTogU291bmRGaWxlLm5ldygKICAgICAgICAgICAgICAgICAgZmlsZW5hbWU6IGluZm9bJ2ZpbGVuYW1lJ10sCiAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IGZpbGUuZGF0YQogICAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1dHMgUXVvdGUuZnVsbF9pbXBvcnQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXVvdGVzID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBmc19idWNrZXQuZmluZCgpCiAgICBjb3VudCA9IDAK</text>
+        <text encoding="base64">CiAgZGVmIHNlbGYuY3JlYXRlKCphcmdzLCAmYmxvY2spCiAgICAjIGRvIHNvbWV0aGluZwogICAgc3VwZXIoKmFyZ3MsICZibG9jaykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgY291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgIHF1b3RlID0gUXVvdGUuY3JlYXRlKAogICAgICAgICAgICAgIGNhdGVnb3J5OiBpbmZvWydjYXRlZ29yeSddLAogICAgICAgICAgICAgIG5hbWU6IGluZm9bJ25hbWUnXSwKICAgICAgICAgICAgICBjb3VudDogaW5mb1snY291bnQnXSwKICAgICAgICAgICAgICBmaWxlbmFtZTogaW5mb1snZmlsZW5hbWUnXSwKICAgICAgICAgICAgICBzb3VuZF9maWxlOiBTb3VuZEZpbGUubmV3KAogICAgICAgICAgICAgICAgICBmaWxlbmFtZTogaW5mb1snZmlsZW5hbWUnXSwKICAgICAgICAgICAgICAgICAgY29udGVudDogZmlsZS5kYXRhCiAgICAgICAgICAgICAgKQogICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
+        <text encoding="base64">ICAgIG1vbmdvX2lwID0gRU5WWyJNT05HT19GQU1PVVNRX1BPUlRfMjcwMTdfVENQX0FERFIiXQogICAgY2xpZW50ID0gTW9uZ286OkNsaWVudC5uZXcoJ21vbmdvZGI6Ly8lczoyNzAxNy9nZnMnICUgbW9uZ29faXApCiAgICBmc19idWNrZXQgPSBjbGllbnQuZGF0YWJhc2UuZnMoYnVja2V0X25hbWU6ICdmYW1vdXNxJykKCiAgICBmc19idWNrZXQuZmluZCgpLmVhY2ggZG8gfGluZm98CiAgICAgIGZpbGUgPSBmc19idWNrZXQuZmluZF9vbmUoe19pZDogaW5mb1snX2lkJ119KQogICAgICBuZXh0IHVubGVzcyBmaWxlCiAgICAgIGJlZ2luCiAgICAgICAgcXVvdGUgPSBRdW90ZS5jcmVhdGUoCiAgICAgICAgICAgIGNhdGVnb3J5OiBpbmZvWydjYXRlZ29yeSddLAogICAgICAgICAgICBuYW1lOiBpbmZvWyduYW1lJ10sCiAgICAgICAgICAgIGNvdW50OiBpbmZvWydjb3VudCddLAogICAgICAgICAgICBmaWxlbmFtZTogaW5mb1snZmlsZW5hbWUnXSwKICAgICAgICAgICAgc291bmRfZmlsZTogU291bmRGaWxlLm5ldygKICAgICAgICAgICAgICAgIGZpbGVuYW1lOiBpbmZvWydmaWxlbmFtZSddLAogICAgICAgICAgICAgICAgY29udGVudDogZmlsZS5kYXRhCiAgICAgICAgICAgICkKICAgICAgICApCiAgICAgIHJlc2N1ZSBNb25nbzo6RXJyb3I6Ok1pc3NpbmdGaWxlQ2h1bmsgPT4gZXgKICAgICAgICBwdXRzICJtaXNzaW5nIGZpbGUgY2h1bms7ICIgKyBpbmZvWydmaWxlbmFtZSddCiAgICAgIHJlc2N1ZSBNb25nbzo6RXJyb3I6OkNsb3NlZFN0cmVhbSA9PiBleAogICAgICAgIHB1dHMgImNsb3NlZCBzdHJlYW0uOyAiICsgaW5mb1snZmlsZW5hbWUnXQogICAgICByZXNjdWUgTW9uZ286OkVycm9yOjpVbmV4cGVjdGVkQ2h1bmtMZW5ndGggPT4gZXgKICAgICAgICBwdXRzICJ1bmV4cGVjdGVkLjsgIiArIGluZm9bJ2ZpbGVuYW1lJ10KICAgICAgcmVzY3VlIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90VW5pcXVlID0+IGV4CiAgICAgICAgbmV4dAogICAgICBlbmQKICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgIyBhYWEK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICB0aWQgPSBUaHJlYWQuc3RhcnQgZG8KICAgICAgcCAiVGhyZWFkIHN0YXJ0LiBJRDoje3RpZH0iCiAgICAgICRteWNvbnRyb2xsZXJNdXRleC5zeW5jaHJvbml6ZSBkbwogICAgICAgICPph43jgYTlh6bnkIYKICAgICAgZW5kCiAgICAgIHAgIlRocmVhZCBlbmQuIElEOiN7dGlkfSIKICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
