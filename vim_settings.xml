@@ -11,11 +11,10 @@
       <file name="/Python Console" timestamp="1465378992549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472612146760">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472701925069">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
@@ -146,10 +145,10 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472701294197">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472702090956">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -205,6 +204,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="41" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472702070549">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472475777165">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -233,11 +237,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472700901842">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472705065840">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
@@ -262,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="12" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="4" column="13" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="78" column="3" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
@@ -362,46 +366,47 @@
       <jump line="0" column="30" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="53" column="17" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
+      <jump line="34" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+      <register name="&quot;" type="4">
+        <text>501</text>
       </register>
       <register name="-" type="4">
-        <text>@@last_result</text>
+        <text>501</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHsKICAgICAgICAgIHN0YXR1czogJ2Z1bGxfc3luYyByZXF1ZXN0ZWQnLAogICAgICAgICAgcmVxdWVzdGVkX2F0OiBRdW90ZS5sYXN0X3JlcXVlc3RlZAogICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>'another sync is running'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2Fub3RoZXIgc3luYyBpcyBydW5uaW5nJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1dHMgUXVvdGUubGFzdF9yZXN1bHQuaW5zcGVjdAo=</text>
+        <text encoding="base64">ICAgIGlmIFF1b3RlLmZ1bGxfaW1wb3J0X2FzeW5jCiAgICAgIHJlbmRlciBqc29uOiB7CiAgICAgICAgICBzdGF0dXM6ICdmdWxsX3N5bmMgcmVxdWVzdGVkJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZWxzZQogICAgICByZW5kZXIganNvbjogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgIE1vbmdvOjpMb2dnZXIubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCiAgICBBY3RpdmVSZWNvcmQ6OkJhc2UubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgI2FhYQo=</text>
+        <text encoding="base64">ICAgICMgTW9uZ286OkxvZ2dlci5sb2dnZXIubGV2ZWwgPSA6OkxvZ2dlcjo6RkFUQUwKICAgICMgQWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlci5sZXZlbCA9IDo6TG9nZ2VyOjpGQVRBTAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIHBsYWluOiAnYWFhJwo=</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1dHMgUXVvdGUubGFzdF9yZXN1bHQuaW5zcGVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBwbGFpbjogCg==</text>
+        <text encoding="base64">ICAgICAgICA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
