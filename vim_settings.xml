@@ -239,12 +239,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472705065840">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472709561307">
+        <mark key="'" line="34" column="19" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
@@ -371,11 +371,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQEBsYXN0X3JlcXVlc3RlZCA9IFRpbWUubm93Cg==</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text>501</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
