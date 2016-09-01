@@ -145,10 +145,12 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472702090956">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472705277992">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+        <mark key="^" line="69" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -267,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="4" column="13" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="78" column="3" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
       <jump line="17" column="46" filename="$USER_HOME$/Documents/SensorTagSoldier/sensor.js" />
@@ -363,14 +364,15 @@
       <jump line="8" column="10" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="46" column="18" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
-      <jump line="0" column="30" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="53" column="17" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="34" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>501</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgQEBsYXN0X3JlcXVlc3RlZCA9IFRpbWUubm93Cg==</text>
       </register>
       <register name="-" type="4">
         <text>501</text>
@@ -378,8 +380,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'another sync is running'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgQEBsYXN0X3JlcXVlc3RlZCA9IFRpbWUubm93Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2Fub3RoZXIgc3luYyBpcyBydW5uaW5nJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZW5kCg==</text>
