@@ -146,10 +146,10 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472614323467">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472689594579">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -365,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzdGF0dXM6IDUwMQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBjYXRlZ29yeTogaW5mb1snY2F0ZWdvcnknXSwKICAgICAgICAgICAgICBuYW1lOiBpbmZvWyduYW1lJ10sCiAgICAgICAgICAgICAgY291bnQ6IGluZm9bJ2NvdW50J10sCiAgICAgICAgICAgICAgZmlsZW5hbWU6IGluZm9bJ2ZpbGVuYW1lJ10sCiAgICAgICAgICAgICAgc291bmRfZmlsZTogU291bmRGaWxlLm5ldygKICAgICAgICAgICAgICAgICAgZmlsZW5hbWU6IGluZm9bJ2ZpbGVuYW1lJ10sCiAgICAgICAgICAgICAgICAgIGNvbnRlbnQ6IGZpbGUuZGF0YQogICAgICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzdGF0dXM6IDUwMQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGNvdW50LnRvX3MgKyAnLCAnICsgaW5mb1snZmlsZW5hbWUnXQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG5pbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuaWwgaWYgQEBtdXRleC5sb2NrZWQ/IGVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIHF1b3RlLmluc3BlY3QK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dHMgUXVvdGUuZnVsbF9pbXBvcnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBAbXV0ZXggPSBNdXRleC5uZXcgdW5sZXNzIGRlZmluZWQ/IEBAbXV0ZXgK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICBzdGF0dXM6IDUwMQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwdXRzIGNvdW50LnRvX3MgKyAnLCAnICsgaW5mb1snZmlsZW5hbWUnXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcXVvdGVzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
