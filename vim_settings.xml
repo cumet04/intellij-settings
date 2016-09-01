@@ -145,12 +145,11 @@
         <mark key="^" line="134" column="16" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472710276183">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472716679090">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="52" />
-        <mark key="." line="69" column="34" />
-        <mark key="^" line="69" column="34" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/test/leader_test.py" timestamp="1464868435488">
         <mark key="'" line="63" column="8" />
@@ -239,12 +238,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472710586473">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="36" column="58" />
-        <mark key="." line="36" column="58" />
-        <mark key="^" line="36" column="58" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472717049049">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/troops/app.py" timestamp="1464056563424">
         <mark key="'" line="79" column="35" />
@@ -372,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{_id: info['_id']})</text>
+        <text>_one().info</text>
       </register>
       <register name="-" type="4">
-        <text>{_id: info['_id']})</text>
+        <text>_one().info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
@@ -384,31 +383,31 @@
         <text>fs_bucket.find_one({_id: info['_id']})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhY2hlX2xhdGVzdCA9IFF1b3RlLmxhc3QK</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGluZm8uaW5zcGVjdAogICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhY2hlX2xhdGVzdCA9IFF1b3RlLmxhc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2Fub3RoZXIgc3luYyBpcyBydW5uaW5nJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIFF1b3RlLmZ1bGxfaW1wb3J0X2FzeW5jCiAgICAgIHJlbmRlciBqc29uOiB7CiAgICAgICAgICBzdGF0dXM6ICdmdWxsX3N5bmMgcmVxdWVzdGVkJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZWxzZQogICAgICByZW5kZXIganNvbjogewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXR1czogJ2Fub3RoZXIgc3luYyBpcyBydW5uaW5nJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIFF1b3RlLmZ1bGxfaW1wb3J0X2FzeW5jCiAgICAgIHJlbmRlciBqc29uOiB7CiAgICAgICAgICBzdGF0dXM6ICdmdWxsX3N5bmMgcmVxdWVzdGVkJywKICAgICAgICAgIHJlcXVlc3RlZF9hdDogUXVvdGUubGFzdF9yZXF1ZXN0ZWQKICAgICAgfQogICAgZWxzZQogICAgICByZW5kZXIganNvbjogewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1vbmdvOjpMb2dnZXIubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCiAgICBBY3RpdmVSZWNvcmQ6OkJhc2UubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE1vbmdvOjpMb2dnZXIubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCiAgICBBY3RpdmVSZWNvcmQ6OkJhc2UubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OkZBVEFMCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgTW9uZ286OkxvZ2dlci5sb2dnZXIubGV2ZWwgPSA6OkxvZ2dlcjo6RkFUQUwKICAgICMgQWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlci5sZXZlbCA9IDo6TG9nZ2VyOjpGQVRBTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICMgTW9uZ286OkxvZ2dlci5sb2dnZXIubGV2ZWwgPSA6OkxvZ2dlcjo6RkFUQUwKICAgICMgQWN0aXZlUmVjb3JkOjpCYXNlLmxvZ2dlci5sZXZlbCA9IDo6TG9nZ2VyOjpGQVRBTAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
