@@ -50,20 +50,16 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472789436019">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="56" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472793227401">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472790550715">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/FamousQuotes/index.html" timestamp="1472307407666">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472793210304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160828055124_create_sound_files.rb" timestamp="1472536093343">
         <mark key="[" line="6" column="0" />
@@ -121,6 +117,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472792793981">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472781246219">
         <mark key="[" line="25" column="0" />
@@ -242,44 +244,44 @@
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBlbHNpZiBUaW1lLm5vdyA8IEBxdW90ZS5jcmVhdGVkX2F0Lm5leHRfbW9udGggJT4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icXVvdGUiIHVybD0iJHVybCI+CiAgPHVsPgogICAgPGxpIGNsYXNzPSJ0ZXh0Ym9keSI+IDwlPSBxdW90ZS5jYXRlZ29yeSArICcvJyArIHF1b3RlLm5hbWUlPiA8L2xpPgogICAgPHVsIGNsYXNzPSJ0aXBzIj4KICAgICAgPGxpIGNsYXNzPSJuZXciPgogICAgICAgIDwlIGlmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X3dlZWsgJT4KICAgICAgICAgICAgPGltZyBzcmM9IiA8JT0gaW1hZ2VfcGF0aCgnbmV3LnBuZycpICU+ICIvPgogICAgICAgIDwlIGVsc2lmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X21vbnRoICU+CiAgICAgICAgICAgIDxpbWcgc3JjPSIgPCU9IGltYWdlX3BhdGgoJ25ldzIucG5nJykgJT4gIi8+CiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwvbGk+CiAgICAgIDxsaSBjbGFzcz0iY291bnQiPiA8JT0gcXVvdGUuY291bnQgJT4gPC9saT4KICAgIDwvdWw+CiAgPC91bD4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1b3RlID0gUXVvdGUuZmluZChwYXJhbXNbOmlkXSkK</text>
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbmRfdG8gZG8gfGZvcm1hdHwKICAgICAgZm9ybWF0Lmh0bWwK</text>
+        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlIGRvICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBkaXNwbGF5X2xhYmVsID0gQHF1b3RlLmNhdGVnb3J5ICsgJy8nICsgQHF1b3RlLm5hbWUKICAgIEBuZXdfaW1nID0gbmlsCiAgICBAbmV3X2ltZyA9ICduZXcucG5nJyBpZiBUaW1lLm5vdyA8IEBxdW90ZS5jcmVhdGVkX2F0Lm5leHRfd2VlawogICAgQG5ld19pbWcgPSAnbmV3Mi5wbmcnIGlmIFRpbWUubm93IDwgQHF1b3RlLmNyZWF0ZWRfYXQubmV4dF9tb250aAoK</text>
+        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAbmV3X2ltZyA9IG5pbAogICAgICAgIEBuZXdfaW1nID0gJ25ldy5wbmcnCiAgICAgICAgQG5ld19pbWcgPSAnbmV3Mi5wbmcnIGlmCiAgICAgICAgPCUgdW5sZXNzIEBuZXdfaW1nLm5pbD8gJT4KICAgICAgICAgIDxpbWcgc3JjPSIgPCU9IGltYWdlX3BhdGgoQG5ld19pbWcpICU+ICIvPgogICAgICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzIGRvICU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlIGRvICU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBkaXNwbGF5X2xhYmVsID0gQHF1b3RlLmNhdGVnb3J5ICsgJy8nICsgQHF1b3RlLm5hbWUK</text>
+        <text encoding="base64">ICAgIHF1b3RlID0gUXVvdGUuZmluZChwYXJhbXNbOmlkXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
