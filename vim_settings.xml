@@ -19,11 +19,11 @@
       <file name="/fragment.py" timestamp="1464011287224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/routes.rb" timestamp="1472740737565">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="31" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/routes.rb" timestamp="1472775600072">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="/a.dummy" timestamp="1464861154224">
         <mark key="[" line="0" column="0" />
@@ -97,11 +97,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472740562347">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472777560697">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -226,10 +226,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/show.html.erb" timestamp="1472740880476">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/show.html.erb" timestamp="1472777493940">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/FamousQuotes/index.html" timestamp="1472307407666">
         <mark key="'" line="0" column="0" />
@@ -385,44 +386,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JT0gc3R5bGVzaGVldF9saW5rX3RhZyAgICAnYXBwbGljYXRpb24nLCBtZWRpYTogJ2FsbCcsICdkYXRhLXR1cmJvbGlua3MtdHJhY2snID0+IHRydWUgJT4KICA8JT0gamF2YXNjcmlwdF9pbmNsdWRlX3RhZyAnYXBwbGljYXRpb24nLCAnZGF0YS10dXJib2xpbmtzLXRyYWNrJyA9PiB0cnVlICU+CiAgPCU9IGNzcmZfbWV0YV90YWdzICU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+QXBwPC90aXRsZT4KICA8JT0gc3R5bGVzaGVldF9saW5rX3RhZyAgICAnYXBwbGljYXRpb24nLCBtZWRpYTogJ2FsbCcsICdkYXRhLXR1cmJvbGlua3MtdHJhY2snID0+IHRydWUgJT4KICA8JT0gamF2YXNjcmlwdF9pbmNsdWRlX3RhZyAnYXBwbGljYXRpb24nLCAnZGF0YS10dXJib2xpbmtzLXRyYWNrJyA9PiB0cnVlICU+CiAgPCU9IGNzcmZfbWV0YV90YWdzICU+CjwvaGVhZD4KPGJvZHk+Cgo8JT0geWllbGQgJT4KCjwvYm9keT4KPC9odG1sPgo=</text>
+      <register name="0" type="4">
+        <text>Quote.find(params[:id])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JT0gc3R5bGVzaGVldF9saW5rX3RhZyAgICAnYXBwbGljYXRpb24nLCBtZWRpYTogJ2FsbCcsICdkYXRhLXR1cmJvbGlua3MtdHJhY2snID0+IHRydWUgJT4KICA8JT0gamF2YXNjcmlwdF9pbmNsdWRlX3RhZyAnYXBwbGljYXRpb24nLCAnZGF0YS10dXJib2xpbmtzLXRyYWNrJyA9PiB0cnVlICU+CiAgPCU9IGNzcmZfbWV0YV90YWdzICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFVzZXIuZmluZChwYXJhbXNbOmlkXSkK</text>
+      <register name="2" type="8">
+        <text>'
+'
+'
+'
+'
+'
+'
+'
+'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IicKYWFhYQo8JT0geWllbGQgJT4KCjwvYm9keT4KPC9odG1sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgc2hvdwoKICBlbmQK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+QXBwPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICAgaWQ6IHEuaWQsCiAgICAgICAgICBjYXRlZ29yeTogcS5jYXRlZ29yeSwKICAgICAgICAgIG5hbWU6IHEubmFtZSwKICAgICAgICAgIGNvdW50OiBxLmNvdW50LAogICAgICAgICAgZmlsZW5hbWU6IHEuZmlsZW5hbWUsCiAgICAgICAgICBjcmVhdGVkX2F0OiBxLmNyZWF0ZWRfYXQsCiAgICAgICAgICB1cGRhdGVkX2F0OiBxLnVwZGF0ZWRfYXQKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIFF1b3RlLmFsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFF1bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAnYmVuY2htYXJrJwo=</text>
+        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiBRdW90ZS5maW5kKHBhcmFtc1s6aWRdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSBUaW1lLm5vdwogICAgcmVzID0gUXVvdGUuYWxsCiAgICBwdXRzIFRpbWUubm93IC0gdGltZQogICAgdGltZSA9IFRpbWUubm93CiAgICBwdXRzIFRpbWUubm93IC0gdGltZQogICAgdGltZSA9IFRpbWUubm93Cg==</text>
+        <text encoding="base64">ICBnZXQgJ3F1b3Rlcy86aWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGogPSByZXMubWFweyB8cXwKICAgICAgewogICAgICAgICAgaWQ6IHEuaWQsCiAgICAgICAgICBjYXRlZ29yeTogcS5jYXRlZ29yeSwKICAgICAgICAgIG5hbWU6IHEubmFtZSwKICAgICAgICAgIGNvdW50OiBxLmNvdW50LAogICAgICAgICAgZmlsZW5hbWU6IHEuZmlsZW5hbWUsCiAgICAgICAgICBjcmVhdGVkX2F0OiBxLmNyZWF0ZWRfYXQsCiAgICAgICAgICB1cGRhdGVkX2F0OiBxLnVwZGF0ZWRfYXQKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIC9zaG93Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
