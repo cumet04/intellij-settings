@@ -97,11 +97,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472777560697">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472779234826">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -216,10 +217,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="41" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472736245304">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472779030040">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472475777165">
         <mark key="[" line="25" column="0" />
@@ -284,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="786" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="785" column="19" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -384,24 +385,28 @@
       <jump line="49" column="38" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
+      <jump line="9" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNfYXQgPSBAcXVvdGUuY3JlYXRlZF9hdC5hZ28oMS53ZWVrcykKICAgIHB1dHMgY19hdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ago(1.months)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</text>
+        <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Quote.find(params[:id])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBuZXdfcGF0aCA9IGltYWdlX3BhdGgoJ25ldy5wbmcnKSBpZiBUaW1lLm5vdyA8IEBxdW90ZS5jcmVhdGVkX2F0LmFnbygxLndlZWtzKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNfYXQgPSBAcXVvdGUuY3JlYXRlZF9hdC5hZ28oMS53ZWVrcykKICAgIHB1dHMgY19hdAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>'
 '
 '
@@ -412,36 +417,33 @@
 '
 '</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IicKYWFhYQo8JT0geWllbGQgJT4KCjwvYm9keT4KPC9odG1sPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+QXBwPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFF1b3RlLmFsbAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFF1bwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJlbmRlciBqc29uOiBRdW90ZS5maW5kKHBhcmFtc1s6aWRdKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBnZXQgJ3F1b3Rlcy86aWQnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC9zaG93Jwo=</text>
+        <text encoding="base64">ICBnZXQgJ3F1b3Rlcy86aWQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</last-search>
+      <last-search encoding="base64">XDxxdW90ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxxdW90ZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -464,8 +466,8 @@
         <entry encoding="base64">XDxHRlNTZXJ2aWNlRW5kcG9pbnRcPg==</entry>
         <entry encoding="base64">XDxtcDNQbGF5U2VydmljZUVuZHBvaW50XD4=</entry>
         <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBBbmRDb3VudFw+</entry>
-        <entry encoding="base64">XDxxdW90ZVw+</entry>
         <entry encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</entry>
+        <entry encoding="base64">XDxxdW90ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
