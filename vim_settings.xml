@@ -56,10 +56,11 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472789451431">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472790550715">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/FamousQuotes/index.html" timestamp="1472307407666">
         <mark key="'" line="0" column="0" />
@@ -242,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
