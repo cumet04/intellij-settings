@@ -50,11 +50,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472795503990">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472796292611">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472794957694">
         <mark key="[" line="0" column="0" />
@@ -118,10 +119,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472794341788">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472796492842">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472781246219">
         <mark key="[" line="25" column="0" />
@@ -141,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="809" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="509" column="5" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="802" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -241,13 +242,14 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
+      <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
@@ -259,28 +261,28 @@
         <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCBkbyAlPgo=</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCArIDEgZG8gJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlLmZpbGVuYW1lIGRvICU+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCBkbyAlPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmNvdW50IGRvICU+Cg==</text>
+        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlLmZpbGVuYW1lIGRvICU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25maWcuYWN0aW9uX2NvbnRyb2xsZXIucGVyZm9ybV9jYWNoaW5nID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmNvdW50IGRvICU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
