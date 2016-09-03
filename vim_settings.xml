@@ -78,10 +78,8 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" timestamp="1472740874249">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" timestamp="1472897178241">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160828055124_create_sound_files.rb" timestamp="1472536093343">
         <mark key="[" line="6" column="0" />
@@ -125,10 +123,11 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472796710996">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472896913972">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472796492842">
         <mark key="[" line="13" column="45" />
@@ -241,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSAncXVvdGVfbGlzdCcgZG8gJT4K</text>
+        <text encoding="base64">ICAgICAgPCUgY2FjaGUgcXVvdGUgZG8gJT4K</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
@@ -253,34 +252,34 @@
         <text encoding="base64">PGRpdiBjbGFzcz0icXVvdGUiIHVybD0iJHVybCI+CiAgPHVsPgogICAgPGxpIGNsYXNzPSJ0ZXh0Ym9keSI+IDwlPSBxdW90ZS5jYXRlZ29yeSArICcvJyArIHF1b3RlLm5hbWUlPiA8L2xpPgogICAgPHVsIGNsYXNzPSJ0aXBzIj4KICAgICAgPGxpIGNsYXNzPSJuZXciPgogICAgICAgIDwlIGlmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X3dlZWsgJT4KICAgICAgICAgICAgPGltZyBzcmM9IiA8JT0gaW1hZ2VfcGF0aCgnbmV3LnBuZycpICU+ICIvPgogICAgICAgIDwlIGVsc2lmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X21vbnRoICU+CiAgICAgICAgICAgIDxpbWcgc3JjPSIgPCU9IGltYWdlX3BhdGgoJ25ldzIucG5nJykgJT4gIi8+CiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwvbGk+CiAgICAgIDxsaSBjbGFzcz0iY291bnQiPiA8JT0gcXVvdGUuY291bnQgJT4gPC9saT4KICAgIDwvdWw+CiAgPC91bD4KPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSAncXVvdGVfbGlzdCcgZG8gJT4K</text>
+        <text encoding="base64">ICAgICAgPCUgY2FjaGUgcXVvdGUgZG8gJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzIGRvICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCArIDEgZG8gJT4K</text>
+        <text encoding="base64">ICA8JSBjYWNoZSAncXVvdGVfbGlzdCcgZG8gJT4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCBkbyAlPgo=</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCArIDEgZG8gJT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlLmZpbGVuYW1lIGRvICU+Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCBkbyAlPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -315,8 +314,8 @@
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
