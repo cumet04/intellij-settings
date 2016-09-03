@@ -126,16 +126,16 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472901371011">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472903967431">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472796492842">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472903983363">
         <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="13" column="48" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -241,11 +241,11 @@
       <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsZnVuY3Rpb24oZXZlbnQpIHsKICAgIHZhciBjb3VudF9saXN0ID0gPCU9IEpTT04uZ2VuZXJhdGUoQHF1b3Rlcy5tYXAgeyB8cXwgcS5jb3VudH0gKSAlPjsKCiAgfSxmYWxzZSk7Cjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>aa</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -254,34 +254,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8JSAjIOadoeS7tuOBrue1hOOBv+aWueOBjOWkieWJh+eahOOBquOBruOBr+WHpueQhumAn+W6puWQkeS4iuOBruOBn+OCgSAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsZnVuY3Rpb24oZXZlbnQpIHsKICAgIHZhciBjb3VudF9saXN0ID0gPCU9IEpTT04uZ2VuZXJhdGUoQHF1b3Rlcy5tYXAgeyB8cXwgcS5jb3VudH0gKSAlPjsKCiAgfSxmYWxzZSk7Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCA8JT0gSlNPTi5nZW5lcmF0ZShAcXVvdGVzLm1hcCB7IHxxfCBxLmNvdW50fSApICU+ICk7Cg==</text>
+        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzIGRvICU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgZ2VuX2NvdW50X2xpc3QocXVvdGVzKQogICAgCiAgZW5kCg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsZnVuY3Rpb24oZXZlbnQpIHsKICAgIHZhciBjb3VudF9saXN0ID0gPCU9IEpTT04uZ2VuZXJhdGUoQHF1b3Rlcy5tYXAgeyB8cXwgcS5jb3VudH0gKSAlPjsKCiAgfSxmYWxzZSk7Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgIyBzb3J044Kq44OX44K344On44Oz44Gq44GpCiAgICAjIGFhYQogICAgCiAgICBAY291bnRfbGlzdCA9IAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCA8JT0gSlNPTi5nZW5lcmF0ZShAcXVvdGVzLm1hcCB7IHxxfCBxLmNvdW50fSApICU+ICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbihldmUpewogICAgYWxlcnQoIuiqreOBv+i+vOOBv+e1guOCj+OBo+OBn+OCiO+8gSIpOwogIH0sZmFsc2UpOwo=</text>
+        <text encoding="base64">ICBkZWYgZ2VuX2NvdW50X2xpc3QocXVvdGVzKQogICAgCiAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgIyBzb3J044Kq44OX44K344On44Oz44Gq44GpCiAgICAjIGFhYQogICAgCiAgICBAY291bnRfbGlzdCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbihldmUpewogICAgYWxlcnQoIuiqreOBv+i+vOOBv+e1guOCj+OBo+OBn+OCiO+8gSIpOwogIH0sZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8JSBlbHNpZiBUaW1lLm5vdyA8IHF1b3RlLmNyZWF0ZWRfYXQubmV4dF9tb250aCAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -316,8 +316,8 @@
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
