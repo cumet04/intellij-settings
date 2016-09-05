@@ -108,11 +108,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472925783110">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="50" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1473064977515">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
         <mark key="[" line="6" column="4" />
@@ -120,12 +121,17 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472925754917">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1473064713974">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="40" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="30" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473064828891">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472925444473">
         <mark key="[" line="2" column="5" />
@@ -141,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="509" column="5" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="802" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="17" column="9" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -241,46 +246,47 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
+      <jump line="25" column="25" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIFBPU1Tjga7jgYzjgYTjgYTjgajmgJ3jgYbjgYzjgIEK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDwgQXBwbGljYXRpb25SZWNvcmQ=</text>
       </register>
       <register name="-" type="4">
-        <text>空</text>
+        <text encoding="base64">IDwgQXBwbGljYXRpb25SZWNvcmQ=</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiBRdW90ZS5maW5kKHBhcmFtc1s6aWRdKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDwgQXBwbGljYXRpb25SZWNvcmQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIFBPU1Tjga7jgYzjgYTjgYTjgajmgJ3jgYbjgYzjgIEK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXF1aXJlX3JlbGF0aXZlICcuLi9tb2RlbHMvbW9uZ29zeW5jJwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVkX2F0OiBpbmZvWyd1cGxvYWREYXRlJ10K</text>
+        <text encoding="base64">cmVxdWlyZV9yZWxhdGl2ZSAnLi4vbW9kZWxzL21vbmdvc3luYycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlbXQo=</text>
+        <text encoding="base64">cmVxdWlyZV9kZXBlbmRlbmN5ICdtb2RlbHMvbW9uZ29zeW5jLnJiJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpIHsKICAgICAgbWFyZ2luLXRvcDogNXB4OwogICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICB9Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAjIFBPU1Tjga7jgYzjgYTjgYTjgajmgJ3jgYbjgYzjgIEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVkX2F0OiBpbmZvWyd1cGxvYWREYXRlJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCUgIyDmnaHku7bjga7ntYTjgb/mlrnjgYzlpInliYfnmoTjgarjga7jga/lh6bnkIbpgJ/luqblkJHkuIrjga7jgZ/jgoEgJT4KICAgICAgPCUgIyDlpKfljYrjga5xdW90ZeOBp+OBguOCi25vdCBuZXfjgYzmr5TovIMx5Zue44Gn5riI44KA44KI44GG44Gr44GX44Gm44GC44KLICU+CiAgICAgIDwlIGlmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X21vbnRoICU+CiAgICAgICAgPCUgaWYgVGltZS5ub3cgPCBxdW90ZS5jcmVhdGVkX2F0Lm5leHRfd2VlayAlPgogICAgICAgICAgPGltZyBjbGFzcz0ibmV3IiBzcmM9IiA8JT0gaW1hZ2VfcGF0aCgnbmV3LnBuZycpICU+ICIvPgogICAgICAgIDwlIGVsc2UgJT4KICAgICAgICAgIDxpbWcgY2xhc3M9Im5ldyIgc3JjPSIgPCU9IGltYWdlX3BhdGgoJ25ldzIucG5nJykgJT4gIi8+CiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwlIGVuZCAlPgogICAgICA8c3BhbiBjbGFzcz0iY291bnQiPiA8JT0gcXVvdGUuY291bnQgJT4gPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgcXVlcnlbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,8 +323,8 @@
         <entry>map</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>action JumpToLastChange</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
