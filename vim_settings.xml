@@ -157,12 +157,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1473073739719">
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1473074114893">
         <mark key="'" line="131" column="23" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="173" column="7" />
-        <mark key="." line="174" column="0" />
+        <mark key="[" line="172" column="39" />
+        <mark key="]" line="173" column="41" />
+        <mark key="^" line="173" column="41" />
+        <mark key="." line="173" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/app/commander.py" timestamp="1467351102377">
         <mark key="'" line="40" column="52" />
@@ -231,8 +231,8 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1473073719291">
-        <mark key="'" line="80" column="8" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1473074085658">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="47" />
         <mark key="." line="150" column="0" />
@@ -261,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/utils/__init__.py" />
       <jump line="137" column="13" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="68" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/commander.py" />
       <jump line="207" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
@@ -361,6 +359,8 @@
       <jump line="131" column="23" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="150" column="24" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -370,7 +370,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>is_alive</text>
+        <text>awake</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNvbGRpZXIgPSBTb2xkaWVyKCJDQzI2NTAtIiArIGFkZHIsICJTZW5zb3JUYWciKQogICAgc29sZGllci53ZWFwb25zLnVwZGF0ZSh0YWdfd2VhcG9ucykKICAgIGlmIG5vdCBzb2xkaWVyLmF3YWtlKHJlY19hZGRyLCAxMCk6CiAgICAgICAgc29sZGllci5zaHV0ZG93bigpCiAgICByZXR1cm4gcmVhZGVyLCBzb2xkaWVyCg==</text>
@@ -418,9 +418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_alive</last-search>
+      <last-search>awake</last-search>
       <last-offset />
-      <last-pattern>is_alive</last-pattern>
+      <last-pattern>awake</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>e.__class__.__name__</last-substitute>
       <last-dir>1</last-dir>
@@ -428,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_client</entry>
         <entry>put</entry>
         <entry>lo</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -448,6 +447,7 @@
         <entry encoding="base64">XDxtaW51dGVzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>is_alive</entry>
+        <entry>awake</entry>
       </history-search>
       <history-cmd>
         <entry>%s/e.__class__.__name__/e/g</entry>
