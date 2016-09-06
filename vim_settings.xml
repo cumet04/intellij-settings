@@ -109,11 +109,10 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1473064977515">
-        <mark key="'" line="24" column="25" />
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
         <mark key="[" line="6" column="4" />
