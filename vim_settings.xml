@@ -9,26 +9,10 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/objects.py" timestamp="1464932368307">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" timestamp="1472925188620">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="6" />
-        <mark key="^" line="41" column="6" />
-        <mark key="." line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472781246219">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="/Ruby Console" timestamp="1472896013853">
         <mark key="[" line="0" column="0" />
@@ -56,12 +40,6 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830050021_create_quotes.rb" timestamp="1472558900887">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="40" />
@@ -74,13 +52,6 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472925754917">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1465371490633">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
@@ -90,18 +61,6 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472925444473">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472903983363">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472701925069">
         <mark key="[" line="6" column="0" />
@@ -136,6 +95,53 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" timestamp="1472925188620">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="6" />
+        <mark key="^" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472781246219">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472925754917">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473345007017">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472925444473">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472903983363">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -241,17 +247,17 @@
       <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8dGl0bGU+RmFtb3VzIFF1b3RlczwvdGl0bGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ENV['MONGO_FAMOUSQ_PORT_27017_TCP_ADDR']</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ENV['MONGO_FAMOUSQ_PORT_27017_TCP_ADDR']</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlciBqc29uOiBRdW90ZS5maW5kKHBhcmFtc1s6aWRdKQo=</text>
+        <text encoding="base64">ICAgICAgbW9uZ29faXAgPSBFTlZbJ01PTkdPX0ZBTU9VU1FfUE9SVF8yNzAxN19UQ1BfQUREUiddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8dGl0bGU+RmFtb3VzIFF1b3RlczwvdGl0bGU+Cg==</text>
