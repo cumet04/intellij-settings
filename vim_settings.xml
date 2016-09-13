@@ -341,7 +341,7 @@
         <text encoding="base64">Ci8vICQoJyNxdW90ZUxpc3QnKS5tYXNvbnJ5KCdyZWxvYWQnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -376,8 +376,8 @@
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
