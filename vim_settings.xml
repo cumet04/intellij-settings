@@ -75,11 +75,12 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" timestamp="1473771595033">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="10" />
-        <mark key="." line="26" column="10" />
-        <mark key="^" line="26" column="10" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" timestamp="1473778602051">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="4" />
+        <mark key="^" line="152" column="6" />
+        <mark key="." line="181" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1473775394379">
         <mark key="'" line="5" column="6" />
@@ -156,11 +157,9 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/index.html.erb" timestamp="1473777266299">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="37" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/index.html.erb" timestamp="1473778321204">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/main_controller.rb" timestamp="1473485049909">
         <mark key="[" line="1" column="0" />
@@ -201,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="672" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="251" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="280" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -301,46 +299,47 @@
       <jump line="38" column="27" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" />
       <jump line="35" column="4" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" />
       <jump line="22" column="25" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>multi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>multi</text>
+        <text>scroll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRleFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>if (btn.getAttribute('data-mode') == 'multi') {</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ZW1TZWxlY3RvcjogJy5xdW90ZScsCiAgICBpc0FuaW1hdGVkOiBmYWxzZQogIH0pOwo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyDjgr3jg7zjg4jjg5zjgr/jg7Pjga7oqK3lrpoK</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBuZXh0X29yZGVyWzpjYXRlZ29yeV0gPSAnZGVzYycKICAgIEBuZXh0X29yZGVyWzpjb3VudF0gPSAnZGVzYycKICAgIEBuZXh0X29yZGVyWzpjcmVhdGVkX2F0XSA9ICdkZXNjJwo=</text>
+        <text encoding="base64">I3RvX3BhZ2UtYm90dG9tIHsKICAgIGxpbmUtaGVpZ2h0OiA2MHB4OwogICAgcG9zaXRpb246IGZpeGVkOwogICAgYm90dG9tOiA4MHB4Owp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiN0b19wYWdlLXRvcCB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDjgr3jg7zjg4jnirbmhYvjga7lj5blvpfjg7vpganlv5wKICB2YXIgb3JkZXIgPSAnYXNjJzsKICB2YXIgc29ydGJ5ID0gJ2NhdGVnb3J5JzsKICB2YXIgb3JkZXJfbWF0Y2ggPSBsb2NhdGlvbi5zZWFyY2gubWF0Y2goLyhcP3wmKW9yZGVyPSguKj8pKCZ8JCkvKTsKICBpZiAob3JkZXJfbWF0Y2gpIHsKICAgIHZhciBzb3J0YnlfbWF0Y2ggPSBsb2NhdGlvbi5zZWFyY2gubWF0Y2goLyhcP3wmKXNvcnRieT0oLio/KSgmfCQpLyk7CiAgICBvcmRlciA9IG9yZGVyX21hdGNoWzJdOwogICAgc29ydGJ5ID0gc29ydGJ5X21hdGNoID8gc29ydGJ5X21hdGNoWzJdIDogJ2NhdGVnb3J5JzsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4OwogICAgcG9zaXRpb246IGZpeGVkOwogICAgdG9wOiA4MHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
