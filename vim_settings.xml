@@ -9,10 +9,11 @@
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/_list.html.erb" timestamp="1473496399514">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/_list.html.erb" timestamp="1473782743126">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/objects.py" timestamp="1464932368307">
         <mark key="[" line="22" column="0" />
@@ -30,6 +31,18 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="285" column="1" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js.erb" timestamp="1473782207377">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/params.js.erb" timestamp="1473782519436">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/helpers/quotes_helper.rb" timestamp="1472900612107">
         <mark key="[" line="1" column="0" />
@@ -118,12 +131,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" timestamp="1473776978778">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" timestamp="1473783428321">
         <mark key="'" line="22" column="25" />
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="38" column="56" />
-        <mark key="." line="38" column="56" />
-        <mark key="^" line="38" column="56" />
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -136,10 +149,11 @@
         <mark key="^" line="41" column="6" />
         <mark key="." line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1473490796696">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1473781627533">
+        <mark key="[" line="39" column="92" />
+        <mark key="]" line="39" column="92" />
+        <mark key="^" line="39" column="54" />
+        <mark key="." line="39" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/main.scss" timestamp="1473485328401">
         <mark key="'" line="5" column="0" />
@@ -157,9 +171,10 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/index.html.erb" timestamp="1473778321204">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="5" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/application/index.html.erb" timestamp="1473781907494">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/main_controller.rb" timestamp="1473485049909">
         <mark key="[" line="1" column="0" />
@@ -181,9 +196,9 @@
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473493781384">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473781647308">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="54" />
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472925444473">
@@ -302,44 +317,44 @@
       <jump line="51" column="10" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>sound_url</text>
       </register>
       <register name="-" type="4">
-        <text>scroll</text>
+        <text>sound_url</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRleFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">PGRpdiBpZD0icXVvdGVMaXN0IiBjbGFzcz0idHJhbnNpdGlvbnMtZW5hYmxlZCIKICAgICA+PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">ICBkYl91cmkgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3RvX3BhZ2UtYm90dG9tIHsKICAgIGxpbmUtaGVpZ2h0OiA2MHB4OwogICAgcG9zaXRpb246IGZpeGVkOwogICAgYm90dG9tOiA4MHB4Owp9Cg==</text>
+        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiN0b19wYWdlLXRvcCB7Cn0K</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4OwogICAgcG9zaXRpb246IGZpeGVkOwogICAgdG9wOiA4MHB4Owo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
