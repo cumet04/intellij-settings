@@ -3,10 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465379004101">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1473015341872">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/routes.rb" timestamp="1473409905211">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/SensingTroops/utils/helpers.py" timestamp="1465371490633">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830050121_change_column_to_soundfile.rb" timestamp="1472536074616">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/rails_docker/app/controllers/application_controller.rb" timestamp="1472475768748">
         <mark key="[" line="6" column="4" />
@@ -14,17 +37,22 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/FamousQuotes/js/main.js" timestamp="1472308535108">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830042623_change_column_to_user.rb" timestamp="1472535930557">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="72" />
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/utils/objects.py" timestamp="1464932368307">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472789357910">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" timestamp="1472782826012">
         <mark key="'" line="49" column="0" />
@@ -38,11 +66,42 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/Gemfile" timestamp="1473015284592">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473012321793">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1473055042507">
+        <mark key="'" line="37" column="39" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" timestamp="1472740874249">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830050021_create_quotes.rb" timestamp="1472558900887">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472796492842">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/sound_file.rb" timestamp="1472534214724">
         <mark key="[" line="1" column="14" />
@@ -55,78 +114,15 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472794957694">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160828055124_create_sound_files.rb" timestamp="1472536093343">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1472736871496">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465379004101">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/application_controller.rb" timestamp="1472701925069">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/routes.rb" timestamp="1472782433909">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="33" />
-        <mark key="^" line="2" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160830050121_change_column_to_soundfile.rb" timestamp="1472536074616">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="47" />
-        <mark key="^" line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/utils/objects.py" timestamp="1464932368307">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" timestamp="1472789357910">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" timestamp="1472740351659">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" timestamp="1472740874249">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/environments/development.rb" timestamp="1472796492842">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="13" column="48" />
-        <mark key="^" line="13" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/config/application.rb" timestamp="1472781246219">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/_list.html.erb" timestamp="1472794957694">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/rails_docker/config/application.rb" timestamp="1472475777165">
         <mark key="[" line="25" column="0" />
@@ -139,13 +135,17 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/db/migrate/20160828055124_create_sound_files.rb" timestamp="1472536093343">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" timestamp="1473012419673">
+        <mark key="^" line="37" column="1" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="509" column="5" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="802" column="4" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/FamousQuotes/index.html" />
       <jump line="819" column="0" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="104" column="12" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="193" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -225,7 +225,6 @@
       <jump line="53" column="17" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="34" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="23" column="32" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="48" column="6" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
@@ -233,7 +232,6 @@
       <jump line="115" column="27" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="66" column="15" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="9" column="2" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
-      <jump line="49" column="38" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
       <jump line="9" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" />
@@ -241,49 +239,56 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
       <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="80" column="8" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="71" column="23" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="46" column="4" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" />
+      <jump line="37" column="39" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSAncXVvdGVfbGlzdCcgZG8gJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icXVvdGUiIHVybD0iJHVybCI+CiAgPHVsPgogICAgPGxpIGNsYXNzPSJ0ZXh0Ym9keSI+IDwlPSBxdW90ZS5jYXRlZ29yeSArICcvJyArIHF1b3RlLm5hbWUlPiA8L2xpPgogICAgPHVsIGNsYXNzPSJ0aXBzIj4KICAgICAgPGxpIGNsYXNzPSJuZXciPgogICAgICAgIDwlIGlmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X3dlZWsgJT4KICAgICAgICAgICAgPGltZyBzcmM9IiA8JT0gaW1hZ2VfcGF0aCgnbmV3LnBuZycpICU+ICIvPgogICAgICAgIDwlIGVsc2lmIFRpbWUubm93IDwgcXVvdGUuY3JlYXRlZF9hdC5uZXh0X21vbnRoICU+CiAgICAgICAgICAgIDxpbWcgc3JjPSIgPCU9IGltYWdlX3BhdGgoJ25ldzIucG5nJykgJT4gIi8+CiAgICAgICAgPCUgZW5kICU+CiAgICAgIDwvbGk+CiAgICAgIDxsaSBjbGFzcz0iY291bnQiPiA8JT0gcXVvdGUuY291bnQgJT4gPC9saT4KICAgIDwvdWw+CiAgPC91bD4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfYXQ6IE1vbmdvU3luYy5sYXN0X3JlcXVlc3RlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSAncXVvdGVfbGlzdCcgZG8gJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">ICBnZXQgJ21haW4vaW5kZXgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCArIDEgZG8gJT4K</text>
+        <text encoding="base64">CiAgZGVmIGhlbGxvCiAgICByZW5kZXIgcGxhaW46ICdvaycKICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">CgogIGRlZiBpbXBvcnQocXVlcnkgPSBuaWwpCiAgICBxdW90ZXMgPSBbXQogICAgTW9uZ29zeW5jQ29udHJvbGxlci5tdXRleC5zeW5jaHJvbml6ZSBkbwogICAgICBNb25nb3N5bmNDb250cm9sbGVyLmxhc3RfcmVxdWVzdGVkID0gVGltZS5ub3cKICAgICAgbW9uZ29faXAgPSBFTlZbJ01PTkdPX0ZBTU9VU1FfUE9SVF8yNzAxN19UQ1BfQUREUiddCiAgICAgIGNsaWVudCA9IE1vbmdvOjpDbGllbnQubmV3KCdtb25nb2RiOi8vJXM6MjcwMTcvZ2ZzJyAlIG1vbmdvX2lwKQogICAgICBmc19idWNrZXQgPSBjbGllbnQuZGF0YWJhc2UuZnMoYnVja2V0X25hbWU6ICdmYW1vdXNxJykKCiAgICAgIGZzX2J1Y2tldC5maW5kKHF1ZXJ5LCB7c29ydDogeyd1cGxvYWREYXRlJzogMX19KS5lYWNoIGRvIHxpbmZvfAogICAgICAgIGZpbGUgPSBmc19idWNrZXQuZmluZF9vbmUoe19pZDogaW5mb1snX2lkJ119KQogICAgICAgIHJldHVybiBuaWwgdW5sZXNzIGZpbGUKICAgICAgICBxdW90ZSA9IFF1b3RlLmNyZWF0ZV9mcm9tX2luZm8oaW5mbywgZmlsZS5kYXRhKQogICAgICAgIHF1b3RlcyA8PCBxdW90ZSB1bmxlc3MgcXVvdGUubmlsPwogICAgICBlbmQKICAgIGVuZAogICAgTW9uZ29zeW5jQ29udHJvbGxlci5sYXN0X3Jlc3VsdCA9IHF1b3RlcwogICAgcXVvdGVzCiAgZW5kCgogIGRlZiBpbXBvcnRfbmV3ZXIoYmFzZV9kYXRlKQogICAgIyBiYXNlX2RhdGE7IFRpbWXjgqrjg5bjgrjjgqfjgq/jg4gKCiAgICByZXR1cm4gZmFsc2UgaWYgTW9uZ29zeW5jQ29udHJvbGxlci5tdXRleC5sb2NrZWQ/CgogICAgTW9uZ29zeW5jQ29udHJvbGxlci5sYXN0X3JlcXVlc3RlZCA9IFRpbWUubm93CiAgICBNb25nb3N5bmNDb250cm9sbGVyLnRocmVhZCA9IFRocmVhZC5uZXcgZG8KICAgICAgc2VsZi5pbXBvcnQoe3VwbG9hZERhdGU6IHsnJGd0ZSc6IGJhc2VfZGF0ZX19KQogICAgZW5kCiAgICB0cnVlCiAgZW5kCgogIGRlZiBpbXBvcnRfZnVsbAogICAgcmV0dXJuIGZhbHNlIGlmIE1vbmdvc3luY0NvbnRyb2xsZXIubXV0ZXgubG9ja2VkPwoKICAgICMg44Oq44Kv44Ko44K544OI5pmC44GrZXF1ZXN0ZWRfYXTjgYzooajnpLrjgZXjgozjgarjgYTllY/poYzjgavlr77lh6bjgZnjgovjgZ/jgoHjgZPjgZPjgafmm7TmlrAKICAgICMg44Oq44Kv44Ko44K544OI5pmC44Go5a6M5LqG5b6M44GnVGltZeOBjOOCuuODrOOCi+WPr+iDveaAp+OBjOOBguOCi+OBruOBp+azqOaEjwogICAgTW9uZ29zeW5jQ29udHJvbGxlci5sYXN0X3JlcXVlc3RlZCA9IFRpbWUubm93CiAgICBNb25nb3N5bmNDb250cm9sbGVyLnRocmVhZCA9IFRocmVhZC5uZXcgZG8KICAgICAgc2VsZi5pbXBvcnQKICAgIGVuZAogICAgdHJ1ZQogIGVuZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8JSBjYWNoZSBAcXVvdGVzLmxlbmd0aCBkbyAlPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRfYXQ6IE1vbmdvc3luY0NvbnRyb2xsZXIubGFzdF9yZXF1ZXN0ZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAicXVvdGVzL2xpc3QiLCBsb2NhbHM6IHtxdW90ZTogcX0gJT4K</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RlZF9hdDogTW9uZ29TeW5jLmxhc3RfcmVxdWVzdGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwlIGVuZCAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlIGNhY2hlIHF1b3RlLmZpbGVuYW1lIGRvICU+Cg==</text>
+        <text encoding="base64">CiAgTW9uZ286OkxvZ2dlci5sb2dnZXIubGV2ZWwgPSA6OkxvZ2dlcjo6RkFUQUwKICBBY3RpdmVSZWNvcmQ6OkJhc2UubG9nZ2VyLmxldmVsID0gOjpMb2dnZXI6OklORk8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+        <text encoding="base64">CiAgIyBtb25nb+OCouOCr+OCu+OCuemWoumAo+OBruWkieaVsAogIEBtdXRleCA9IE11dGV4Lm5ldwogIEB0aHJlYWQgPSBuaWwKICBAbGFzdF9yZXF1ZXN0ZWQgPSBuaWwKICBAbGFzdF9yZXN1bHQgPSBuaWwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -318,8 +323,8 @@
       </history-search>
       <history-cmd>
         <entry>action JumpToLastChange</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
