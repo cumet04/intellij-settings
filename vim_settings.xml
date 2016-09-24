@@ -131,12 +131,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" timestamp="1474366552444">
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" timestamp="1474720509423">
         <mark key="'" line="22" column="25" />
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="59" column="12" />
-        <mark key="." line="59" column="12" />
-        <mark key="^" line="59" column="12" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="50" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -317,44 +317,44 @@
       <jump line="51" column="10" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sound_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sound_url</text>
+        <text>location.href.match(/(.*?)(\?|$).*/)[1];</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRleFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
+        <text encoding="base64">ICB2YXIgYmFzZV91cmwgPSBsb2NhdGlvbi5ocmVmLm1hdGNoKC8oLio/KShcP3wkKS4qLylbMV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyByYXNwaeOBruOCueODlOODvOOCq+ODvOmztOOCieOBmeOChOOBpOOBjOOBquOBq+OBi+WPguiAg+OBq+OBquOCieOBquOBhO+8nwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBpZD0icXVvdGVMaXN0IiBjbGFzcz0idHJhbnNpdGlvbnMtZW5hYmxlZCIKICAgICA+PC9kaXY+Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYl91cmkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGRpdiBpZD0icXVvdGVMaXN0IiBjbGFzcz0idHJhbnNpdGlvbnMtZW5hYmxlZCIKICAgICA+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
+        <text encoding="base64">ICBkYl91cmkgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
+        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
