@@ -83,10 +83,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1465379004101">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1474950084016">
+        <mark key="'" line="135" column="7" />
+        <mark key="[" line="168" column="74" />
+        <mark key="]" line="169" column="11" />
+        <mark key="." line="169" column="11" />
+        <mark key="^" line="169" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" timestamp="1473778602051">
         <mark key="'" line="51" column="10" />
@@ -215,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="672" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="251" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="280" column="26" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="238" column="24" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -315,46 +316,47 @@
       <jump line="35" column="4" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" />
       <jump line="22" column="25" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/javascripts/application.js" />
       <jump line="51" column="10" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" />
+      <jump line="135" column="7" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>old_mis.get_id()</text>
       </register>
       <register name="-" type="4">
-        <text>location.href.match(/(.*?)(\?|$).*/)[1];</text>
+        <text>old_mis.get_id()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRleFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgYmFzZV91cmwgPSBsb2NhdGlvbi5ocmVmLm1hdGNoKC8oLio/KShcP3wkKS4qLylbMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtaXNzaW9uLmdldF9pZCgpIGluIHNlbGYubWlzc2lvbnM6CiAgICAgICAgICAgIG9sZF9taXMgPSBzZWxmLm1pc3Npb25zW21pc3Npb24uZ2V0X2lkKCldCiAgICAgICAgICAgIGZvciBzdWIgaW4gc2VsZi5zdWJvcmRpbmF0ZXMudmFsdWVzKCk6CiAgICAgICAgICAgICAgICBbc3ViLm9yZGVycy5yZW1vdmUobykgZm9yIG8gaW4gc3ViLm9yZGVycwogICAgICAgICAgICAgICAgIGlmIG8ucHVycG9zZSA9PSBvbGRfbWlzLmdldF9pZCgpXQogICAgICAgIGZvciB0aCBpbiBzZWxmLndvcmtpbmdfdGhyZWFkczoKICAgICAgICAgICAgaWYgbWlzc2lvbi5nZXRfaWQoKSA9PSB0aC5taXNzaW9uLmdldF9pZCgpOgogICAgICAgICAgICAgICAgdGgubG9jay5zZXQoKQogICAgICAgICAgICAgICAgc2VsZi53b3JraW5nX3RocmVhZHMucmVtb3ZlKHRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtaXNzaW9uLmdldF9pZCgpIGluIHNlbGYubWlzc2lvbnM6CiAgICAgICAgICAgIG9sZF9taXMgPSBzZWxmLm1pc3Npb25zW21pc3Npb24uZ2V0X2lkKCldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByYXNwaeOBruOCueODlOODvOOCq+ODvOmztOOCieOBmeOChOOBpOOBjOOBquOBq+OBi+WPguiAg+OBq+OBquOCieOBquOBhO+8nwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyByYXNwaeOBruOCueODlOODvOOCq+ODvOmztOOCieOBmeOChOOBpOOBjOOBquOBq+OBi+WPguiAg+OBq+OBquOCieOBquOBhO+8nwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMubXAzcGxheV91cmkpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBpZD0icXVvdGVMaXN0IiBjbGFzcz0idHJhbnNpdGlvbnMtZW5hYmxlZCIKICAgICA+PC9kaXY+Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYl91cmkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGRpdiBpZD0icXVvdGVMaXN0IiBjbGFzcz0idHJhbnNpdGlvbnMtZW5hYmxlZCIKICAgICA+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiN0b19wYWdlLXRvcCB7CiAgICB0b3A6IDgwcHg7Cn0KCiN0b19nZW5yZSB7CiAgICBsaW5lLWhlaWdodDogMjBweDsKICAgIGJvdHRvbTogMzUwcHg7IC8qIGpz44Gn5pu444GN5o+b44GI44KL44GM5LiA5b+c5Yid5pyf5L2N572uICovCn0KCiN0b19wYWdlLWJvdHRvbSB7CiAgICBib3R0b206IDgwcHg7Cn0K</text>
+        <text encoding="base64">ICBkYl91cmkgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -391,8 +393,8 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action JumpToLastChange</entry>
         <entry>q</entry>
+        <entry>action JumpToLastChange</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -414,7 +416,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
