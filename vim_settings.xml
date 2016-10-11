@@ -136,12 +136,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1475567274550">
-        <mark key="'" line="217" column="11" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1476170243362">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="178" column="32" />
+        <mark key="]" line="179" column="23" />
+        <mark key="." line="179" column="23" />
+        <mark key="^" line="179" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -207,12 +207,12 @@
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1474951287817">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="203" column="53" />
-        <mark key="." line="199" column="27" />
-        <mark key="^" line="199" column="27" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476169647294">
+        <mark key="'" line="94" column="15" />
+        <mark key="[" line="100" column="39" />
+        <mark key="]" line="100" column="43" />
+        <mark key="^" line="100" column="43" />
+        <mark key="." line="100" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473781647308">
         <mark key="[" line="27" column="0" />
@@ -239,25 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="119" column="18" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="141" column="39" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="239" column="17" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="353" column="19" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="224" column="20" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="226" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="583" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="607" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="531" column="10" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="220" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="538" column="10" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="563" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="568" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="242" column="3" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="415" column="14" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="452" column="7" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="537" column="8" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="562" column="6" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="569" column="48" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -323,7 +304,6 @@
       <jump line="36" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/info_obj.py" />
       <jump line="127" column="20" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="131" column="21" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
-      <jump line="197" column="46" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="200" column="26" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="19" column="9" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="31" column="17" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
@@ -339,67 +319,80 @@
       <jump line="129" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="131" column="52" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="216" column="11" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="146" column="24" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="148" column="16" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="100" column="13" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="197" column="29" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="116" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="94" column="15" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="214" column="11" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="59" column="33" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="28" column="66" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[0, 0, 0],</text>
+        <text>reader.battery</text>
       </register>
       <register name="-" type="4">
-        <text>[0, 0, 0],</text>
+        <text>reader.battery</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlcnNcPg==</text>
+        <text encoding="base64">XDxhZGRyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJneXJvc2NvcGUiOiBbMCwgMCwgMF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAic3Vib3JkaW5hdGVzL3swfS93b3JrIi5mb3JtYXQoc2VsZi5zb2xkaWVyLmlkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoZW5hYmxlX3dhaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbm5lY3QoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZy5nZXRTZXJ2aWNlQnlVVUlEKEFzc2lnbmVkTnVtYmVycy5iYXR0ZXJ5X3NlcnZpY2UpLmdldENoYXJhY3RlcmlzdGljcygpWzBdLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQodGFyZ2V0PSBzZWxmLnNlbnNpbmcsIGRhZW1vbj1UcnVlKS5zdGFydCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoZW5hYmxlX3dhaXQpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZW5hYmxlX3NlbnNvcnMoc2VsZik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZWxmLnRhZy5JUnRlbXBlcmF0dXJlLmVuYWJsZSgpCiAgICAgICAgICAgIHNlbGYudGFnLmh1bWlkaXR5LmVuYWJsZSgpCiAgICAgICAgICAgIHNlbGYudGFnLmJhcm9tZXRlci5lbmFibGUoKQogICAgICAgICAgICBzZWxmLnRhZy5hY2NlbGVyb21ldGVyLmVuYWJsZSgpCiAgICAgICAgICAgIHNlbGYudGFnLm1hZ25ldG9tZXRlci5lbmFibGUoKQogICAgICAgICAgICBzZWxmLnRhZy5neXJvc2NvcGUuZW5hYmxlKCkKICAgICAgICAgICAgc2VsZi50YWcubGlnaHRtZXRlci5lbmFibGUoKQogICAgICAgIGV4Y2VwdCBCVExFRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJEaXNjb25uZWN0ZWQ6IHswfSBpbiBlbmFibGUiLmZvcm1hdChzZWxmLmFkZHIpKQogICAgICAgICAgICBsb2dnZXIuZXJyb3IodHJhY2ViYWNrLmZvcm1hdF9leGMoKSkKICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGFnLmd5cm9zY29wZS5lbmFibGUoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHRhZyA9IFNlbnNvclRhZyhzZWxmLmFkZHIpCiAgICAgICAgICAgIHJldHVybiB0YWcKICAgICAgICBleGNlcHQgQlRMRUV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICBpZiAiRmFpbGVkIHRvIGNvbm5lY3QgdG8gcGVyaXBoZXJhbCIgaW4gZS5tZXNzYWdlOgogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJjb25uZWN0aW9uIGZhaWxlZDogezB9Ii5mb3JtYXQoc2VsZi5hZGRyKSkKICAgICAgICAgICAgICAgIHJldHVybiBOb25lCiAgICAgICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGFnLmd5cm9zY29wZS5kaXNhYmxlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhbXBhaWduID0gQ2FtcGFpZ24ubWFrZShyZXF1ZXN0Lmpzb24pCiAgICBhY2NlcHRlZCA9IGNvbW1hbmRlci5hY2NlcHRfY2FtcGFpZ24oY2FtcGFpZ24pLnRvX2RpY3QoKQogICAgaWYgYWNjZXB0ZWQgaXMgTm9uZToKICAgICAgICByZXR1cm4ganNvbmlmeShfc3RhdHVzPVJlc3BvbnNlU3RhdHVzLkZhaWxlZCksIDUwMAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgUmVtb3ZlIGEgbmV3IGNhbXBhaWducwogICAgLS0tCiAgICBwYXJhbWV0ZXJzOgogICAgICAtIG5hbWU6IGNpZAogICAgICAgIGluOiBwYXRoCiAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgIHJlc3BvbnNlczoKICAgICAgMjAwOgogICAgICAgIGRlc2NyaXB0aW9uOiBUaGUgY2FtcGFpZ24gaXMgYWNjZXB0ZWQKICAgICAgICBzY2hlbWE6CiAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICBfc3RhdHVzOgogICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBSZXNwb25zZSBzdGF0dXMKICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9SZXNwb25zZVN0YXR1cycKICAgICAgICAgICAgYWNjZXB0ZWQ6CiAgICAgICAgICAgICAgZGVzY3JpcHRpb246IFRoZSBhY2NlcHRlZCBjYW1wYWlnbgogICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL0NhbXBhaWduJwogICAgIiIiCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2VuZXJhdGVfaW5mbyhzZWxmKSAtPiBTb2xkaWVySW5mbzoKICAgICAgICAiIiIKICAgICAgICDoh6rouqvjga7jg5Hjg6njg6Hjg7zjgr/nvqTjgYvjgolTb2xkaWVySW5mb+OCquODluOCuOOCp+OCr+ODiOOCkueUn+aIkOOBmeOCiwogICAgICAgIDpyZXR1cm4gU29sZGllckluZm86IOeUn+aIkOOBl+OBn1NvbGRpZXJJbmZvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogQSBjYW1wYWlnbiB0byBiZSBhY2NlcHRlZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU29sZGllckluZm8oCiAgICAgICAgICAgIGlkPXNlbGYuaWQsCiAgICAgICAgICAgIG5hbWU9c2VsZi5uYW1lLAogICAgICAgICAgICBwbGFjZT1zZWxmLnBsYWNlLAogICAgICAgICAgICB3ZWFwb25zPWxpc3Qoc2VsZi53ZWFwb25zLmtleXMoKSksCiAgICAgICAgICAgIG9yZGVycz1saXN0KHNlbGYub3JkZXJzLnZhbHVlcygpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWE6CiAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9DYW1wYWlnbicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlcnNcPg==</last-search>
+      <last-search encoding="base64">XDxhZGRyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dumpReturnV</entry>
-        <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBcPg==</entry>
-        <entry encoding="base64">XDxwYXJhbVNlcGFyYXRvclw+</entry>
-        <entry encoding="base64">XDxfX2ludm9rZVNlcnZpY2VSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxwYXJhbVByZWZpeFw+</entry>
-        <entry encoding="base64">XDxwYXJhbU9wZXJhdG9yXD4=</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVNlcnZpY2VQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxHRlNTZXJ2aWNlRW5kcG9pbnRcPg==</entry>
         <entry encoding="base64">XDxtcDNQbGF5U2VydmljZUVuZHBvaW50XD4=</entry>
         <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBBbmRDb3VudFw+</entry>
@@ -413,6 +406,13 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry>Order</entry>
         <entry encoding="base64">XDxvcmRlcnNcPg==</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDx0aW1lXD4=</entry>
+        <entry encoding="base64">XDxzdGFydF9oZWFydGJlYXRcPg==</entry>
+        <entry encoding="base64">XDxhY2NlcHRfb3JkZXJcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9pbmZvXD4=</entry>
+        <entry encoding="base64">XDxTb2xkaWVySW5mb1w+</entry>
+        <entry encoding="base64">XDxhZGRyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
