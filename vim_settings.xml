@@ -86,6 +86,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/model/leader.py" timestamp="1476426463018">
+        <mark key="[" line="183" column="31" />
+        <mark key="]" line="184" column="21" />
+        <mark key="^" line="184" column="21" />
+        <mark key="." line="184" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/application.scss" timestamp="1473778602051">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="181" column="0" />
@@ -207,12 +213,12 @@
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476425169427">
-        <mark key="'" line="65" column="22" />
-        <mark key="[" line="141" column="44" />
-        <mark key="]" line="141" column="44" />
-        <mark key="." line="141" column="44" />
-        <mark key="^" line="141" column="44" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476426506731">
+        <mark key="'" line="140" column="34" />
+        <mark key="[" line="144" column="30" />
+        <mark key="]" line="144" column="42" />
+        <mark key="." line="144" column="42" />
+        <mark key="^" line="144" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473781647308">
         <mark key="[" line="27" column="0" />
@@ -239,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="17" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="353" column="19" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
-      <jump line="224" column="20" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="226" column="13" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="583" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
       <jump line="607" column="32" filename="$USER_HOME$/Documents/FamousQuotes/js/main.js" />
@@ -339,46 +342,49 @@
       <jump line="201" column="55" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="138" column="53" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="65" column="22" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="141" column="23" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
+      <jump line="140" column="34" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>awake</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>awake</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJneXJvc2NvcGUiOiBbMCwgMCwgMF0sCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQodGFza3NbMF0ucmVzdWx0KCkpCiAgICAgICAgcHJpbnQodGFza3NbMV0ucmVzdWx0KCkpCiAgICAgICAgcHJpbnQodGFza3NbMl0ucmVzdWx0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFthc3luY2lvLmVuc3VyZV9mdXR1cmUoZ2V0YXR0cihzZWxmLCB2KSgpKSBmb3IgdiBpbiB2YWxzXQo=</text>
+        <text encoding="base64">ICAgICAgICBwYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFsKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuYnJpZ2h0bmVzcygpKSwKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYudGVtcGVyYXR1cmUoKSksCiAgICAgICAgICAgIC4uLiBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIHR5cGUgaW4gc2VsZi5vcmRlci52YWx1ZXM6CiAgICAgICAgICAgICAgICAgICAgdmFsLCB1bml0ID0gc2VsZi5zb2xkaWVyLndlYXBvbnNbdHlwZV0oKQogICAgICAgICAgICAgICAgICAgIGlmIHZhbCBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNvbGRpZXIuc2h1dGRvd24oKQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICB2YWx1ZXMuYXBwZW5kKHsidHlwZSI6IHR5cGUsICJ2YWx1ZSI6IHZhbCwgInVuaXQiOiB1bml0fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuaHVtaWRpdHkoKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB0eXBlIGluIHNlbGYub3JkZXIudmFsdWVzOgogICAgICAgICAgICAgICAgICAgIHZhbCwgdW5pdCA9IHNlbGYuc29sZGllci53ZWFwb25zW3R5cGVdKCkKICAgICAgICAgICAgICAgICAgICBpZiB2YWwgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5zb2xkaWVyLnNodXRkb3duKCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgdmFsdWVzLmFwcGVuZCh7InR5cGUiOiB0eXBlLCAidmFsdWUiOiB2YWwsICJ1bml0IjogdW5pdH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFsKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuYnJpZ2h0bmVzcygpKSwKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYudGVtcGVyYXR1cmUoKSksCiAgICAgICAgICAgIGFzeW5jaW8uZW5zdXJlX2Z1dHVyZShzZWxmLmh1bWlkaXR5KCkpLAogICAgICAgIF0K</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQodGFza3NbMF0ucmVzdWx0KCkpCiAgICAgICAgcHJpbnQodGFza3NbMV0ucmVzdWx0KCkpCiAgICAgICAgcHJpbnQodGFza3NbMl0ucmVzdWx0KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJhYSIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFthc3luY2lvLmVuc3VyZV9mdXR1cmUoZ2V0YXR0cihzZWxmLCB2KSgpKSBmb3IgdiBpbiB2YWxzXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoZW5hYmxlX3dhaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFsKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuYnJpZ2h0bmVzcygpKSwKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYudGVtcGVyYXR1cmUoKSksCiAgICAgICAgICAgIC4uLiBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZy5nZXRTZXJ2aWNlQnlVVUlEKEFzc2lnbmVkTnVtYmVycy5iYXR0ZXJ5X3NlcnZpY2UpLmdldENoYXJhY3RlcmlzdGljcygpWzBdLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuaHVtaWRpdHkoKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuc2xlZXAoZW5hYmxlX3dhaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFsKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYuYnJpZ2h0bmVzcygpKSwKICAgICAgICAgICAgYXN5bmNpby5lbnN1cmVfZnV0dXJlKHNlbGYudGVtcGVyYXR1cmUoKSksCiAgICAgICAgICAgIGFzeW5jaW8uZW5zdXJlX2Z1dHVyZShzZWxmLmh1bWlkaXR5KCkpLAogICAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
