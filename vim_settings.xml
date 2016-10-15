@@ -136,11 +136,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1476263847542">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1476522019299">
+        <mark key="'" line="216" column="8" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="65" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="84" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -206,6 +207,12 @@
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476522193286">
+        <mark key="[" line="146" column="45" />
+        <mark key="]" line="146" column="49" />
+        <mark key="." line="146" column="49" />
+        <mark key="^" line="146" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473781647308">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="54" />
@@ -231,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="8" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/models/quote.rb" />
-      <jump line="115" column="27" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
-      <jump line="66" column="15" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="9" column="2" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="49" column="38" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
@@ -289,7 +293,6 @@
       <jump line="163" column="0" filename="$USER_HOME$/Documents/SensingTroops/model/leader.py" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="131" column="52" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
-      <jump line="216" column="11" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="146" column="24" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="148" column="16" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="103" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
@@ -300,7 +303,6 @@
       <jump line="104" column="8" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="94" column="15" filename="$USER_HOME$/Documents/SensingTroops/model/soldier.py" />
       <jump line="214" column="11" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="59" column="33" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="46" column="16" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
@@ -331,62 +333,65 @@
       <jump line="152" column="32" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="204" column="12" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="205" column="4" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="207" column="4" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="216" column="8" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcwo=</text>
+      <register name="&quot;" type="4">
+        <text>iteritems</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>iteritems</text>
       </register>
       <register name="/" type="4">
-        <text>time.sleep</text>
+        <text>enable=wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcChzZWxmLmVuYWJsZV93YWl0LCBsb29wPXNlbGYubG9vcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrcyA9IFthc3luY2lvLmVuc3VyZV9mdXR1cmUoKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb29wLnJ1bl9mb3JldmVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb29wLmNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcChzZWxmLmVuYWJsZV93YWl0KQo=</text>
+        <text encoding="base64">ICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time.sleep</last-search>
+      <last-search>enable=wait</last-search>
       <last-offset />
-      <last-pattern>time.sleep</last-pattern>
+      <last-pattern>enable=wait</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZva2VTZXJ2aWNlV2l0aER1bXBBbmRDb3VudFw+</entry>
-        <entry encoding="base64">XDxNaXNzaW5nRmlsZUNodW5rXD4=</entry>
         <entry encoding="base64">XDxxdW90ZVw+</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxhZGRcPg==</entry>
@@ -405,11 +410,13 @@
         <entry encoding="base64">XDxhZGRyXD4=</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry>time.sleep</entry>
+        <entry encoding="base64">XDxicmVha1w+</entry>
+        <entry>enable=wait</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>action JumpToLastChange</entry>
         <entry>2</entry>
+        <entry>action JumpToLastChange</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
