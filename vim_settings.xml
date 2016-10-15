@@ -136,12 +136,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1476522019299">
-        <mark key="'" line="216" column="8" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="65" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="84" column="47" />
+      <file name="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" timestamp="1476524286888">
+        <mark key="'" line="154" column="62" />
+        <mark key="[" line="164" column="59" />
+        <mark key="]" line="164" column="59" />
+        <mark key="." line="164" column="63" />
+        <mark key="^" line="55" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/SensingTroops/model/objects.py" timestamp="1465371059901">
         <mark key="[" line="9" column="0" />
@@ -207,11 +207,11 @@
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476522193286">
-        <mark key="[" line="146" column="45" />
-        <mark key="]" line="146" column="49" />
-        <mark key="." line="146" column="49" />
-        <mark key="^" line="146" column="49" />
+      <file name="$USER_HOME$/Documents/SensingTroops/model/soldier.py" timestamp="1476524593713">
+        <mark key="[" line="142" column="25" />
+        <mark key="]" line="142" column="26" />
+        <mark key="." line="142" column="26" />
+        <mark key="^" line="142" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1473781647308">
         <mark key="[" line="27" column="0" />
@@ -238,16 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
-      <jump line="49" column="38" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/mongosync_controller.rb" />
-      <jump line="12" column="6" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/layouts/application.html.erb" />
-      <jump line="9" column="19" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/controllers/quotes_controller.rb" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/assets/stylesheets/quotes.scss" />
-      <jump line="1" column="21" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" />
-      <jump line="48" column="47" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/main/index.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/main/index.html.erb" />
       <jump line="14" column="49" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/main/index.html.erb" />
       <jump line="16" column="50" filename="$USER_HOME$/Documents/Quotes-on-Rails/app/views/main/index.html.erb" />
@@ -321,7 +311,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="32" column="30" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="181" column="12" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
-      <jump line="53" column="47" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="64" column="12" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="75" column="12" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="86" column="33" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
@@ -338,22 +327,33 @@
       <jump line="207" column="4" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
       <jump line="216" column="8" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="53" column="40" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="55" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="66" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="77" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="88" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="99" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="110" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="121" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="132" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="143" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
+      <jump line="154" column="62" filename="$USER_HOME$/Documents/SensingTroops/app/soldier_sensortag.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iteritems</text>
+        <text>is</text>
       </register>
       <register name="-" type="4">
-        <text>iteritems</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
-        <text>enable=wait</text>
+        <text>self.tag.addr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcChzZWxmLmVuYWJsZV93YWl0LCBsb29wPXNlbGYubG9vcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChOb25lLCBOb25lKSBpbiByYXc6Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
@@ -371,28 +371,27 @@
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wLnJ1bl9mb3JldmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wLmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBsb29wLnJ1bl9mb3JldmVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb29wLmNsb3NlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>enable=wait</last-search>
+      <last-search>self.tag.addr</last-search>
       <last-offset />
-      <last-pattern>enable=wait</last-pattern>
+      <last-pattern>self.tag.addr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdW90ZVw+</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxhZGRcPg==</entry>
         <entry encoding="base64">XDxDaGljYWdvXD4=</entry>
@@ -412,6 +411,7 @@
         <entry>time.sleep</entry>
         <entry encoding="base64">XDxicmVha1w+</entry>
         <entry>enable=wait</entry>
+        <entry>self.tag.addr</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
