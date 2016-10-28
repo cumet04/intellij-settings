@@ -216,6 +216,12 @@
         <mark key="." line="142" column="26" />
         <mark key="^" line="142" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/models/mongosync.rb" timestamp="1477663502780">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="60" />
+        <mark key="." line="33" column="60" />
+        <mark key="^" line="33" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/Quotes-on-Rails/app/views/quotes/index.html.erb" timestamp="1472925444473">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="7" />
@@ -339,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>_id</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>self.tag.addr</text>
